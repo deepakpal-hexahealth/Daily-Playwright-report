@@ -1,0 +1,1269 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "HexaHealth Colored Logo" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img "HexaHealth Colored Logo" [ref=e8]
+        - generic [ref=e9]:
+          - generic [ref=e11]:
+            - link [ref=e12] [cursor=pointer]:
+              - /url: tel:+918065827392
+            - link "WhatsApp Expert" [ref=e13] [cursor=pointer]:
+              - /url: https://wa.me/918860688606?text=Hi, I want to connect with an expert from Narayana Superspeciality Hospital, Sector 24, Gurgaon Hospital-ID=17 Tier-ID=1
+          - img [ref=e16] [cursor=pointer]
+          - img "menu" [ref=e19]
+    - paragraph [ref=e23] [cursor=pointer]: Get Second Opinion from Top Surgeons! Book an Appointment »
+    - text: "*"
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - img "Narayana Superspeciality Hospital, Sector 24, Gurgaon" [ref=e26]
+        - generic [ref=e31] [cursor=pointer]:
+          - text: "+8"
+          - text: View All
+      - heading "Narayana Hospital Gurugram - Appointment & OPD Timings" [level=1] [ref=e32]
+      - generic [ref=e34]:
+        - generic [ref=e35]:
+          - img "Hexa Assured" [ref=e36] [cursor=pointer]
+          - generic [ref=e37]:
+            - img "JCI certified" [ref=e38]
+            - img "JCI certified" [ref=e39]
+        - generic [ref=e40]:
+          - generic [ref=e41]:
+            - generic [ref=e42]:
+              - link "97 Doctors" [ref=e43] [cursor=pointer]:
+                - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list#doctors
+              - link "18 Specialities" [ref=e45] [cursor=pointer]:
+                - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram#treatments
+              - generic [ref=e46]: Multi-Speciality Hospital
+            - paragraph [ref=e48]: "Timing: 24 x 7 Open"
+          - link "4.8/5 98 Ratings" [ref=e49] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram#reviews
+            - paragraph [ref=e51]: 4.8/5
+            - paragraph [ref=e53]: 98 Ratings
+        - generic [ref=e54]: 34 patients enquired about the doctor in last 1 hour.
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - paragraph [ref=e57]:
+              - generic [ref=e58]: Address
+            - paragraph [ref=e59]: Sector 24, Gurgaon, Haryana
+          - link "Chat Now" [ref=e61] [cursor=pointer]:
+            - /url: https://wa.me/918860688606?text=Hi, I want to connect with an expert from Narayana Superspeciality Hospital, Sector 24, Gurgaon Hospital-ID=17 Tier-ID=1
+            - img [ref=e62]
+            - text: Chat Now
+        - generic [ref=e63]:
+          - button "Book Appointment" [ref=e64] [cursor=pointer]:
+            - generic [ref=e65]: Book Appointment
+          - link "WhatsApp Expert" [ref=e66] [cursor=pointer]:
+            - /url: https://wa.me/918860688606?text=Hi, I want to connect with an expert from Narayana Superspeciality Hospital, Sector 24, Gurgaon Hospital-ID=17 Tier-ID=1
+    - navigation [ref=e67]:
+      - generic [ref=e70]:
+        - link "About" [ref=e71] [cursor=pointer]:
+          - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram#about
+        - link "Doctors" [ref=e72] [cursor=pointer]:
+          - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list
+        - link "Reviews" [ref=e73] [cursor=pointer]:
+          - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/reviews
+        - link "Treatments" [ref=e74] [cursor=pointer]:
+          - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram#treatments
+        - link "Amenities" [ref=e75] [cursor=pointer]:
+          - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram#amenities
+        - link "Insurances" [ref=e76] [cursor=pointer]:
+          - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram#insurances
+        - link "FAQs" [ref=e77] [cursor=pointer]:
+          - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram#faqs
+    - generic [ref=e81]:
+      - generic [ref=e83]:
+        - generic [ref=e84]:
+          - generic [ref=e85]: Limited Slots Only
+          - heading "Book Doctor Appointment at Narayana Superspeciality Hospital, Sector 24, Gurgaon" [level=2] [ref=e86]
+        - generic [ref=e87]:
+          - textbox "Enter your name*" [ref=e91]
+          - generic [ref=e95]:
+            - generic [ref=e96]: "+91"
+            - spinbutton [ref=e98]
+          - button "Select Speciality" [ref=e102] [cursor=pointer]
+          - button "Book Appointment" [ref=e103] [cursor=pointer]
+          - paragraph [ref=e104]:
+            - text: "*By proceeding, you agree to our"
+            - link "terms and conditions" [ref=e105] [cursor=pointer]:
+              - /url: /terms-conditions
+      - generic [ref=e108]:
+        - heading "About Narayana Hospital Gurugram" [level=2] [ref=e109]
+        - generic [ref=e110]:
+          - generic [ref=e111]:
+            - paragraph [ref=e112]:
+              - text: Narayana Superspeciality Hospital Sector 24 Gurugram, is a
+              - strong [ref=e113]: NABH-accredited
+              - text: ", state-of-the-art medical facility catering to the healthcare needs of the NCR region."
+            - paragraph [ref=e114]:
+              - text: With
+              - strong [ref=e115]: 222 beds and a team of 194 skilled doctors
+              - text: ", the hospital reflects Narayana Health’s dedication to delivering high-quality, patient-focused care."
+            - paragraph [ref=e116]: Backed by experienced clinicians, trained nurses, and expert support staff, the hospital ensures advanced treatment and compassionate service.
+            - paragraph [ref=e117]: Conveniently located near DLF Cyber City, it stands as one of the closest and most trusted super speciality hospitals in the area. It offers various amenities, such as private rooms, a cafeteria, and a pharmacy, to make the patient's stay as comfortable as possible.
+            - heading "Vision, Mission & Values" [level=3] [ref=e118]:
+              - strong [ref=e119]: Vision, Mission & Values
+            - paragraph [ref=e120]: Narayana Hospital Gurugram has a patient-centric approach to providing personalized care to each patient.
+            - paragraph [ref=e121]: In addition to providing high-quality medical care, Narayana Health Gurgaon is committed to community service and runs various health programs to educate and raise awareness about health issues.
+            - paragraph [ref=e122]: The hospital also organizes health camps and free medical checkups for underprivileged communities.
+            - heading "Narayana Hospital Journey" [level=3] [ref=e123]:
+              - strong [ref=e124]: Narayana Hospital Journey
+            - paragraph [ref=e125]:
+              - text: Narayana Health was
+              - strong [ref=e126]: established in 2000
+              - text: by eminent cardiac surgeon
+              - strong [ref=e127]: Dr. Devi Prasad Shetty
+              - text: ", beginning as a"
+              - strong [ref=e128]: 280-bed cardiac facility in Bengaluru
+              - text: .
+            - paragraph [ref=e129]:
+              - text: Today, it has grown into one of India’s largest and most respected healthcare networks, comprising
+              - strong [ref=e130]: 24 hospitals, 7 heart centres
+              - text: ", and an international presence in the Cayman Islands."
+            - paragraph [ref=e131]:
+              - strong [ref=e132]: Rebranded in 2013
+              - text: ", the group now delivers over 30 medical specialties, with"
+              - strong [ref=e133]: 3 hospitals accredited by JCI
+              - text: ", all while staying true to its mission of delivering accessible and high-quality healthcare."
+            - heading "Board of Directors" [level=3] [ref=e134]:
+              - strong [ref=e135]: Board of Directors
+            - list [ref=e136]:
+              - listitem [ref=e137]: Dr. Devi Prasad Shetty – Founder and Executive Chairman
+              - listitem [ref=e138]: Dr. Emmanuel Rupert – Managing Director & Group CEO
+              - listitem [ref=e139]: Mr. Viren Prasad Shetty – Executive Vice-Chairman & Whole-Time Director
+              - listitem [ref=e140]: Dr. Nachiket Mor – Independent Director
+              - listitem [ref=e141]: Ms. Terri Smith Bresenham – Independent Director
+              - listitem [ref=e142]: Mr. Naveen Tewari – Independent Director
+              - listitem [ref=e143]: Ms. Nivruti Rai – Additional & Non-Executive Director
+              - listitem [ref=e144]: Mr. Anesh Shetty – Additional & Non-Executive Director
+              - listitem [ref=e145]: Mr. Shankar Arunachalam – Independent Director
+            - heading "NH Narayana Superspeciality Hospital Facilities" [level=3] [ref=e146]:
+              - strong [ref=e147]: NH Narayana Superspeciality Hospital Facilities
+            - paragraph [ref=e148]: "Narayana Superspeciality Hospital Gurugram has most up-to-date medical facilities, including:"
+            - list [ref=e149]:
+              - listitem [ref=e150]: "No. of beds with World-class Intensive Care Units: 215"
+              - listitem [ref=e151]: "Modular Operation Theaters: 6"
+              - listitem [ref=e152]: Advanced Critical Care and Dialysis Unit
+              - listitem [ref=e153]: State-of-the-art Radiology unit with MRI, CT scan and ultrasound
+              - listitem [ref=e154]: "State-of-art Cath Labs with Rota and IVUS facilities: 2"
+              - listitem [ref=e155]: Fully Equipped Laboratory Medicine and Blood Bank
+              - listitem [ref=e156]: Physiotherapy & Rehabilitation Department
+              - listitem [ref=e157]: Advanced Dental Care for Paediatric and Adult
+            - heading "Narayana Hospital Gurgaon Specialities" [level=3] [ref=e158]:
+              - strong [ref=e159]: Narayana Hospital Gurgaon Specialities
+            - paragraph [ref=e160]: "Narayana Gurgaon offers specialized medical services in various fields, including:"
+            - list [ref=e161]:
+              - listitem [ref=e162]: Cardiology and Cardiac Sciences
+              - listitem [ref=e163]: Neurology
+              - listitem [ref=e164]: Gastroenterology
+              - listitem [ref=e165]: Urology
+              - listitem [ref=e166]: Nephrology
+              - listitem [ref=e167]: Orthopaedics
+              - listitem [ref=e168]: Oncology and BMT
+              - listitem [ref=e169]: Anaesthesia
+              - listitem [ref=e170]: Breast Cancer
+              - listitem [ref=e171]: Haematology
+              - listitem [ref=e172]: Head and Neck Surgery
+              - listitem [ref=e173]: Heart Transplant
+              - listitem [ref=e174]: Hepatology and Liver Transplantation
+              - listitem [ref=e175]: Infectious Disease and Integrative Oncology
+              - listitem [ref=e176]: Internal Medicine
+              - listitem [ref=e177]: Obstetrics and Gynaecology
+              - listitem [ref=e178]: Ophthalmology
+              - listitem [ref=e179]: Gastro Sciences
+              - listitem [ref=e180]: Pulmonology
+              - listitem [ref=e181]: General Surgery
+              - listitem [ref=e182]: Dental and ENT
+            - heading "Narayana Superspeciality Hospital Gurgaon Services" [level=3] [ref=e183]:
+              - strong [ref=e184]: Narayana Superspeciality Hospital Gurgaon Services
+            - paragraph [ref=e185]: "Narayana Hospital Gurgaon is equipped with advanced medical technologies and offers various services, such as:"
+            - list [ref=e186]:
+              - listitem [ref=e187]: 24/7 Trauma Care and Pharmacy Services
+              - listitem [ref=e188]: 24/7 Radiology Services - 128 Slice CT Scan, 3.0 Tesla MRI
+              - listitem [ref=e189]: Round-the-clock critical care ambulance
+              - listitem [ref=e190]: 24/7 dialysis services
+            - heading "Book Appointment at Narayana Hospital DLF Phase 3" [level=3] [ref=e191]:
+              - strong [ref=e192]: Book Appointment at Narayana Hospital DLF Phase 3
+            - paragraph [ref=e193]: Connect to the top doctors by calling at Narayana Hospital Gurgaon contact number 8035240555. To learn about fees, timings, connect with our medical experts of HexaHealth.
+            - paragraph [ref=e194]: Now, you can have priority appointments and a hassle-free experience via the medical experts of HexaHealth.
+          - generic [ref=e195] [cursor=pointer]: read more
+        - generic [ref=e196]:
+          - paragraph [ref=e197]: Accreditation
+          - generic [ref=e198]:
+            - generic [ref=e199]:
+              - img [ref=e200]
+              - generic [ref=e201]: JCI
+            - generic [ref=e202]:
+              - img [ref=e203]
+              - generic [ref=e204]: NABH
+      - generic [ref=e205]:
+        - generic [ref=e206]:
+          - heading "Timings" [level=3] [ref=e207]
+          - paragraph [ref=e208]: Open 24 hours
+        - generic [ref=e210]:
+          - generic [ref=e211]:
+            - heading "Address" [level=3] [ref=e212]
+            - paragraph [ref=e213]: Narayana Superspeciality Hospital, Sector 24, Plot 3201, Block - V DLF Phase - III, Nathupur, Sector 24, Gurgaon, Haryana, 122002
+          - link "map" [ref=e214] [cursor=pointer]:
+            - /url: https://maps.google.com/?q=Narayana Superspeciality Hospital, Sector 24&oq=Gurgaon
+            - img "map" [ref=e216]
+        - generic [ref=e217]:
+          - generic [ref=e218]:
+            - heading "Narayana Superspeciality Hospital, Sector 24 Photos" [level=3] [ref=e219]
+            - paragraph [ref=e220]: Narayana Superspeciality Hospital, Sector 24 photos include interior view, exterior view, reception area, OPD room, IPD room, emergency, facilities and more.
+          - generic [ref=e222] [cursor=pointer]:
+            - img "Narayana Superspeciality Hospital, Sector 24 Room Photo" [ref=e224]
+            - img "Narayana Superspeciality Hospital, Sector 24 Ward Photo" [ref=e226]
+            - img "Narayana Superspeciality Hospital, Sector 24 Waiting Area Photo" [ref=e228]
+            - img "Narayana Superspeciality Hospital, Sector 24 Building Photo" [ref=e230]
+            - generic [ref=e231]:
+              - generic [ref=e232]:
+                - text: "+6"
+                - text: View All
+              - img "Narayana Superspeciality Hospital, Sector 24 Radiology Photo" [ref=e233]
+            - generic:
+              - img "Narayana Superspeciality Hospital, Sector 24 Operation Theatre Photo"
+            - generic:
+              - img "Narayana Superspeciality Hospital, Sector 24 Diagnostic Test Photo"
+            - generic:
+              - img "Narayana Superspeciality Hospital, Sector 24 Billing Photo"
+            - generic:
+              - img "Narayana Superspeciality Hospital, Sector 24 Cafetaria Photo"
+            - generic:
+              - img "Narayana Superspeciality Hospital, Sector 24 Emergency Photo"
+      - link [ref=e235] [cursor=pointer]:
+        - /url: https://wa.me/918860688606?text=Hi,%20I%20want%20to%20connect%20with%20an%20expert%20from%20Narayana%20Superspeciality%20Hospital,%20Sector%2024,%20Gurgaon%20Hospital-ID=17%20Tier-ID=1
+        - img [ref=e236]
+      - generic [ref=e237]:
+        - heading "Narayana Superspeciality Hospital Gurugram Doctors (97)" [level=2] [ref=e240]
+        - paragraph [ref=e241]: Explore the list of doctors at Narayana Superspeciality Hospital, Sector 24, Gurgaon. View details and book an online appointment with an expert doctor at Narayana Superspeciality Hospital, Sector 24, Gurgaon.
+        - generic [ref=e242]:
+          - generic [ref=e243] [cursor=pointer]: All (97)
+          - link "Neurologist (4)" [ref=e245] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/neurologist#doctors
+          - link "Ophthalmologist (4)" [ref=e247] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/ophthalmologist#doctors
+          - link "Haematologist (1)" [ref=e249] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/haematologist#doctors
+          - link "Cardiologist (4)" [ref=e251] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/cardiologist#doctors
+          - link "Gastroenterologist (4)" [ref=e253] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/gastroenterologist#doctors
+          - link "Internal Medicine Specialist (6)" [ref=e255] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/internal-medicine-specialist#doctors
+          - link "Obstetrician / Gynaecologist (2)" [ref=e257] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/obstetrician-gynaecologist#doctors
+          - link "Gastrointestinal Surgeon (3)" [ref=e259] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/gastrointestinal-surgeon#doctors
+          - link "Radiation Oncologist (5)" [ref=e261] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/radiation-oncologist#doctors
+          - link "Cardiothoracic and Vascular Surgeon (2)" [ref=e263] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/cardiothoracic-and-vascular-surgeon#doctors
+          - link "General Surgeon (11)" [ref=e265] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/general-surgeon#doctors
+          - link "Urologist (8)" [ref=e267] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/urologist#doctors
+          - link "Physiotherapist (1)" [ref=e269] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/physiotherapist#doctors
+          - link "Medical Oncologist (1)" [ref=e271] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/medical-oncologist#doctors
+          - link "Paediatrician (2)" [ref=e273] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/paediatrician#doctors
+          - link "Pulmonologist (2)" [ref=e275] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/pulmonologist#doctors
+          - link "Surgical Oncologist (7)" [ref=e277] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/surgical-oncologist#doctors
+          - link "Anaesthesiologist (2)" [ref=e279] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/anaesthesiologist#doctors
+          - link "ENT Specialist (2)" [ref=e281] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/ent-specialist#doctors
+          - link "Dentist (1)" [ref=e283] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/dentist#doctors
+          - link "Neurosurgeon (4)" [ref=e285] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/neurosurgeon#doctors
+          - link "Orthopedic Surgeon (3)" [ref=e287] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/orthopedic-surgeon#doctors
+          - link "Dermatologist (1)" [ref=e289] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/dermatologist#doctors
+          - link "Critical Care Specialist (1)" [ref=e291] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/critical-care-specialist#doctors
+          - link "Nephrologist (3)" [ref=e293] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/nephrologist#doctors
+          - link "Psychiatrist/Psychologist (6)" [ref=e295] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/psychiatrist-psychologist#doctors
+          - link "Plastic Surgeon (5)" [ref=e297] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/plastic-surgeon#doctors
+          - link "Radiologist (1)" [ref=e299] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/radiologist#doctors
+          - link "Rheumatologist (1)" [ref=e301] [cursor=pointer]:
+            - /url: /gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list/rheumatologist#doctors
+        - generic [ref=e302]:
+          - generic [ref=e304]:
+            - generic [ref=e305]:
+              - link "Dr. Meena Gupta Neurologist in Gurgaon Hexa Partner" [ref=e307] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/gurgaon/doctor/dr-meena-gupta-neurologist
+                - generic [ref=e308]:
+                  - img "Dr. Meena Gupta Neurologist in Gurgaon" [ref=e309]
+                  - img "Hexa Partner" [ref=e312]
+              - generic [ref=e313]:
+                - paragraph [ref=e315]:
+                  - link "Dr. Meena Gupta" [ref=e316] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/gurgaon/doctor/dr-meena-gupta-neurologist
+                - paragraph [ref=e318]: Neurologist
+                - generic [ref=e319] [cursor=pointer]:
+                  - generic [ref=e320]:
+                    - paragraph [ref=e322]:
+                      - generic [ref=e323]: 55+ Years
+                    - paragraph [ref=e324]: Experience
+                  - generic [ref=e325]:
+                    - paragraph [ref=e327]:
+                      - generic [ref=e328]: 96%
+                    - paragraph [ref=e329]: Recommended
+            - generic [ref=e330]:
+              - text: "Consultation Fee:"
+              - generic [ref=e331]: ₹1500
+              - text: (approximate)
+            - button "Book Appointment" [ref=e333] [cursor=pointer]
+          - generic [ref=e335]:
+            - generic [ref=e336]:
+              - link "Dr. Dinesh Narain Saksena Ophthalmologist in Gurgaon Hexa Partner" [ref=e338] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/gurgaon/doctor/dr-dinesh-narain-saksena-ophthalmology
+                - generic [ref=e339]:
+                  - img "Dr. Dinesh Narain Saksena Ophthalmologist in Gurgaon" [ref=e340]
+                  - img "Hexa Partner" [ref=e343]
+              - generic [ref=e344]:
+                - paragraph [ref=e346]:
+                  - link "Dr. Dinesh Narain Saksena" [ref=e347] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/gurgaon/doctor/dr-dinesh-narain-saksena-ophthalmology
+                - paragraph [ref=e349]: Ophthalmologist
+                - generic [ref=e350] [cursor=pointer]:
+                  - generic [ref=e351]:
+                    - paragraph [ref=e353]:
+                      - generic [ref=e354]: 51+ Years
+                    - paragraph [ref=e355]: Experience
+                  - generic [ref=e356]:
+                    - paragraph [ref=e358]:
+                      - generic [ref=e359]: 98%
+                    - paragraph [ref=e360]: Recommended
+            - generic [ref=e361]:
+              - text: "Consultation Fee:"
+              - generic [ref=e362]: ₹1500
+              - text: (approximate)
+            - button "Book Appointment" [ref=e364] [cursor=pointer]
+          - generic [ref=e366]:
+            - generic [ref=e367]:
+              - link "Dr. Pankaj Abrol Haematologist in Gurgaon Hexa Partner" [ref=e369] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/gurgaon/doctor/dr-pankaj-abrol-paediatric-haematology-oncologist-and-bmt-speciali
+                - generic [ref=e370]:
+                  - img "Dr. Pankaj Abrol Haematologist in Gurgaon" [ref=e371]
+                  - img "Hexa Partner" [ref=e374]
+              - generic [ref=e375]:
+                - paragraph [ref=e377]:
+                  - link "Dr. Pankaj Abrol" [ref=e378] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/gurgaon/doctor/dr-pankaj-abrol-paediatric-haematology-oncologist-and-bmt-speciali
+                - paragraph [ref=e380]: Haematologist
+                - generic [ref=e381] [cursor=pointer]:
+                  - generic [ref=e382]:
+                    - paragraph [ref=e384]:
+                      - generic [ref=e385]: 49+ Years
+                    - paragraph [ref=e386]: Experience
+                  - generic [ref=e387]:
+                    - paragraph [ref=e389]:
+                      - generic [ref=e390]: 98%
+                    - paragraph [ref=e391]: Recommended
+            - generic [ref=e392]:
+              - text: "Consultation Fee:"
+              - generic [ref=e393]: ₹1500
+              - text: (approximate)
+            - button "Book Appointment" [ref=e395] [cursor=pointer]
+          - generic [ref=e397]:
+            - generic [ref=e398]:
+              - link "Dr. Hemant Madan Cardiologist in Gurgaon Hexa Partner" [ref=e400] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/gurgaon/doctor/dr-hemant-madan-prof-cardiology
+                - generic [ref=e401]:
+                  - img "Dr. Hemant Madan Cardiologist in Gurgaon" [ref=e402]
+                  - img "Hexa Partner" [ref=e405]
+              - generic [ref=e406]:
+                - paragraph [ref=e408]:
+                  - link "Dr. Hemant Madan" [ref=e409] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/gurgaon/doctor/dr-hemant-madan-prof-cardiology
+                - paragraph [ref=e411]: Cardiologist
+                - generic [ref=e412] [cursor=pointer]:
+                  - generic [ref=e413]:
+                    - paragraph [ref=e415]:
+                      - generic [ref=e416]: 38+ Years
+                    - paragraph [ref=e417]: Experience
+                  - generic [ref=e418]:
+                    - paragraph [ref=e420]:
+                      - generic [ref=e421]: 97%
+                    - paragraph [ref=e422]: Recommended
+            - generic [ref=e423]:
+              - text: "Consultation Fee:"
+              - generic [ref=e424]: ₹1500
+              - text: (approximate)
+            - button "Book Appointment" [ref=e426] [cursor=pointer]
+        - link "View All Doctors" [ref=e427] [cursor=pointer]:
+          - /url: https://www.hexahealth.com/gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/doctors-list
+      - generic [ref=e428]:
+        - heading "Doctor Speaks" [level=2] [ref=e430]
+        - generic [ref=e431]:
+          - generic [ref=e433]:
+            - generic [ref=e436]:
+              - img "Youtube" [ref=e438]
+              - generic [ref=e440]:
+                - generic [ref=e441]:
+                  - paragraph [ref=e442]: "Pediatric Liver Transplantation: Hope and Healing with Dr. Sanjay Goja"
+                  - paragraph
+                - generic [ref=e444]: 1 years ago
+            - generic [ref=e447]:
+              - img "Youtube" [ref=e449]
+              - generic [ref=e451]:
+                - generic [ref=e452]:
+                  - paragraph [ref=e453]: How is Robotic Liver Surgery different from Conventional Liver Surgery? || HexaHealth Expert
+                  - paragraph
+                - generic [ref=e455]: 1 years ago
+            - generic [ref=e458]:
+              - img "Youtube" [ref=e460]
+              - generic [ref=e462]:
+                - generic [ref=e463]:
+                  - paragraph [ref=e464]: Why Treatment for Gallbladder Cancer Should not be Delayed? ||HexaHealth Expert
+                  - paragraph
+                - generic [ref=e466]: 1 years ago
+            - generic [ref=e469]:
+              - img "Youtube" [ref=e471]
+              - generic [ref=e473]:
+                - generic [ref=e474]:
+                  - paragraph [ref=e475]: How should a patient choose Robotic Liver Surgeon? ||HexaHealth Expert
+                  - paragraph
+                - generic [ref=e477]: 1 years ago
+            - generic [ref=e480]:
+              - img "Youtube" [ref=e482]
+              - generic [ref=e484]:
+                - generic [ref=e485]:
+                  - paragraph [ref=e486]: How does a patient decide whether the surgery can be done through Robots? ||HexaHealth Expert
+                  - paragraph
+                - generic [ref=e488]: 1 years ago
+            - generic [ref=e491]:
+              - img "Youtube" [ref=e493]
+              - generic [ref=e495]:
+                - generic [ref=e496]:
+                  - paragraph [ref=e497]: Difference between Robotic Liver Surgery and Laparoscopic Liver Surgery?||HexaHealth Expert
+                  - paragraph
+                - generic [ref=e499]: 1 years ago
+            - generic [ref=e502]:
+              - img "Youtube" [ref=e504]
+              - generic [ref=e506]:
+                - generic [ref=e507]:
+                  - paragraph [ref=e508]: Advantages of Robotic Liver Surgery ||HexaHealth Expert
+                  - paragraph
+                - generic [ref=e510]: 1 years ago
+            - generic [ref=e513]:
+              - img "Youtube" [ref=e515]
+              - generic [ref=e517]:
+                - generic [ref=e518]:
+                  - paragraph [ref=e519]: Who should opt for a Robotic Liver Surgery? ||HexaHealth Expert
+                  - paragraph
+                - generic [ref=e521]: 1 years ago
+            - generic [ref=e524]:
+              - img "Youtube" [ref=e526]
+              - generic [ref=e528]:
+                - generic [ref=e529]:
+                  - paragraph [ref=e530]: Role & Application of Surgical Robots in Liver & HPB Surgery|| HexaHealth Expert
+                  - paragraph
+                - generic [ref=e532]: 1 years ago
+          - generic [ref=e533]:
+            - button "Go to slide 1" [ref=e534] [cursor=pointer]
+            - button "Go to slide 2" [ref=e535] [cursor=pointer]
+            - button "Go to slide 3" [ref=e536] [cursor=pointer]
+            - button "Go to slide 4" [ref=e537] [cursor=pointer]
+            - button "Go to slide 5" [ref=e538] [cursor=pointer]
+      - generic [ref=e539]:
+        - heading "Patient Reviews of Narayana Hospital Gurgaon, DLF Phase-3" [level=2] [ref=e540]
+        - generic [ref=e541]:
+          - generic [ref=e542]:
+            - heading "4.8" [level=3] [ref=e544]
+            - paragraph [ref=e545]: Based on 98 ratings
+          - generic [ref=e546] [cursor=pointer]: Write a Review
+        - generic [ref=e547]:
+          - separator [ref=e548]
+          - generic [ref=e550]:
+            - heading "Success Stories" [level=3] [ref=e552]
+            - generic [ref=e553]:
+              - generic [ref=e555]:
+                - generic [ref=e558]:
+                  - img "Youtube" [ref=e560]
+                  - generic [ref=e562]:
+                    - generic [ref=e563]:
+                      - paragraph [ref=e564]: "HexaHealth Tales Ep08: Successful Liver Transplant || HexaHealth Review"
+                      - paragraph
+                    - generic [ref=e566]: 1 years ago
+                - generic [ref=e569]:
+                  - img "Youtube" [ref=e571]
+                  - generic [ref=e573]:
+                    - generic [ref=e574]:
+                      - paragraph [ref=e575]: "HexaHealth Tales Ep07: Successful Liver Transplant || HexaHealth Review"
+                      - paragraph
+                    - generic [ref=e577]: 1 years ago
+                - generic [ref=e580]:
+                  - img "Youtube" [ref=e582]
+                  - generic [ref=e584]:
+                    - generic [ref=e585]:
+                      - paragraph [ref=e586]: How we defeated Liver Failure || HexaHealth Tales Ep-04 || Liver Transplant Success Story
+                      - paragraph
+                    - generic [ref=e588]: 1 years ago
+                - generic [ref=e591]:
+                  - img "Youtube" [ref=e593]
+                  - generic [ref=e595]:
+                    - generic [ref=e596]:
+                      - paragraph [ref=e597]: How we defeated Liver Failure || HexaHealth Tales Ep-03 || Liver Transplant Success Story
+                      - paragraph
+                    - generic [ref=e599]: 1 years ago
+              - generic [ref=e600]:
+                - button "Go to slide 1" [ref=e601] [cursor=pointer]
+                - button "Go to slide 2" [ref=e602] [cursor=pointer]
+                - button "Go to slide 3" [ref=e603] [cursor=pointer]
+                - button "Go to slide 4" [ref=e604] [cursor=pointer]
+        - generic [ref=e605]:
+          - generic [ref=e609]:
+            - generic [ref=e610]:
+              - generic [ref=e611] [cursor=pointer]: VD
+              - generic [ref=e612]: Vikram Dhillon
+            - generic [ref=e614]: 5 months ago
+          - paragraph [ref=e615]: Effective treatment, in depth consultation
+        - generic [ref=e616]:
+          - generic [ref=e620]:
+            - generic [ref=e621]:
+              - generic [ref=e622] [cursor=pointer]: RS
+              - generic [ref=e623]: Radhika Sharma
+            - generic [ref=e625]: 1 year ago
+          - paragraph [ref=e626]: The care and cleanliness were excellent.
+        - generic [ref=e627]:
+          - generic [ref=e631]:
+            - generic [ref=e632]:
+              - generic [ref=e633] [cursor=pointer]: AS
+              - generic [ref=e634]: Amit Sharma
+            - generic [ref=e636]: 1 year ago
+          - paragraph [ref=e637]: मेरी स्थिति में सुधार आया।
+        - generic [ref=e638]:
+          - generic [ref=e642]:
+            - generic [ref=e643]:
+              - generic [ref=e644] [cursor=pointer]: RM
+              - generic [ref=e645]: Rahul Meena
+            - generic [ref=e647]: 1 year ago
+          - paragraph [ref=e648]: Hospital ka staff cooperative tha.
+        - generic [ref=e649]:
+          - generic [ref=e653]:
+            - generic [ref=e654]:
+              - generic [ref=e655] [cursor=pointer]: वग
+              - generic [ref=e656]: विनय गोयल
+            - generic [ref=e658]: 1 year ago
+          - paragraph [ref=e659]: मैंने अपनी डाइबिटीज की जांच के लिए नारायणा हॉस्पिटल गुड़गांव में डॉक्टर से संपर्क किया।
+        - generic [ref=e660]:
+          - separator [ref=e661]
+          - link "Show more" [ref=e662] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/narayana-superspeciality-hospital-sector-24-gurgram/reviews
+          - separator [ref=e663]
+      - generic [ref=e664]:
+        - generic [ref=e665]:
+          - heading "Top Specialities & Treatments Available at Narayana Hospital Gurugram" [level=2] [ref=e667] [cursor=pointer]
+          - generic "Top Specialities & Treatments Available at Narayana Hospital Gurugram" [ref=e668]:
+            - generic [ref=e672]:
+              - generic [ref=e673]:
+                - generic [ref=e674]: Narayana Superspeciality Hospital, Sector 24, Gurgaon specialises in the following specialities and treatments, all provided by a team of renowned and highly skilled doctors.
+                - generic [ref=e675] [cursor=pointer]: read more
+              - list [ref=e676]:
+                - listitem [ref=e677]:
+                  - heading "General Surgery (39)" [level=3] [ref=e678]
+                - listitem [ref=e679]:
+                  - heading "ENT (16)" [level=3] [ref=e680]
+                - listitem [ref=e681]:
+                  - heading "Obstetrics and Gynaecology (16)" [level=3] [ref=e682]
+                - listitem [ref=e683]:
+                  - heading "Orthopaedic (23)" [level=3] [ref=e684]
+                - listitem [ref=e685]:
+                  - heading "Urology (27)" [level=3] [ref=e686]
+                - listitem [ref=e687]:
+                  - heading "Ophthalmology (10)" [level=3] [ref=e688]
+                - listitem [ref=e689]:
+                  - heading "CTVS Surgery (11)" [level=3] [ref=e690]
+                - listitem [ref=e691]:
+                  - heading "Neurosurgery (11)" [level=3] [ref=e692]
+                - listitem [ref=e693]:
+                  - heading "Plastic Surgery (29)" [level=3] [ref=e694]
+                - listitem [ref=e695]:
+                  - heading "Paediatric Surgery (1)" [level=3] [ref=e696]
+              - button "Show more" [ref=e698] [cursor=pointer]
+        - heading "Amenities" [level=2] [ref=e701] [cursor=pointer]
+        - heading "Awards & Recognitions" [level=2] [ref=e704] [cursor=pointer]
+        - heading "Published Paper" [level=2] [ref=e707] [cursor=pointer]
+      - button "Request for correction" [ref=e709] [cursor=pointer]
+      - generic [ref=e710]:
+        - heading "Health Insurance Plans Accepted at Narayana Superspeciality Hospital Gurgaon" [level=2] [ref=e711]
+        - generic [ref=e712]:
+          - paragraph [ref=e714]: Narayana Superspeciality Hospital, Sector 24, Gurgaon deals with the flexible insurance options to get your emergency and health treatment done through Empanelled TPA. Check the list of all panelled insurance accepted by Narayana Superspeciality Hospital, Sector 24, Gurgaon.
+          - generic [ref=e715] [cursor=pointer]: read more
+        - generic [ref=e716]:
+          - generic [ref=e717]:
+            - link "Bharti AXA Health Insurance Logo Bharti AXA Health Insurance" [ref=e719] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/hospitals/insurance/bharti-axa-health-insurance
+              - img "Bharti AXA Health Insurance Logo" [ref=e720]
+              - text: Bharti AXA Health Insurance
+            - link "Edelweiss Health Insurance Logo Edelweiss Health Insurance" [ref=e722] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/hospitals/insurance/edelweiss-health-insurance
+              - img "Edelweiss Health Insurance Logo" [ref=e723]
+              - text: Edelweiss Health Insurance
+            - link "Future Generali Health Insurance Logo Future Generali Health Insurance" [ref=e725] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/hospitals/insurance/future-generali-health-insurance
+              - img "Future Generali Health Insurance Logo" [ref=e726]
+              - text: Future Generali Health Insurance
+            - link "Max Bupa Health Insurance Logo Max Bupa Health Insurance" [ref=e728] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/hospitals/insurance/max-bupa-health-insurance
+              - img "Max Bupa Health Insurance Logo" [ref=e729]
+              - text: Max Bupa Health Insurance
+            - link "National Insurance Logo National Insurance" [ref=e731] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/hospitals/insurance/national-insurance
+              - img "National Insurance Logo" [ref=e732]
+              - text: National Insurance
+            - link "Navi General Logo Navi General" [ref=e734] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/hospitals/insurance/navi-general
+              - img "Navi General Logo" [ref=e735]
+              - text: Navi General
+            - link "New India Assurance Logo New India Assurance" [ref=e737] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/hospitals/insurance/new-india-assurance
+              - img "New India Assurance Logo" [ref=e738]
+              - text: New India Assurance
+            - link "Oriental Insurance Logo Oriental Insurance" [ref=e740] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/hospitals/insurance/oriental-insurance
+              - img "Oriental Insurance Logo" [ref=e741]
+              - text: Oriental Insurance
+            - link "Raheja QBE Logo Raheja QBE" [ref=e743] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/hospitals/insurance/raheja-qbe
+              - img "Raheja QBE Logo" [ref=e744]
+              - text: Raheja QBE
+            - link "Reliance General Insurance Logo Reliance General Insurance" [ref=e746] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/hospitals/insurance/reliance-general-insurance
+              - img "Reliance General Insurance Logo" [ref=e747]
+              - text: Reliance General Insurance
+          - generic [ref=e748]:
+            - separator [ref=e749]
+            - button "Show more" [ref=e750] [cursor=pointer]
+            - separator [ref=e751]
+      - link [ref=e753] [cursor=pointer]:
+        - /url: https://wa.me/918860688606?text=Hi,%20I%20want%20to%20connect%20with%20an%20expert%20from%20Narayana%20Superspeciality%20Hospital,%20Sector%2024,%20Gurgaon%20Hospital-ID=17%20Tier-ID=1
+        - img [ref=e754]
+      - generic [ref=e757]:
+        - heading "FAQs" [level=2] [ref=e758]
+        - generic [ref=e759]:
+          - heading "What is Narayana Hospital Gurgaon address?" [level=3] [ref=e763] [cursor=pointer]:
+            - text: What is
+            - strong [ref=e764]: Narayana Hospital Gurgaon address
+            - text: "?"
+          - heading "Which specialities and treatments are offered by Narayana Superspeciality Hospital Gurgaon?" [level=3] [ref=e768] [cursor=pointer]:
+            - text: Which
+            - strong [ref=e769]: specialities and treatments
+            - text: are offered by Narayana Superspeciality Hospital Gurgaon?
+          - heading "How to book an online appointment with Narayana Superspeciality Hospital Sector 24 Gurgaon?" [level=3] [ref=e773] [cursor=pointer]:
+            - text: How to
+            - strong [ref=e774]: book an online appointment
+            - text: with Narayana Superspeciality Hospital Sector 24 Gurgaon?
+          - heading "Who are the top doctors working in Narayana Hospital Gurugram?" [level=3] [ref=e778] [cursor=pointer]:
+            - text: Who are the
+            - strong [ref=e779]: top doctors
+            - text: working in Narayana Hospital Gurugram?
+          - heading "What are the facilities available at the Narayana Hospital DLF Phase 3?" [level=3] [ref=e783] [cursor=pointer]:
+            - text: What are the
+            - strong [ref=e784]: facilities available
+            - text: at the Narayana Hospital DLF Phase 3?
+          - heading "What is the Narayana Hospital Gurgaon contact number?" [level=3] [ref=e788] [cursor=pointer]:
+            - text: What is the
+            - strong [ref=e789]: Narayana Hospital Gurgaon contact number
+            - text: "?"
+          - heading "Does NH Gurugram accept medical insurance?" [level=3] [ref=e793] [cursor=pointer]:
+            - text: Does NH Gurugram accept
+            - strong [ref=e794]: medical insurance
+            - text: "?"
+          - heading "Which are the top empanelled insurances with Narayana Gurgaon?" [level=3] [ref=e798] [cursor=pointer]:
+            - text: Which are the
+            - strong [ref=e799]: top empanelled insurances
+            - text: with Narayana Gurgaon?
+          - heading "Is Narayana Hospital Gurgaon empanelled for the CGHS facility?" [level=3] [ref=e803] [cursor=pointer]:
+            - text: Is Narayana Hospital Gurgaon empanelled for the
+            - strong [ref=e804]: CGHS facility
+            - text: "?"
+          - heading "Is Ayushman Bharat Card applicable in Narayana Superspeciality Hospital Gurugram?" [level=3] [ref=e808] [cursor=pointer]:
+            - text: Is
+            - strong [ref=e809]: Ayushman Bharat Card
+            - text: applicable in Narayana Superspeciality Hospital Gurugram?
+          - heading "What are the OPD timings of Narayana Hrudayalaya Gurgaon?" [level=3] [ref=e813] [cursor=pointer]:
+            - text: What are the
+            - strong [ref=e814]: OPD timings
+            - text: of
+            - strong [ref=e815]: Narayana Hrudayalaya Gurgaon
+            - text: "?"
+          - heading "What are the Narayana Superspeciality Hospital Gurugram reviews and ratings?" [level=3] [ref=e819] [cursor=pointer]:
+            - text: What are the
+            - strong [ref=e820]: Narayana Superspeciality Hospital Gurugram
+            - strong [ref=e821]: reviews
+            - text: and ratings?
+          - heading "Can one access IPD and OPD services at Narayana Super Speciality Hospital Gurgaon?" [level=3] [ref=e825] [cursor=pointer]:
+            - text: Can one access
+            - strong [ref=e826]: IPD and OPD services
+            - text: at Narayana Super Speciality Hospital Gurgaon?
+          - heading "Who is the owner of NH Gurgaon?" [level=3] [ref=e830] [cursor=pointer]:
+            - text: Who is the
+            - strong [ref=e831]: owner
+            - text: of NH Gurgaon?
+          - heading "How to reach Narayana Hospital Sector 24 Gurgaon?" [level=3] [ref=e835] [cursor=pointer]:
+            - text: How to reach
+            - strong [ref=e836]: Narayana Hospital Sector 24 Gurgaon
+            - text: "?"
+          - heading "Can I opt for a video consultation with a doctor at Narayana Hospital Gurugram Haryana?" [level=3] [ref=e840] [cursor=pointer]:
+            - text: Can I opt for a
+            - strong [ref=e841]: video consultation
+            - text: with a doctor at
+            - strong [ref=e842]: Narayana Hospital Gurugram Haryana
+            - text: "?"
+          - heading "What other facilities and insurance are offered at Narayana Gurugram?" [level=3] [ref=e846] [cursor=pointer]:
+            - text: What other facilities and insurance are offered at
+            - strong [ref=e847]: Narayana Gurugram
+            - text: "?"
+      - generic [ref=e848]:
+        - heading "Related Videos" [level=2] [ref=e850]
+        - generic [ref=e851]:
+          - generic [ref=e853]:
+            - generic [ref=e856]:
+              - img "Youtube" [ref=e858]
+              - generic [ref=e860]:
+                - generic [ref=e861]:
+                  - paragraph [ref=e862]: "Pediatric Liver Transplantation: Hope and Healing with Dr. Sanjay Goja"
+                  - paragraph
+                - generic [ref=e864]: 1 years ago
+            - generic [ref=e867]:
+              - img "Youtube" [ref=e869]
+              - generic [ref=e871]:
+                - generic [ref=e872]:
+                  - paragraph [ref=e873]: How is Robotic Liver Surgery different from Conventional Liver Surgery? || HexaHealth Expert
+                  - paragraph
+                - generic [ref=e875]: 1 years ago
+            - generic [ref=e878]:
+              - img "Youtube" [ref=e880]
+              - generic [ref=e882]:
+                - generic [ref=e883]:
+                  - paragraph [ref=e884]: Why Treatment for Gallbladder Cancer Should not be Delayed? ||HexaHealth Expert
+                  - paragraph
+                - generic [ref=e886]: 1 years ago
+            - generic [ref=e889]:
+              - img "Youtube" [ref=e891]
+              - generic [ref=e893]:
+                - generic [ref=e894]:
+                  - paragraph [ref=e895]: How should a patient choose Robotic Liver Surgeon? ||HexaHealth Expert
+                  - paragraph
+                - generic [ref=e897]: 1 years ago
+            - generic [ref=e900]:
+              - img "Youtube" [ref=e902]
+              - generic [ref=e904]:
+                - generic [ref=e905]:
+                  - paragraph [ref=e906]: How does a patient decide whether the surgery can be done through Robots? ||HexaHealth Expert
+                  - paragraph
+                - generic [ref=e908]: 1 years ago
+            - generic [ref=e911]:
+              - img "Youtube" [ref=e913]
+              - generic [ref=e915]:
+                - generic [ref=e916]:
+                  - paragraph [ref=e917]: Difference between Robotic Liver Surgery and Laparoscopic Liver Surgery?||HexaHealth Expert
+                  - paragraph
+                - generic [ref=e919]: 1 years ago
+            - generic [ref=e922]:
+              - img "Youtube" [ref=e924]
+              - generic [ref=e926]:
+                - generic [ref=e927]:
+                  - paragraph [ref=e928]: Advantages of Robotic Liver Surgery ||HexaHealth Expert
+                  - paragraph
+                - generic [ref=e930]: 1 years ago
+            - generic [ref=e933]:
+              - img "Youtube" [ref=e935]
+              - generic [ref=e937]:
+                - generic [ref=e938]:
+                  - paragraph [ref=e939]: Who should opt for a Robotic Liver Surgery? ||HexaHealth Expert
+                  - paragraph
+                - generic [ref=e941]: 1 years ago
+            - generic [ref=e944]:
+              - img "Youtube" [ref=e946]
+              - generic [ref=e948]:
+                - generic [ref=e949]:
+                  - paragraph [ref=e950]: Role & Application of Surgical Robots in Liver & HPB Surgery|| HexaHealth Expert
+                  - paragraph
+                - generic [ref=e952]: 1 years ago
+          - generic [ref=e953]:
+            - button "Go to slide 1" [ref=e954] [cursor=pointer]
+            - button "Go to slide 2" [ref=e955] [cursor=pointer]
+            - button "Go to slide 3" [ref=e956] [cursor=pointer]
+            - button "Go to slide 4" [ref=e957] [cursor=pointer]
+            - button "Go to slide 5" [ref=e958] [cursor=pointer]
+      - heading "Other Hospitals of Narayana Superspeciality (9)" [level=2] [ref=e959]
+      - link "Dharamshila Narayana Superspeciality Hospital, Vasundhara Enclave Vasundhara Enclave, Delhi 141 Doctors 21 Specialist 4.9/5" [ref=e960] [cursor=pointer]:
+        - /url: https://www.hexahealth.com/delhi/hospital/dharamshila-narayana-superspeciality-hospital
+        - generic [ref=e962]:
+          - heading "Dharamshila Narayana Superspeciality Hospital, Vasundhara Enclave" [level=3] [ref=e963]
+          - paragraph [ref=e964]: Vasundhara Enclave, Delhi
+          - generic [ref=e965]:
+            - generic [ref=e968]: 141 Doctors
+            - generic [ref=e971]: 21 Specialist
+            - generic [ref=e974]: 4.9/5
+      - link "Mazumdar Shaw Medical Center, Bommasandra Bommasandra Industrial Area, Anekal, Bangalore 219 Doctors 20 Specialist 4.64/5" [ref=e976] [cursor=pointer]:
+        - /url: https://www.hexahealth.com/bangalore/hospital/mazumdar-shaw-medical-center
+        - generic [ref=e978]:
+          - heading "Mazumdar Shaw Medical Center, Bommasandra" [level=3] [ref=e979]
+          - paragraph [ref=e980]: Bommasandra Industrial Area, Anekal, Bangalore
+          - generic [ref=e981]:
+            - generic [ref=e984]: 219 Doctors
+            - generic [ref=e987]: 20 Specialist
+            - generic [ref=e990]: 4.64/5
+      - link "SRCC Children Hospital, Mahalakshmi Mahalakshmi, Mumbai 186 Doctors 21 Specialist 4.85/5" [ref=e992] [cursor=pointer]:
+        - /url: https://www.hexahealth.com/mumbai/hospital/srcc-childrens-hospital
+        - generic [ref=e994]:
+          - heading "SRCC Children Hospital, Mahalakshmi" [level=3] [ref=e995]
+          - paragraph [ref=e996]: Mahalakshmi, Mumbai
+          - generic [ref=e997]:
+            - generic [ref=e1000]: 186 Doctors
+            - generic [ref=e1003]: 21 Specialist
+            - generic [ref=e1006]: 4.85/5
+      - link "View All Branches" [ref=e1009] [cursor=pointer]:
+        - /url: https://www.hexahealth.com/gurgaon/hospital-branches/narayana-health-hospitals
+      - link [ref=e1011] [cursor=pointer]:
+        - /url: https://wa.me/918860688606?text=Hi,%20I%20want%20to%20connect%20with%20an%20expert%20from%20Narayana%20Superspeciality%20Hospital,%20Sector%2024,%20Gurgaon%20Hospital-ID=17%20Tier-ID=1
+        - img [ref=e1012]
+      - generic [ref=e1014]:
+        - link "Talk to Expert Now" [ref=e1015] [cursor=pointer]:
+          - /url: tel:+918065827392
+        - link "Chat on WhatsApp Now" [ref=e1016] [cursor=pointer]:
+          - /url: https://wa.me/918860688606?text=Hi, I want to connect with an expert from Narayana Superspeciality Hospital, Sector 24, Gurgaon Hospital-ID=17 Tier-ID=1
+    - generic [ref=e1017]:
+      - paragraph [ref=e1019]: Latest Health Articles
+      - generic [ref=e1020]:
+        - generic [ref=e1022]:
+          - 'link "Prevent Weight Regain After Sleeve Gastrectomy Prevent Weight Regain After Sleeve Gastrectomy Reviewed By: HexaHealth Care Team Last Updated on 24th July" [ref=e1024] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/blog/prevent-weight-regain-after-sleeve-gastrectomy
+            - generic [ref=e1025]:
+              - img "Prevent Weight Regain After Sleeve Gastrectomy" [ref=e1027]
+              - generic [ref=e1028]:
+                - paragraph [ref=e1029]: Prevent Weight Regain After Sleeve Gastrectomy
+                - generic [ref=e1030]:
+                  - generic [ref=e1032]:
+                    - generic [ref=e1033]: "Reviewed By:"
+                    - generic [ref=e1034]: HexaHealth Care Team
+                  - generic [ref=e1035]:
+                    - generic [ref=e1036]: Last Updated on
+                    - generic [ref=e1037]: 24th July
+          - 'link "Prevention of Anemia: Diet, Lifestyle, Screening & Complete Guide Prevention of Anemia: Diet, Lifestyle, Screening & Complete Guide Reviewed By: HexaHealth Care Team Last Updated on 20th July" [ref=e1039] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/blog/prevention-of-anemia
+            - generic [ref=e1040]:
+              - 'img "Prevention of Anemia: Diet, Lifestyle, Screening & Complete Guide" [ref=e1042]'
+              - generic [ref=e1043]:
+                - paragraph [ref=e1044]: "Prevention of Anemia: Diet, Lifestyle, Screening & Complete Guide"
+                - generic [ref=e1045]:
+                  - generic [ref=e1047]:
+                    - generic [ref=e1048]: "Reviewed By:"
+                    - generic [ref=e1049]: HexaHealth Care Team
+                  - generic [ref=e1050]:
+                    - generic [ref=e1051]: Last Updated on
+                    - generic [ref=e1052]: 20th July
+          - 'link "Balanitis Treatment Cost (2026) - Medicine, Laser & Stapler Balanitis Treatment Cost (2026) - Medicine, Laser & Stapler Reviewed By: HexaHealth Care Team Last Updated on 29th June" [ref=e1054] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/blog/balanitis-treatment-cost
+            - generic [ref=e1055]:
+              - img "Balanitis Treatment Cost (2026) - Medicine, Laser & Stapler" [ref=e1057]
+              - generic [ref=e1058]:
+                - paragraph [ref=e1059]: Balanitis Treatment Cost (2026) - Medicine, Laser & Stapler
+                - generic [ref=e1060]:
+                  - generic [ref=e1062]:
+                    - generic [ref=e1063]: "Reviewed By:"
+                    - generic [ref=e1064]: HexaHealth Care Team
+                  - generic [ref=e1065]:
+                    - generic [ref=e1066]: Last Updated on
+                    - generic [ref=e1067]: 29th June
+          - 'link "Alcon IOL Lens Price in India 2026 : Types, Cost Breakdown Alcon IOL Lens Price in India 2026 : Types, Cost Breakdown Reviewed By: HexaHealth Care Team Last Updated on 26th June" [ref=e1069] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/blog/alcon-iol-lens-price-in-india
+            - generic [ref=e1070]:
+              - 'img "Alcon IOL Lens Price in India 2026 : Types, Cost Breakdown" [ref=e1072]'
+              - generic [ref=e1073]:
+                - paragraph [ref=e1074]: "Alcon IOL Lens Price in India 2026 : Types, Cost Breakdown"
+                - generic [ref=e1075]:
+                  - generic [ref=e1077]:
+                    - generic [ref=e1078]: "Reviewed By:"
+                    - generic [ref=e1079]: HexaHealth Care Team
+                  - generic [ref=e1080]:
+                    - generic [ref=e1081]: Last Updated on
+                    - generic [ref=e1082]: 26th June
+          - 'link "LASIK Eye Surgery Cost in Narayana Nethralaya, Bangalore LASIK Eye Surgery Cost in Narayana Nethralaya, Bangalore Reviewed By: HexaHealth Care Team Last Updated on 8th April" [ref=e1084] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/blog/lasik-eye-surgery-cost-in-narayana-nethralaya-bangalore
+            - generic [ref=e1085]:
+              - img "LASIK Eye Surgery Cost in Narayana Nethralaya, Bangalore" [ref=e1087]
+              - generic [ref=e1088]:
+                - paragraph [ref=e1089]: LASIK Eye Surgery Cost in Narayana Nethralaya, Bangalore
+                - generic [ref=e1090]:
+                  - generic [ref=e1092]:
+                    - generic [ref=e1093]: "Reviewed By:"
+                    - generic [ref=e1094]: HexaHealth Care Team
+                  - generic [ref=e1095]:
+                    - generic [ref=e1096]: Last Updated on
+                    - generic [ref=e1097]: 8th April
+          - 'link "What are the Narayana Hrudayalaya health checkup packages price? What are the Narayana Hrudayalaya health checkup packages price? Reviewed By: HexaHealth Care Team Last Updated on 30th March" [ref=e1099] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/blog/what-are-the-narayana-hrudayalaya-health-checkup-packages-price
+            - generic [ref=e1100]:
+              - img "What are the Narayana Hrudayalaya health checkup packages price?" [ref=e1102]
+              - generic [ref=e1103]:
+                - paragraph [ref=e1104]: What are the Narayana Hrudayalaya health checkup packages price?
+                - generic [ref=e1105]:
+                  - generic [ref=e1107]:
+                    - generic [ref=e1108]: "Reviewed By:"
+                    - generic [ref=e1109]: HexaHealth Care Team
+                  - generic [ref=e1110]:
+                    - generic [ref=e1111]: Last Updated on
+                    - generic [ref=e1112]: 30th March
+        - generic [ref=e1113]:
+          - button "Go to slide 1" [ref=e1114] [cursor=pointer]
+          - button "Go to slide 2" [ref=e1115] [cursor=pointer]
+          - button "Go to slide 3" [ref=e1116] [cursor=pointer]
+          - button "Go to slide 4" [ref=e1117] [cursor=pointer]
+          - button "Go to slide 5" [ref=e1118] [cursor=pointer]
+    - generic [ref=e1119]:
+      - paragraph [ref=e1120]: Top Hospitals in Gurgaon
+      - generic [ref=e1121]:
+        - paragraph [ref=e1124]:
+          - link "Ahooja Eye And Dental Institute" [ref=e1125] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/ahooja-eye-dental-institute-gurgaon
+        - paragraph [ref=e1128]:
+          - link "Umkal Hospital, Sushant Lok 1" [ref=e1129] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/umkal-hospital-gurugram
+        - paragraph [ref=e1132]:
+          - link "Mayom Hospital, Sector 41" [ref=e1133] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/mayom-hospital-sector-41
+        - paragraph [ref=e1136]:
+          - link "Aarvy Healthcare Super Speciality Hospital, Sector 90" [ref=e1137] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/aarvy-healthcare-super-specialty-hospital
+        - paragraph [ref=e1140]:
+          - link "Madalasa Hospital, Sector 46" [ref=e1141] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/madalasa-hospital
+        - paragraph [ref=e1144]:
+          - link "Smile Studio" [ref=e1145] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/smile-studio
+        - paragraph [ref=e1148]:
+          - link "W Pratiksha Hospital" [ref=e1149] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/w-pratiksha-hospital
+        - paragraph [ref=e1152]:
+          - link "Silver Streak Multi Speciality Hospital" [ref=e1153] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/silver-streak-multi-speciality-hospital
+        - paragraph [ref=e1156]:
+          - link "Shivam Hospital, Sector 30" [ref=e1157] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/shivam-hospital
+        - paragraph [ref=e1160]:
+          - link "Sayaa Med" [ref=e1161] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/sayaa-med
+        - paragraph [ref=e1164]:
+          - link "Sethi Hospital, Sector 11" [ref=e1165] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/sethi-hospital
+        - paragraph [ref=e1168]:
+          - link "Kamla Hospital, Sector 37 C" [ref=e1169] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/kamla-hospital
+    - generic [ref=e1170]:
+      - paragraph [ref=e1171]: Other Hospital Profiles
+      - generic [ref=e1172]:
+        - paragraph [ref=e1175]:
+          - link "Oncare Cancer Care Centre, Sector 41" [ref=e1176] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/oncare-cancer-care-centre-sector-41
+        - paragraph [ref=e1179]:
+          - link "Dr Agarwals Eye Hospital, Sector 29" [ref=e1180] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/dr-agarwals-eye-hospital-sector-29
+        - paragraph [ref=e1183]:
+          - link "SGT Hospital, Budhera" [ref=e1184] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/sgt-hospital-budhera
+        - paragraph [ref=e1187]:
+          - link "Medanta Mediclinic, Golf Course Rd" [ref=e1188] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/medanta-mediclinic-golf-course-rd
+        - paragraph [ref=e1191]:
+          - link "Vibrant Hospital, Sector 100" [ref=e1192] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/vibrant-hospital-sector-100
+        - paragraph [ref=e1195]:
+          - link "Vee Care Clinics, DLF Phase IV" [ref=e1196] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/vee-care-clinics-dlf-phase-iv
+        - paragraph [ref=e1199]:
+          - link "Gurgaon Speciality Clinic, Sector 27" [ref=e1200] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/gurgaon-speciality-clinic-sector-27
+        - paragraph [ref=e1203]:
+          - link "Jain Hospital, Sector 14" [ref=e1204] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/jain-hospital-sector-14
+        - paragraph [ref=e1207]:
+          - link "Eye Q Super Speciality Eye Hospital, Sector 46" [ref=e1208] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/eye-q-super-speciality-eye-hospital-sector-46
+        - paragraph [ref=e1211]:
+          - link "Aspire Physiotherapy Clinic, Sector 23A" [ref=e1212] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/aspire-physiotherapy-clinic-sector-23a
+        - paragraph [ref=e1215]:
+          - link "Doctors Hub, Sector 109" [ref=e1216] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/doctors-hub-sector-109
+        - paragraph [ref=e1219]:
+          - link "Newlife Multispeciality Hospital, Palam Vihar Extension" [ref=e1220] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/gurgaon/hospital/newlife-multispeciality-hospital-palam-vihar-extension
+    - generic [ref=e1221]:
+      - paragraph [ref=e1222]: Top Treatments in Gurgaon
+      - generic [ref=e1223]:
+        - paragraph [ref=e1226]:
+          - link "Balloon Sinus Ostial Dilation (Balloon Sinuplasty)" [ref=e1227] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/balloon-sinuplasty
+        - paragraph [ref=e1230]:
+          - link "Partial Thyroidectomy Surgery" [ref=e1231] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/partial-thyroidectomy-surgery
+        - paragraph [ref=e1234]:
+          - link "Myringotomy" [ref=e1235] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/myringotomy
+        - paragraph [ref=e1238]:
+          - link "Stapedectomy" [ref=e1239] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/stapedectomy
+        - paragraph [ref=e1242]:
+          - link "Turbinate Reduction Surgery" [ref=e1243] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/turbinate-reduction-surgery
+        - paragraph [ref=e1246]:
+          - link "Ear Membrane Surgery (Tympanoplasty)" [ref=e1247] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/tympanoplasty
+        - paragraph [ref=e1250]:
+          - link "Allergy Shots" [ref=e1251] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/immunotherapy
+        - paragraph [ref=e1254]:
+          - link "FESS in Hindi" [ref=e1255] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/fess
+        - paragraph [ref=e1258]:
+          - link "Tonsillectomy" [ref=e1259] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/tonsillectomy
+        - paragraph [ref=e1262]:
+          - 'link "Canalith Procedure: Fix BPPV Dizziness" [ref=e1263] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/treatment/canalith-repositioning-procedure-crp
+        - paragraph [ref=e1266]:
+          - link "Septoplasty" [ref=e1267] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/septoplasty
+        - paragraph [ref=e1270]:
+          - link "Polyp Removal Surgery (Polypectomy)" [ref=e1271] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/nasal-polyp-surgery
+    - link "get the app" [ref=e1272] [cursor=pointer]:
+      - /url: https://m.hexahealth.com/qLo3
+      - img "get the app" [ref=e1275]
+  - generic [ref=e1276]:
+    - generic [ref=e1277]:
+      - generic [ref=e1279]:
+        - generic [ref=e1283] [cursor=pointer]: Top Doctors
+        - generic [ref=e1287] [cursor=pointer]: Top Hospitals
+        - generic [ref=e1291] [cursor=pointer]: Treatments
+        - generic [ref=e1295] [cursor=pointer]: Ayushman Bharat
+        - generic [ref=e1299] [cursor=pointer]: Insurance
+        - generic [ref=e1303] [cursor=pointer]: Blogs
+      - generic [ref=e1304]:
+        - generic [ref=e1306]:
+          - generic [ref=e1307]:
+            - generic [ref=e1308]: Address
+            - generic [ref=e1309]: Vianam Healthtech Private Limited (HexaHealth), Third Floor Building B, The Presidency, 46/4, Sector 14, Mehrauli Gurgaon Road, Gurgaon, Haryana 122001
+          - generic [ref=e1310]:
+            - generic [ref=e1311]: Follow Us
+            - generic [ref=e1312]:
+              - link "Facebook" [ref=e1314] [cursor=pointer]:
+                - /url: https://www.facebook.com/HexaHealthLive
+                - img "Facebook" [ref=e1315]
+              - link "Twitter" [ref=e1317] [cursor=pointer]:
+                - /url: https://www.twitter.com/hexahealthlive
+                - img "Twitter" [ref=e1318]
+              - link "Linkedin" [ref=e1320] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/hexahealth
+                - img "Linkedin" [ref=e1321]
+              - link "Instagramr" [ref=e1323] [cursor=pointer]:
+                - /url: https://www.instagram.com/hexahealthofficial/
+                - img "Instagram" [ref=e1324]
+              - link "youtube" [ref=e1326] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCsS6Q5M3KqdJ1WWuy5JRmIg
+                - img "YouTube" [ref=e1327]
+          - generic [ref=e1328]:
+            - link "Facebook" [ref=e1329] [cursor=pointer]:
+              - /url: https://m.hexahealth.com/qLo3
+              - img "Facebook" [ref=e1330]
+            - link "Facebook" [ref=e1331] [cursor=pointer]:
+              - /url: https://m.hexahealth.com/qLo3
+              - img "Facebook" [ref=e1332]
+        - generic [ref=e1334]:
+          - text: Medical Tests
+          - list [ref=e1335]:
+            - listitem [ref=e1336]:
+              - link "MPV Blood Test in Hindi" [ref=e1337] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/mpv-blood-test-in-hindi
+          - list [ref=e1338]:
+            - listitem [ref=e1339]:
+              - link "MCH Blood Test in Hindi" [ref=e1340] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/mch-blood-test-in-hindi
+          - list [ref=e1341]:
+            - listitem [ref=e1342]:
+              - link "ESR Blood Test" [ref=e1343] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/esr-blood-test
+          - list [ref=e1344]:
+            - listitem [ref=e1345]:
+              - link "Double Marker Test" [ref=e1346] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/double-marker-test
+          - list [ref=e1347]:
+            - listitem [ref=e1348]:
+              - link "HCT Blood Test in Hindi" [ref=e1349] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/hct-blood-test-in-hindi
+          - list [ref=e1350]:
+            - listitem [ref=e1351]:
+              - link "TB Gold Test" [ref=e1352] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/tb-gold-test
+          - list [ref=e1353]:
+            - listitem [ref=e1354]:
+              - link "CA 125 Blood Test" [ref=e1355] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/ca-125-blood-test
+          - list [ref=e1356]:
+            - listitem [ref=e1357]:
+              - link "CA 125 Test in Hindi" [ref=e1358] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/ca-125-test-in-hindi
+          - list [ref=e1359]:
+            - listitem [ref=e1360]:
+              - link "SGPT Test" [ref=e1361] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/sgpt-test
+          - list [ref=e1362]:
+            - listitem [ref=e1363]:
+              - link "ANC Profile Test" [ref=e1364] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/anc-profile-test
+          - list [ref=e1365]:
+            - listitem [ref=e1366]:
+              - link "Serum Iron Test" [ref=e1367] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/serum-iron-test
+          - list [ref=e1368]:
+            - listitem [ref=e1369]:
+              - link "RGU Test" [ref=e1370] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/rgu-test
+          - list [ref=e1371]:
+            - listitem [ref=e1372]:
+              - link "Double Marker Test in Hindi" [ref=e1373] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/double-marker-test-in-hindi
+        - generic [ref=e1375]:
+          - text: HexaHealth
+          - list [ref=e1376]:
+            - listitem [ref=e1377]:
+              - link "About Us" [ref=e1378] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/about-us
+          - list [ref=e1379]:
+            - listitem [ref=e1380]:
+              - link "Contact Us" [ref=e1381] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/contact-us
+          - list [ref=e1382]:
+            - listitem [ref=e1383]:
+              - link "For Investors" [ref=e1384] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/investor
+          - list [ref=e1385]:
+            - listitem [ref=e1386]:
+              - link "Partner With Us" [ref=e1387] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/partner-with-us
+          - list [ref=e1388]:
+            - listitem [ref=e1389]:
+              - link "FAQs" [ref=e1390] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/faq
+          - list [ref=e1391]:
+            - listitem [ref=e1392]:
+              - link "Press & Media" [ref=e1393] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/press
+          - list [ref=e1394]:
+            - listitem [ref=e1395]:
+              - link "Medical Reviewers" [ref=e1396] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/reviewers
+          - list [ref=e1397]:
+            - listitem [ref=e1398]:
+              - link "Authors" [ref=e1399] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/authors
+          - list [ref=e1400]:
+            - listitem [ref=e1401]:
+              - link "Careers" [ref=e1402] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/careers
+          - list [ref=e1403]:
+            - listitem [ref=e1404]:
+              - link "Site Map" [ref=e1405] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/sitemap.xml
+        - generic [ref=e1407]:
+          - text: Policies
+          - list [ref=e1408]:
+            - listitem [ref=e1409]:
+              - link "Privacy Policy" [ref=e1410] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/privacy
+          - list [ref=e1411]:
+            - listitem [ref=e1412]:
+              - link "Refund Policy" [ref=e1413] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/refund-policy
+          - list [ref=e1414]:
+            - listitem [ref=e1415]:
+              - link "Terms & Conditions" [ref=e1416] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/terms-conditions
+          - list [ref=e1417]:
+            - listitem [ref=e1418]:
+              - link "Editorial Policy" [ref=e1419] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/editorial-policy
+        - generic [ref=e1421]:
+          - text: For Patients
+          - list [ref=e1422]:
+            - listitem [ref=e1423]:
+              - link "All Doctors" [ref=e1424] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/doctors
+          - list [ref=e1425]:
+            - listitem [ref=e1426]:
+              - link "All Hospitals" [ref=e1427] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals
+          - list [ref=e1428]:
+            - listitem [ref=e1429]:
+              - link "All Conditions" [ref=e1430] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/condition
+          - list [ref=e1431]:
+            - listitem [ref=e1432]:
+              - link "All Treatments" [ref=e1433] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/treatment
+          - list [ref=e1434]:
+            - listitem [ref=e1435]:
+              - link "All Departments" [ref=e1436] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/departments
+          - list [ref=e1437]:
+            - listitem [ref=e1438]:
+              - link "Second Opinion" [ref=e1439] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/services/second-opinion
+          - list [ref=e1440]:
+            - listitem [ref=e1441]:
+              - link "Medical Loan" [ref=e1442] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/services/medical-loan
+          - list [ref=e1443]:
+            - listitem [ref=e1444]:
+              - link "BMI Calculator" [ref=e1445] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/tools/bmi-calculator
+          - list [ref=e1446]:
+            - listitem [ref=e1447]:
+              - link "English Blog" [ref=e1448] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/blog
+          - list [ref=e1449]:
+            - listitem [ref=e1450]:
+              - link "Hindi Blog" [ref=e1451] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/blog
+          - list [ref=e1452]:
+            - listitem [ref=e1453]:
+              - link "HexaHealth Reviews" [ref=e1454] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/reviews
+          - list [ref=e1455]:
+            - listitem [ref=e1456]:
+              - link "All Cities" [ref=e1457] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/india
+          - list [ref=e1458]:
+            - listitem [ref=e1459]:
+              - link "All Insurance Hospitals" [ref=e1460] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals/insurance
+          - list [ref=e1461]:
+            - listitem [ref=e1462]:
+              - link "Health Policy Assistant" [ref=e1463] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/health-insurance-policy-help
+    - generic [ref=e1465]: Vianam Healthtech Private Limited © 2026. All Rights Reserved.
+  - alert [ref=e1466]
+  - generic [ref=e1468]:
+    - text: BOOK NOW
+    - img [ref=e1469]
+```
