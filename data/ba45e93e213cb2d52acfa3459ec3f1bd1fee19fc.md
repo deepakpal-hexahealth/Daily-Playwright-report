@@ -1,0 +1,1298 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "HexaHealth Colored Logo" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img "HexaHealth Colored Logo" [ref=e8]
+        - generic [ref=e9]:
+          - generic [ref=e11]:
+            - link [ref=e12] [cursor=pointer]:
+              - /url: tel:+918065827394
+            - link "WhatsApp Expert" [ref=e13] [cursor=pointer]:
+              - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 City-ID=477
+          - img [ref=e16] [cursor=pointer]
+          - img "menu" [ref=e19]
+    - paragraph [ref=e23] [cursor=pointer]: Get Second Opinion from Top Surgeons! Book an Appointment »
+    - text: "*"
+    - generic [ref=e24]:
+      - heading "Best Urology Hospitals in Mumbai" [level=1] [ref=e25]
+      - generic [ref=e27]:
+        - generic [ref=e28]: 93 best urology hospitals are available in Mumbai. Discover advanced urology hospitals in Mumbai near you offering treatments for urinary tract disorders and kidney conditions. Book appointments online for kidney stones, UTIs, and prostate issues.
+        - generic [ref=e29] [cursor=pointer]: read more
+    - img [ref=e34] [cursor=pointer]
+    - generic [ref=e36]:
+      - generic [ref=e37]:
+        - generic [ref=e39]:
+          - button "mumbai" [ref=e42] [cursor=pointer]:
+            - generic [ref=e43]: mumbai
+            - img [ref=e44]
+          - generic [ref=e47]:
+            - button "urology" [ref=e48] [cursor=pointer]:
+              - generic [ref=e49]: urology
+              - img [ref=e50]
+            - link "✕" [ref=e52] [cursor=pointer]:
+              - /url: /mumbai/hospitals
+        - heading "Total 93 Urology Hospitals Found in Mumbai" [level=2] [ref=e55]
+        - generic [ref=e56]:
+          - generic [ref=e57]:
+            - generic [ref=e58]:
+              - generic [ref=e59] [cursor=pointer]: Top 3
+              - generic [ref=e60] [cursor=pointer]: Top 5
+              - generic [ref=e61] [cursor=pointer]: Top 10
+              - generic [ref=e62] [cursor=pointer]: Top 20
+            - generic [ref=e64]:
+              - generic [ref=e65]:
+                - generic [ref=e66]:
+                  - link "Surya Hospital, Santacruz West" [ref=e67] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/surya-hospital-santacruz-west
+                    - img "Surya Hospital, Santacruz West" [ref=e71]
+                  - generic [ref=e72]:
+                    - img "JCI" [ref=e74]
+                    - img "NABH" [ref=e76]
+                - generic [ref=e77]:
+                  - heading "Surya Hospital, Santacruz West" [level=3] [ref=e78]:
+                    - link "Surya Hospital, Santacruz West" [ref=e79] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/surya-hospital-santacruz-west
+                  - generic [ref=e82] [cursor=pointer]:
+                    - text: 4.7/5
+                    - generic [ref=e83]: (91 Ratings)
+                  - generic [ref=e85]: 1 Urologist
+              - generic [ref=e86]:
+                - generic [ref=e88]: Santacruz West, Mumbai
+                - link "Chat Now" [ref=e90] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=119 City-ID=477
+              - generic [ref=e91]:
+                - button "Book Appointment" [ref=e92] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e93] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=119 City-ID=477
+            - generic [ref=e95]:
+              - generic [ref=e96]:
+                - generic [ref=e97]:
+                  - link "Dalvi Nursing Home, Chunabhatti" [ref=e98] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/dalvi-nursing-home-chunabhatti
+                    - img "Dalvi Nursing Home, Chunabhatti" [ref=e102]
+                  - generic [ref=e103]:
+                    - img "JCI" [ref=e105]
+                    - img "NABH" [ref=e107]
+                - generic [ref=e108]:
+                  - heading "Dalvi Nursing Home, Chunabhatti" [level=3] [ref=e109]:
+                    - link "Dalvi Nursing Home, Chunabhatti" [ref=e110] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/dalvi-nursing-home-chunabhatti
+                  - generic [ref=e113] [cursor=pointer]:
+                    - text: 4.2/5
+                    - generic [ref=e114]: (98 Ratings)
+                  - generic [ref=e116]: 1 Urologist
+              - generic [ref=e117]:
+                - generic [ref=e119]: Chunabhatti, Mumbai
+                - link "Chat Now" [ref=e121] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=11020 City-ID=477
+              - generic [ref=e122]:
+                - button "Book Appointment" [ref=e123] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e124] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=11020 City-ID=477
+            - generic [ref=e127]:
+              - paragraph [ref=e129]: Book Free Appointment
+              - generic [ref=e130]:
+                - textbox "Enter your name*" [ref=e134]
+                - generic [ref=e138]:
+                  - generic [ref=e139]: "+91"
+                  - spinbutton [ref=e141]
+                - button "Book Appointment" [ref=e142] [cursor=pointer]
+                - paragraph [ref=e143]:
+                  - text: "*By proceeding, you agree to our"
+                  - link "terms and conditions" [ref=e144] [cursor=pointer]:
+                    - /url: /terms-conditions
+            - generic [ref=e146]:
+              - generic [ref=e147]:
+                - generic [ref=e148]:
+                  - link "Lion Tarachand Bapa Hospital, Sion" [ref=e149] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/lion-tarachand-bapa-hospital-sion
+                    - img "Lion Tarachand Bapa Hospital, Sion" [ref=e153]
+                  - generic [ref=e154]:
+                    - img "JCI" [ref=e156]
+                    - img "NABH" [ref=e158]
+                - generic [ref=e159]:
+                  - heading "Lion Tarachand Bapa Hospital, Sion" [level=3] [ref=e160]:
+                    - link "Lion Tarachand Bapa Hospital, Sion" [ref=e161] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/lion-tarachand-bapa-hospital-sion
+                  - generic [ref=e164] [cursor=pointer]:
+                    - text: 4.9/5
+                    - generic [ref=e165]: (89 Ratings)
+                  - generic [ref=e167]: 6 Urologist
+              - generic [ref=e168]:
+                - generic [ref=e170]: Sion West, Mumbai
+                - link "Chat Now" [ref=e172] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=111 City-ID=477
+              - generic [ref=e173]:
+                - button "Book Appointment" [ref=e174] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e175] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=111 City-ID=477
+            - generic [ref=e177]:
+              - generic [ref=e178]:
+                - generic [ref=e179]:
+                  - link "Gleneagles Global Hospital, Parel" [ref=e180] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/global-hospital
+                    - img "Gleneagles Global Hospital, Parel" [ref=e184]
+                  - generic [ref=e185]:
+                    - img "JCI" [ref=e187]
+                    - img "NABH" [ref=e189]
+                - generic [ref=e190]:
+                  - heading "Gleneagles Global Hospital, Parel" [level=3] [ref=e191]:
+                    - link "Gleneagles Global Hospital, Parel" [ref=e192] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/global-hospital
+                  - generic [ref=e195] [cursor=pointer]:
+                    - text: 4.9/5
+                    - generic [ref=e196]: (96 Ratings)
+                  - generic [ref=e198]: 5 Urologist
+              - generic [ref=e199]:
+                - generic [ref=e201]: Parel, Mumbai
+                - link "Chat Now" [ref=e203] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=163 City-ID=477
+              - generic [ref=e204]:
+                - button "Book Appointment" [ref=e205] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e206] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=163 City-ID=477
+            - generic [ref=e208]:
+              - generic [ref=e209]:
+                - generic [ref=e210]:
+                  - link "Bhatia Hospital, Tardeo" [ref=e211] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/bhatia-hospital-mumbai
+                    - img "Bhatia Hospital, Tardeo" [ref=e215]
+                  - generic [ref=e216]:
+                    - img "JCI" [ref=e218]
+                    - img "NABH" [ref=e220]
+                - generic [ref=e221]:
+                  - heading "Bhatia Hospital, Tardeo" [level=3] [ref=e222]:
+                    - link "Bhatia Hospital, Tardeo" [ref=e223] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/bhatia-hospital-mumbai
+                  - generic [ref=e226] [cursor=pointer]:
+                    - text: 4.8/5
+                    - generic [ref=e227]: (95 Ratings)
+                  - generic [ref=e229]: 5 Urologist
+              - generic [ref=e230]:
+                - generic [ref=e232]: Tardeo, Mumbai
+                - link "Chat Now" [ref=e234] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=413 City-ID=477
+              - generic [ref=e235]:
+                - button "Book Appointment" [ref=e236] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e237] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=413 City-ID=477
+            - img [ref=e242] [cursor=pointer]
+            - generic [ref=e244]:
+              - generic [ref=e245]:
+                - generic [ref=e246]:
+                  - link "Zynova Shalby Hospital, Ghatkopar West" [ref=e247] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/zynova-shalby-hospital
+                    - img "Zynova Shalby Hospital, Ghatkopar West" [ref=e251]
+                  - generic [ref=e252]:
+                    - img "JCI" [ref=e254]
+                    - img "NABH" [ref=e256]
+                - generic [ref=e257]:
+                  - heading "Zynova Shalby Hospital, Ghatkopar West" [level=3] [ref=e258]:
+                    - link "Zynova Shalby Hospital, Ghatkopar West" [ref=e259] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/zynova-shalby-hospital
+                  - generic [ref=e262] [cursor=pointer]:
+                    - text: 4.8/5
+                    - generic [ref=e263]: (88 Ratings)
+                  - generic [ref=e265]: 3 Urologist
+              - generic [ref=e266]:
+                - generic [ref=e268]: Ghatkopar West, Mumbai
+                - link "Chat Now" [ref=e270] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=538 City-ID=477
+              - generic [ref=e271]:
+                - button "Book Appointment" [ref=e272] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e273] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=538 City-ID=477
+            - generic [ref=e275]:
+              - generic [ref=e276]:
+                - generic [ref=e277]:
+                  - link "Apex Multispeciality Hospitals, Borivali East" [ref=e278] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/apex-multi-speciality-hospital
+                    - img "Apex Multispeciality Hospitals, Borivali East" [ref=e282]
+                  - generic [ref=e283]:
+                    - img "JCI" [ref=e285]
+                    - img "NABH" [ref=e287]
+                - generic [ref=e288]:
+                  - heading "Apex Multispeciality Hospitals, Borivali East" [level=3] [ref=e289]:
+                    - link "Apex Multispeciality Hospitals, Borivali East" [ref=e290] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/apex-multi-speciality-hospital
+                  - generic [ref=e293] [cursor=pointer]:
+                    - text: 4.5/5
+                    - generic [ref=e294]: (89 Ratings)
+                  - generic [ref=e296]: 5 Urologist
+              - generic [ref=e297]:
+                - generic [ref=e299]: Borivali East, Mumbai
+                - link "Chat Now" [ref=e301] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=93 City-ID=477
+              - generic [ref=e302]:
+                - button "Book Appointment" [ref=e303] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e304] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=93 City-ID=477
+            - generic [ref=e306]:
+              - generic [ref=e307]:
+                - generic [ref=e308]:
+                  - link "SRV Hospital, Goregaon" [ref=e309] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/srv-hospital-goregaon
+                    - img "SRV Hospital, Goregaon" [ref=e313]
+                  - generic [ref=e314]:
+                    - img "JCI" [ref=e316]
+                    - img "NABH" [ref=e318]
+                - generic [ref=e319]:
+                  - heading "SRV Hospital, Goregaon" [level=3] [ref=e320]:
+                    - link "SRV Hospital, Goregaon" [ref=e321] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/srv-hospital-goregaon
+                  - generic [ref=e324] [cursor=pointer]:
+                    - text: 4.5/5
+                    - generic [ref=e325]: (93 Ratings)
+                  - generic [ref=e327]: 5 Urologist
+              - generic [ref=e328]:
+                - generic [ref=e330]: Goregaon West, Mumbai
+                - link "Chat Now" [ref=e332] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=106 City-ID=477
+              - generic [ref=e333]:
+                - button "Book Appointment" [ref=e334] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e335] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=106 City-ID=477
+            - generic [ref=e337]:
+              - generic [ref=e338]:
+                - generic [ref=e339]:
+                  - link "Apex Super Speciality Hospital, Borivali West, Lokmanya Tilak Rd" [ref=e340] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/apex-hospitals-borivali
+                    - img "Apex Super Speciality Hospital, Borivali West, Lokmanya Tilak Rd" [ref=e344]
+                  - generic [ref=e345]:
+                    - img "JCI" [ref=e347]
+                    - img "NABH" [ref=e349]
+                - generic [ref=e350]:
+                  - heading "Apex Super Speciality Hospital, Borivali West, Lokmanya Tilak Rd" [level=3] [ref=e351]:
+                    - link "Apex Super Speciality Hospital, Borivali West, Lokmanya Tilak Rd" [ref=e352] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/apex-hospitals-borivali
+                  - generic [ref=e355] [cursor=pointer]:
+                    - text: 4.3/5
+                    - generic [ref=e356]: (97 Ratings)
+                  - generic [ref=e358]: 2 Urologist
+              - generic [ref=e359]:
+                - generic [ref=e361]: Borivali West, Mumbai
+                - link "Chat Now" [ref=e363] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=1310 City-ID=477
+              - generic [ref=e364]:
+                - button "Book Appointment" [ref=e365] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e366] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=1310 City-ID=477
+            - generic [ref=e368]:
+              - generic [ref=e369]:
+                - generic [ref=e370]:
+                  - link "Bharatiya Arogya Nidhi Hospital, Vile Parle West" [ref=e371] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/bharatiya-arogya-nidhi-hospital
+                    - img "Bharatiya Arogya Nidhi Hospital, Vile Parle West" [ref=e375]
+                  - generic [ref=e376]:
+                    - img "JCI" [ref=e378]
+                    - img "NABH" [ref=e380]
+                - generic [ref=e381]:
+                  - heading "Bharatiya Arogya Nidhi Hospital, Vile Parle West" [level=3] [ref=e382]:
+                    - link "Bharatiya Arogya Nidhi Hospital, Vile Parle West" [ref=e383] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/bharatiya-arogya-nidhi-hospital
+                  - generic [ref=e386] [cursor=pointer]:
+                    - text: 5/5
+                    - generic [ref=e387]: (95 Ratings)
+                  - generic [ref=e389]: 6 Urologist
+              - generic [ref=e392]: Vile Parle West, Mumbai
+              - generic [ref=e393]:
+                - button "Book Appointment" [ref=e394] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e395] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=3896 City-ID=477
+            - generic [ref=e397]:
+              - generic [ref=e398]:
+                - generic [ref=e399]:
+                  - link "Suchak Hospital, Malad East" [ref=e400] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/suchak-hospital
+                    - img "Suchak Hospital, Malad East" [ref=e404]
+                  - generic [ref=e405]:
+                    - img "JCI" [ref=e407]
+                    - img "NABH" [ref=e409]
+                - generic [ref=e410]:
+                  - heading "Suchak Hospital, Malad East" [level=3] [ref=e411]:
+                    - link "Suchak Hospital, Malad East" [ref=e412] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/suchak-hospital
+                  - generic [ref=e415] [cursor=pointer]:
+                    - text: 5/5
+                    - generic [ref=e416]: (99 Ratings)
+                  - generic [ref=e418]: 1 Urologist
+              - generic [ref=e421]: Malad East, Mumbai
+              - generic [ref=e422]:
+                - button "Book Appointment" [ref=e423] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e424] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=3887 City-ID=477
+            - generic [ref=e426]:
+              - generic [ref=e427]:
+                - generic [ref=e428]:
+                  - link "Dr Sathes Uro Stone Urology Clinic, Kandivali West" [ref=e429] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/dr-sathes-uro-stone-urology-clinic-kandivali-west
+                    - img "Dr Sathes Uro Stone Urology Clinic, Kandivali West" [ref=e433]
+                  - generic [ref=e434]:
+                    - img "JCI" [ref=e436]
+                    - img "NABH" [ref=e438]
+                - generic [ref=e439]:
+                  - heading "Dr Sathes Uro Stone Urology Clinic, Kandivali West" [level=3] [ref=e440]:
+                    - link "Dr Sathes Uro Stone Urology Clinic, Kandivali West" [ref=e441] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/dr-sathes-uro-stone-urology-clinic-kandivali-west
+                  - generic [ref=e444] [cursor=pointer]:
+                    - text: 5/5
+                    - generic [ref=e445]: (98 Ratings)
+                  - generic [ref=e447]: 1 Urologist
+              - generic [ref=e450]: Kandivali West, Mumbai
+              - generic [ref=e451]:
+                - button "Book Appointment" [ref=e452] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e453] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=17994 City-ID=477
+            - generic [ref=e455]:
+              - generic [ref=e456]:
+                - generic [ref=e457]:
+                  - link "Sanjeevani Hospital, Malad" [ref=e458] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/sanjeevani-hospital-malad
+                    - img "Sanjeevani Hospital, Malad" [ref=e462]
+                  - generic [ref=e463]:
+                    - img "JCI" [ref=e465]
+                    - img "NABH" [ref=e467]
+                - generic [ref=e468]:
+                  - heading "Sanjeevani Hospital, Malad" [level=3] [ref=e469]:
+                    - link "Sanjeevani Hospital, Malad" [ref=e470] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/sanjeevani-hospital-malad
+                  - generic [ref=e473] [cursor=pointer]:
+                    - text: 5/5
+                    - generic [ref=e474]: (98 Ratings)
+                  - generic [ref=e476]: 1 Urologist
+              - generic [ref=e479]: Malad East, Mumbai
+              - generic [ref=e480]:
+                - button "Book Appointment" [ref=e481] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e482] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=3678 City-ID=477
+            - generic [ref=e484]:
+              - generic [ref=e485]:
+                - generic [ref=e486]:
+                  - link "King Edward Memorial Hospital, Parel (KEM Hospital)" [ref=e487] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/king-edward-memorial-hospital
+                    - img "King Edward Memorial Hospital, Parel (KEM Hospital)" [ref=e491]
+                  - generic [ref=e492]:
+                    - img "JCI" [ref=e494]
+                    - img "NABH" [ref=e496]
+                - generic [ref=e497]:
+                  - heading "King Edward Memorial Hospital, Parel (KEM Hospital)" [level=3] [ref=e498]:
+                    - link "King Edward Memorial Hospital, Parel (KEM Hospital)" [ref=e499] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/king-edward-memorial-hospital
+                  - generic [ref=e502] [cursor=pointer]:
+                    - text: 5/5
+                    - generic [ref=e503]: (99 Ratings)
+                  - generic [ref=e505]: 5 Urologist
+              - generic [ref=e508]: Parel, Mumbai
+              - generic [ref=e509]:
+                - button "Book Appointment" [ref=e510] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e511] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=3667 City-ID=477
+            - generic [ref=e513]:
+              - generic [ref=e514]:
+                - generic [ref=e515]:
+                  - link "Hira Mongi Navneet Hospital, Mulund West" [ref=e516] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/hira-mongi-navneet-hospital
+                    - img "Hira Mongi Navneet Hospital, Mulund West" [ref=e520]
+                  - generic [ref=e521]:
+                    - img "JCI" [ref=e523]
+                    - img "NABH" [ref=e525]
+                - generic [ref=e526]:
+                  - heading "Hira Mongi Navneet Hospital, Mulund West" [level=3] [ref=e527]:
+                    - link "Hira Mongi Navneet Hospital, Mulund West" [ref=e528] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/hira-mongi-navneet-hospital
+                  - generic [ref=e531] [cursor=pointer]:
+                    - text: 5/5
+                    - generic [ref=e532]: (99 Ratings)
+                  - generic [ref=e534]: 2 Urologist
+              - generic [ref=e537]: Mulund West, Mumbai
+              - generic [ref=e538]:
+                - button "Book Appointment" [ref=e539] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e540] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=3854 City-ID=477
+            - generic [ref=e542]:
+              - generic [ref=e543]:
+                - generic [ref=e544]:
+                  - link "Dhanwantari Hospital and Research Centre, Dadar West" [ref=e545] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/dhanwantari-hospital-and-research-centre-dadar-west
+                    - img "Dhanwantari Hospital and Research Centre, Dadar West" [ref=e549]
+                  - generic [ref=e550]:
+                    - img "JCI" [ref=e552]
+                    - img "NABH" [ref=e554]
+                - generic [ref=e555]:
+                  - heading "Dhanwantari Hospital and Research Centre, Dadar West" [level=3] [ref=e556]:
+                    - link "Dhanwantari Hospital and Research Centre, Dadar West" [ref=e557] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/dhanwantari-hospital-and-research-centre-dadar-west
+                  - generic [ref=e560] [cursor=pointer]:
+                    - text: 5/5
+                    - generic [ref=e561]: (89 Ratings)
+                  - generic [ref=e563]: 4 Urologist
+              - generic [ref=e566]: Dadar West, Mumbai
+              - generic [ref=e567]:
+                - button "Book Appointment" [ref=e568] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e569] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=3709 City-ID=477
+            - generic [ref=e571]:
+              - generic [ref=e572]:
+                - generic [ref=e573]:
+                  - link "Nanavati Max Super Speciality Hospital, Vile Parle West" [ref=e574] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/nanavati-max-super-speciality-hospital-mumbai
+                    - img "Nanavati Max Super Speciality Hospital, Vile Parle West" [ref=e578]
+                  - generic [ref=e579]:
+                    - img "JCI" [ref=e581]
+                    - img "NABH" [ref=e583]
+                - generic [ref=e584]:
+                  - heading "Nanavati Max Super Speciality Hospital, Vile Parle West" [level=3] [ref=e585]:
+                    - link "Nanavati Max Super Speciality Hospital, Vile Parle West" [ref=e586] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/nanavati-max-super-speciality-hospital-mumbai
+                  - generic [ref=e589] [cursor=pointer]:
+                    - text: 4.9/5
+                    - generic [ref=e590]: (93 Ratings)
+                  - generic [ref=e592]: 7 Urologist
+              - generic [ref=e595]: Vile Parle West, Mumbai
+              - generic [ref=e596]:
+                - button "Book Appointment" [ref=e597] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e598] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=129 City-ID=477
+            - generic [ref=e600]:
+              - generic [ref=e601]:
+                - generic [ref=e602]:
+                  - link "Sanjeevani Mamta Hospital and Research Centre, Andheri East" [ref=e603] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/sanjeevani-mamta-hospital-and-research-centre-andheri-east
+                    - img "Sanjeevani Mamta Hospital and Research Centre, Andheri East" [ref=e607]
+                  - generic [ref=e608]:
+                    - img "JCI" [ref=e610]
+                    - img "NABH" [ref=e612]
+                - generic [ref=e613]:
+                  - heading "Sanjeevani Mamta Hospital and Research Centre, Andheri East" [level=3] [ref=e614]:
+                    - link "Sanjeevani Mamta Hospital and Research Centre, Andheri East" [ref=e615] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/sanjeevani-mamta-hospital-and-research-centre-andheri-east
+                  - generic [ref=e618] [cursor=pointer]:
+                    - text: 4.9/5
+                    - generic [ref=e619]: (95 Ratings)
+                  - generic [ref=e621]: 1 Urologist
+              - generic [ref=e624]: Andheri East, Mumbai
+              - generic [ref=e625]:
+                - button "Book Appointment" [ref=e626] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e627] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=15290 City-ID=477
+            - generic [ref=e629]:
+              - generic [ref=e630]:
+                - generic [ref=e631]:
+                  - link "Asian Cancer Institute and ACI Cumballa Hill Hospital, Cumballa Hill" [ref=e632] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/aci-cumballa-hill-hospital
+                    - img "Asian Cancer Institute and ACI Cumballa Hill Hospital, Cumballa Hill" [ref=e636]
+                  - generic [ref=e637]:
+                    - img "JCI" [ref=e639]
+                    - img "NABH" [ref=e641]
+                - generic [ref=e642]:
+                  - heading "Asian Cancer Institute and ACI Cumballa Hill Hospital, Cumballa Hill" [level=3] [ref=e643]:
+                    - link "Asian Cancer Institute and ACI Cumballa Hill Hospital, Cumballa Hill" [ref=e644] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/aci-cumballa-hill-hospital
+                  - generic [ref=e647] [cursor=pointer]:
+                    - text: 4.9/5
+                    - generic [ref=e648]: (99 Ratings)
+                  - generic [ref=e650]: 3 Urologist
+              - generic [ref=e653]: Cumballa Hill, Mumbai
+              - generic [ref=e654]:
+                - button "Book Appointment" [ref=e655] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e656] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=207 City-ID=477
+            - generic [ref=e658]:
+              - generic [ref=e659]:
+                - generic [ref=e660]:
+                  - link "Galaxy Multispeciality Hospital, Wadala" [ref=e661] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/galaxy-multispeciality-hospital-wadala
+                    - img "Galaxy Multispeciality Hospital, Wadala" [ref=e665]
+                  - generic [ref=e666]:
+                    - img "JCI" [ref=e668]
+                    - img "NABH" [ref=e670]
+                - generic [ref=e671]:
+                  - heading "Galaxy Multispeciality Hospital, Wadala" [level=3] [ref=e672]:
+                    - link "Galaxy Multispeciality Hospital, Wadala" [ref=e673] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/galaxy-multispeciality-hospital-wadala
+                  - generic [ref=e676] [cursor=pointer]:
+                    - text: 4.9/5
+                    - generic [ref=e677]: (88 Ratings)
+                  - generic [ref=e679]: 1 Urologist
+              - generic [ref=e682]: Wadala, Mumbai
+              - generic [ref=e683]:
+                - button "Book Appointment" [ref=e684] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e685] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=125 City-ID=477
+            - generic [ref=e687]:
+              - generic [ref=e688]:
+                - generic [ref=e689]:
+                  - link "Zen Multi Speciality Hospital, Chembur" [ref=e690] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/zen-multi-speciality-hospital
+                    - img "Zen Multi Speciality Hospital, Chembur" [ref=e694]
+                  - generic [ref=e695]:
+                    - img "JCI" [ref=e697]
+                    - img "NABH" [ref=e699]
+                - generic [ref=e700]:
+                  - heading "Zen Multi Speciality Hospital, Chembur" [level=3] [ref=e701]:
+                    - link "Zen Multi Speciality Hospital, Chembur" [ref=e702] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/zen-multi-speciality-hospital
+                  - generic [ref=e705] [cursor=pointer]:
+                    - text: 4.9/5
+                    - generic [ref=e706]: (99 Ratings)
+                  - generic [ref=e708]: 3 Urologist
+              - generic [ref=e711]: Chembur, Mumbai
+              - generic [ref=e712]:
+                - button "Book Appointment" [ref=e713] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e714] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=604 City-ID=477
+            - generic [ref=e716]:
+              - generic [ref=e717]:
+                - generic [ref=e718]:
+                  - link "Kokilaben Dhirubhai Ambani Hospital and Medical Research Institute, Andheri West" [ref=e719] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/kokilaben-dhirubhai-ambani-hospital-and-medical-research-institute-andheri-west
+                    - img "Kokilaben Dhirubhai Ambani Hospital and Medical Research Institute, Andheri West" [ref=e723]
+                  - generic [ref=e724]:
+                    - img "JCI" [ref=e726]
+                    - img "NABH" [ref=e728]
+                - generic [ref=e729]:
+                  - heading "Kokilaben Dhirubhai Ambani Hospital and Medical Research Institute, Andheri West" [level=3] [ref=e730]:
+                    - link "Kokilaben Dhirubhai Ambani Hospital and Medical Research Institute, Andheri West" [ref=e731] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/kokilaben-dhirubhai-ambani-hospital-and-medical-research-institute-andheri-west
+                  - generic [ref=e734] [cursor=pointer]:
+                    - text: 4.9/5
+                    - generic [ref=e735]: (98 Ratings)
+                  - generic [ref=e737]: 4 Urologist
+              - generic [ref=e740]: Andheri West, Mumbai
+              - generic [ref=e741]:
+                - button "Book Appointment" [ref=e742] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e743] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=5334 City-ID=477
+            - generic [ref=e745]:
+              - generic [ref=e746]:
+                - generic [ref=e747]:
+                  - link "P D Hinduja National Hospital And Medical Research Centre, Khar Facility" [ref=e748] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/p-d-hinduja-national-hospital-and-medical-research-centre-khar-facility
+                    - img "P D Hinduja National Hospital And Medical Research Centre, Khar Facility" [ref=e752]
+                  - generic [ref=e753]:
+                    - img "JCI" [ref=e755]
+                    - img "NABH" [ref=e757]
+                - generic [ref=e758]:
+                  - heading "P D Hinduja National Hospital And Medical Research Centre, Khar Facility" [level=3] [ref=e759]:
+                    - link "P D Hinduja National Hospital And Medical Research Centre, Khar Facility" [ref=e760] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/p-d-hinduja-national-hospital-and-medical-research-centre-khar-facility
+                  - generic [ref=e763] [cursor=pointer]:
+                    - text: 4.9/5
+                    - generic [ref=e764]: (99 Ratings)
+                  - generic [ref=e766]: 2 Urologist
+              - generic [ref=e769]: Khar West, Mumbai
+              - generic [ref=e770]:
+                - button "Book Appointment" [ref=e771] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e772] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=737 City-ID=477
+            - generic [ref=e774]:
+              - generic [ref=e775]:
+                - generic [ref=e776]:
+                  - link "Apollo Spectra Hospital, Chembur" [ref=e777] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/apollo-spectra-hospital-chembur
+                    - img "Apollo Spectra Hospital, Chembur" [ref=e781]
+                  - generic [ref=e782]:
+                    - img "JCI" [ref=e784]
+                    - img "NABH" [ref=e786]
+                - generic [ref=e787]:
+                  - heading "Apollo Spectra Hospital, Chembur" [level=3] [ref=e788]:
+                    - link "Apollo Spectra Hospital, Chembur" [ref=e789] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/apollo-spectra-hospital-chembur
+                  - generic [ref=e792] [cursor=pointer]:
+                    - text: 4.9/5
+                    - generic [ref=e793]: (96 Ratings)
+                  - generic [ref=e795]: 4 Urologist
+              - generic [ref=e798]: Chembur, Mumbai
+              - generic [ref=e799]:
+                - button "Book Appointment" [ref=e800] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e801] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=120 City-ID=477
+            - generic [ref=e803]:
+              - generic [ref=e804]:
+                - generic [ref=e805]:
+                  - link "S L Raheja Fortis Hospital, Mahim West" [ref=e806] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/s-l-raheja-fortis-hospital-mahim-west
+                    - img "S L Raheja Fortis Hospital, Mahim West" [ref=e810]
+                  - generic [ref=e811]:
+                    - img "JCI" [ref=e813]
+                    - img "NABH" [ref=e815]
+                - generic [ref=e816]:
+                  - heading "S L Raheja Fortis Hospital, Mahim West" [level=3] [ref=e817]:
+                    - link "S L Raheja Fortis Hospital, Mahim West" [ref=e818] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/s-l-raheja-fortis-hospital-mahim-west
+                  - generic [ref=e821] [cursor=pointer]:
+                    - text: 4.9/5
+                    - generic [ref=e822]: (91 Ratings)
+                  - generic [ref=e824]: 8 Urologist
+              - generic [ref=e827]: Mahim, Mumbai
+              - generic [ref=e828]:
+                - button "Book Appointment" [ref=e829] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e830] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=130 City-ID=477
+            - generic [ref=e832]:
+              - generic [ref=e833]:
+                - generic [ref=e834]:
+                  - link "SRV Hospital, Chembur" [ref=e835] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/srv-hospital-chembur
+                    - img "SRV Hospital, Chembur" [ref=e839]
+                  - generic [ref=e840]:
+                    - img "JCI" [ref=e842]
+                    - img "NABH" [ref=e844]
+                - generic [ref=e845]:
+                  - heading "SRV Hospital, Chembur" [level=3] [ref=e846]:
+                    - link "SRV Hospital, Chembur" [ref=e847] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/srv-hospital-chembur
+                  - generic [ref=e850] [cursor=pointer]:
+                    - text: 4.9/5
+                    - generic [ref=e851]: (71 Ratings)
+                  - generic [ref=e853]: 1 Urologist
+              - generic [ref=e856]: Chembur, Mumbai
+              - generic [ref=e857]:
+                - button "Book Appointment" [ref=e858] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e859] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=92 City-ID=477
+            - generic [ref=e861]:
+              - generic [ref=e862]:
+                - generic [ref=e863]:
+                  - link "Bombay Hospital And Medical Research Centre, Marine Lines" [ref=e864] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/bombay-hospital-and-medical-research-centre
+                    - img "Bombay Hospital And Medical Research Centre, Marine Lines" [ref=e868]
+                  - generic [ref=e869]:
+                    - img "JCI" [ref=e871]
+                    - img "NABH" [ref=e873]
+                - generic [ref=e874]:
+                  - heading "Bombay Hospital And Medical Research Centre, Marine Lines" [level=3] [ref=e875]:
+                    - link "Bombay Hospital And Medical Research Centre, Marine Lines" [ref=e876] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/bombay-hospital-and-medical-research-centre
+                  - generic [ref=e879] [cursor=pointer]:
+                    - text: 4.8/5
+                    - generic [ref=e880]: (93 Ratings)
+                  - generic [ref=e882]: 12 Urologist
+              - generic [ref=e885]: Marine Lines, Mumbai
+              - generic [ref=e886]:
+                - button "Book Appointment" [ref=e887] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e888] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=133 City-ID=477
+            - generic [ref=e890]:
+              - generic [ref=e891]:
+                - generic [ref=e892]:
+                  - link "Nisa Urology Clinic, Mazgaon" [ref=e893] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/nisa-urology-clinic-mazgaon
+                    - img "Nisa Urology Clinic, Mazgaon" [ref=e897]
+                  - generic [ref=e898]:
+                    - img "JCI" [ref=e900]
+                    - img "NABH" [ref=e902]
+                - generic [ref=e903]:
+                  - heading "Nisa Urology Clinic, Mazgaon" [level=3] [ref=e904]:
+                    - link "Nisa Urology Clinic, Mazgaon" [ref=e905] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/nisa-urology-clinic-mazgaon
+                  - generic [ref=e908] [cursor=pointer]:
+                    - text: 4.8/5
+                    - generic [ref=e909]: (93 Ratings)
+                  - generic [ref=e911]: 1 Urologist
+              - generic [ref=e914]: Mazgaon, Mumbai
+              - generic [ref=e915]:
+                - button "Book Appointment" [ref=e916] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e917] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=15662 City-ID=477
+            - generic [ref=e919]:
+              - generic [ref=e920]:
+                - generic [ref=e921]:
+                  - link "P D Hinduja National Hospital And Medical Research Centre, Mahim West" [ref=e922] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/p-d-hinduja-national-hospital-and-medical-research-centre
+                    - img "P D Hinduja National Hospital And Medical Research Centre, Mahim West" [ref=e926]
+                  - generic [ref=e927]:
+                    - img "JCI" [ref=e929]
+                    - img "NABH" [ref=e931]
+                - generic [ref=e932]:
+                  - heading "P D Hinduja National Hospital And Medical Research Centre, Mahim West" [level=3] [ref=e933]:
+                    - link "P D Hinduja National Hospital And Medical Research Centre, Mahim West" [ref=e934] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/p-d-hinduja-national-hospital-and-medical-research-centre
+                  - generic [ref=e937] [cursor=pointer]:
+                    - text: 4.8/5
+                    - generic [ref=e938]: (93 Ratings)
+                  - generic [ref=e940]: 2 Urologist
+              - generic [ref=e943]: Shivaji Park, Mumbai
+              - generic [ref=e944]:
+                - button "Book Appointment" [ref=e945] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e946] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=128 City-ID=477
+            - generic [ref=e948]:
+              - generic [ref=e949]:
+                - generic [ref=e950]:
+                  - link "Breach Candy Hospital Trust, Cumballa Hill" [ref=e951] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/mumbai/hospital/breach-candy-hospital-trust
+                    - img "Breach Candy Hospital Trust, Cumballa Hill" [ref=e955]
+                  - generic [ref=e956]:
+                    - img "JCI" [ref=e958]
+                    - img "NABH" [ref=e960]
+                - generic [ref=e961]:
+                  - heading "Breach Candy Hospital Trust, Cumballa Hill" [level=3] [ref=e962]:
+                    - link "Breach Candy Hospital Trust, Cumballa Hill" [ref=e963] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/breach-candy-hospital-trust
+                  - generic [ref=e966] [cursor=pointer]:
+                    - text: 4.8/5
+                    - generic [ref=e967]: (88 Ratings)
+                  - generic [ref=e969]: 1 Urologist
+              - generic [ref=e972]: Cumballa Hill, Mumbai
+              - generic [ref=e973]:
+                - button "Book Appointment" [ref=e974] [cursor=pointer]
+                - link "WhatsApp Expert" [ref=e975] [cursor=pointer]:
+                  - /url: https://wa.me/918860688606?text=Hi, I want to book an appointment at a urology hospital specialityid=5 Tier-ID=1 Hospital-ID=540 City-ID=477
+          - generic [ref=e976]:
+            - generic [ref=e977]: Showing 1 - 30 of 93
+            - navigation "Page navigation" [ref=e978]:
+              - list [ref=e979]:
+                - listitem [ref=e980]:
+                  - link "1" [ref=e981] [cursor=pointer]:
+                    - /url: /mumbai/hospitals/urology
+                - listitem [ref=e982]:
+                  - link "2" [ref=e983] [cursor=pointer]:
+                    - /url: /mumbai/hospitals/urology?pageNo=2
+                - listitem [ref=e984]:
+                  - link "3" [ref=e985] [cursor=pointer]:
+                    - /url: /mumbai/hospitals/urology?pageNo=3
+                - listitem [ref=e986]:
+                  - link "4" [ref=e987] [cursor=pointer]:
+                    - /url: /mumbai/hospitals/urology?pageNo=4
+                - listitem [ref=e988]:
+                  - link "arrowRight" [ref=e989] [cursor=pointer]:
+                    - /url: /mumbai/hospitals/urology?pageNo=2
+                    - img "arrowRight" [ref=e990]
+          - generic [ref=e993]:
+            - paragraph [ref=e995]: Book Free Appointment
+            - generic [ref=e996]:
+              - textbox "Enter your name*" [ref=e1000]
+              - generic [ref=e1004]:
+                - generic [ref=e1005]: "+91"
+                - spinbutton [ref=e1007]
+              - button "Book Appointment" [ref=e1008] [cursor=pointer]
+              - paragraph [ref=e1009]:
+                - text: "*By proceeding, you agree to our"
+                - link "terms and conditions" [ref=e1010] [cursor=pointer]:
+                  - /url: /terms-conditions
+          - generic [ref=e1011]:
+            - generic [ref=e1012]:
+              - heading "Top 10 Urology Hospitals in Mumbai" [level=2] [ref=e1013]
+              - generic [ref=e1014]:
+                - paragraph [ref=e1015]: Below are the top 10 Urology hospitals in Mumbai based on their overall experience and rating.
+                - list [ref=e1016]:
+                  - listitem [ref=e1017]:
+                    - link "Surya Hospital, Santacruz West" [ref=e1018] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/surya-hospital-santacruz-west
+                    - text: "- 4.7 Ratings (91 Reviews) - 1 Doctor"
+                  - listitem [ref=e1019]:
+                    - link "Dalvi Nursing Home, Chunabhatti" [ref=e1020] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/dalvi-nursing-home-chunabhatti
+                    - text: "- 4.2 Ratings (98 Reviews) - 1 Doctor"
+                  - listitem [ref=e1021]:
+                    - link "Lion Tarachand Bapa Hospital, Sion" [ref=e1022] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/lion-tarachand-bapa-hospital-sion
+                    - text: "- 4.9 Ratings (89 Reviews) - 6 Doctors"
+                  - listitem [ref=e1023]:
+                    - link "Gleneagles Global Hospital, Parel" [ref=e1024] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/global-hospital
+                    - text: "- 4.9 Ratings (96 Reviews) - 5 Doctors"
+                  - listitem [ref=e1025]:
+                    - link "Bhatia Hospital, Tardeo" [ref=e1026] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/bhatia-hospital-mumbai
+                    - text: "- 4.8 Ratings (95 Reviews) - 5 Doctors"
+                  - listitem [ref=e1027]:
+                    - link "Zynova Shalby Hospital, Ghatkopar West" [ref=e1028] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/zynova-shalby-hospital
+                    - text: "- 4.8 Ratings (88 Reviews) - 3 Doctors"
+                  - listitem [ref=e1029]:
+                    - link "Apex Multispeciality Hospitals, Borivali East" [ref=e1030] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/apex-multi-speciality-hospital
+                    - text: "- 4.5 Ratings (89 Reviews) - 5 Doctors"
+                  - listitem [ref=e1031]:
+                    - link "SRV Hospital, Goregaon" [ref=e1032] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/srv-hospital-goregaon
+                    - text: "- 4.5 Ratings (93 Reviews) - 5 Doctors"
+                  - listitem [ref=e1033]:
+                    - link "Apex Super Speciality Hospital, Borivali West, Lokmanya Tilak Rd" [ref=e1034] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/apex-hospitals-borivali
+                    - text: "- 4.3 Ratings (97 Reviews) - 2 Doctors"
+                  - listitem [ref=e1035]:
+                    - link "Bharatiya Arogya Nidhi Hospital, Vile Parle West" [ref=e1036] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/mumbai/hospital/bharatiya-arogya-nidhi-hospital
+                    - text: "- 5 Ratings (95 Reviews) - 6 Doctors"
+            - generic [ref=e1037]:
+              - generic [ref=e1038]: Urology Hospitals near me in Mumbai
+              - generic [ref=e1040]:
+                - text: Average Rating
+                - text: 4.8 (2809 Reviews)
+          - img [ref=e1047] [cursor=pointer]
+          - generic [ref=e1048]:
+            - heading "Urology in Mumbai" [level=2] [ref=e1049]
+            - generic [ref=e1050]:
+              - paragraph [ref=e1051]
+              - paragraph [ref=e1052]: A urology hospital in Mumbai offers comprehensive care to patients dealing with conditions of the urinary tract (for both genders) and male reproductive systems. Such centres provide various diagnostic and surgical services focusing on patient well-being with expertise.
+              - paragraph [ref=e1053]: The best urology hospital in Mumbai is equipped with state-of-the-art technology and staffed by experienced medical professionals. They are dedicated to delivering high-quality care and ensuring optimal outcomes for every patient.
+              - heading "How to choose the best hospital in Mumbai for urology?" [level=2] [ref=e1054]:
+                - strong [ref=e1055]: How to choose the best hospital in Mumbai for urology?
+              - paragraph [ref=e1056]: Exploring a network of the urology hospital in Mumbai can seem challenging. However, making the right choice is crucial for your health. The key pointers to consider are given below.
+              - list [ref=e1057]:
+                - listitem [level=1] [ref=e1058]:
+                  - strong [ref=e1059]: Reputation
+                  - text: ": Look for hospitals with strong credibility for excellence in urological care. Check patient reviews and testimonials to gauge their track record."
+                - listitem [level=1] [ref=e1060]:
+                  - strong [ref=e1061]: Specialisations
+                  - text: ": Consider centres with expertise in treating your specific condition, whether kidney stones or prostate issues."
+                - listitem [level=1] [ref=e1062]:
+                  - strong [ref=e1063]: Facilities and Technology
+                  - text: ": Choose a facility with modern amenities and innovative techniques for accurate diagnosis."
+                - listitem [level=1] [ref=e1064]:
+                  - strong [ref=e1065]: Accessibility and Support Services
+                  - text: ": Assess the location and availability of resources. This facilitates timely access to medical care for emergencies and post-operative follow-ups."
+              - heading "Why are the hospitals in Mumbai best for urology procedures?" [level=2] [ref=e1066]:
+                - strong [ref=e1067]: Why are the hospitals in Mumbai best for urology procedures?
+              - paragraph [ref=e1068]: "Looking for top-notch urology procedures? Mumbai hospitals have an unparalleled reputation for excellence in this field. The reasons to consider the city for the procedure are:"
+              - list [ref=e1069]:
+                - listitem [level=1] [ref=e1070]:
+                  - strong [ref=e1071]: Expertise
+                  - text: ": Mumbai has highly trained urologists with extensive experience diagnosing and treating urinary conditions."
+                - listitem [level=1] [ref=e1072]:
+                  - strong [ref=e1073]: State-of-the-art Facilities
+                  - text: ": Equipped with cutting-edge technology and modern amenities, hospitals in the city ensure precision and efficiency."
+                - listitem [level=1] [ref=e1074]:
+                  - strong [ref=e1075]: Comprehensive Care
+                  - text: ": Prioritising holistic patient care from initial diagnosis to post-operative support."
+                - listitem [level=1] [ref=e1076]:
+                  - strong [ref=e1077]: Location
+                  - text: ": A good location for a hospital ensures easy access for patients, minimising travel time and inconvenience. It should be centrally located with ample parking and accessible public transportation options nearby."
+              - heading "How to schedule an appointment at the best urology hospital in Mumbai?" [level=2] [ref=e1078]:
+                - strong [ref=e1079]: How to schedule an appointment at the best urology hospital in Mumbai?
+              - paragraph [ref=e1080]: "HexaHealth has made setting up an appointment at the best urology hospital in Mumbai easier than ever. Follow these simple steps to book your consultation:"
+              - list [ref=e1081]:
+                - listitem [level=1] [ref=e1082]:
+                  - text: Visit the
+                  - link "HexaHealth" [ref=e1083] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/
+                  - text: website. You may also download the app from the App Store or Google Play Store.
+                - listitem [level=1] [ref=e1084]: Browse through the list of renowned urology hospitals available on the platform.
+                - listitem [level=1] [ref=e1085]: Choose your preferred hospital based on location, ratings, and available appointment slots.
+                - listitem [level=1] [ref=e1086]: Select a convenient date and time.
+                - listitem [level=1] [ref=e1087]: Provide any necessary personal details.
+                - listitem [level=1] [ref=e1088]: Confirm your booking, and you're all set!
+              - heading "Cost of Urology Procedures at Mumbai Hospitals" [level=2] [ref=e1089]:
+                - strong [ref=e1090]: Cost of Urology Procedures at Mumbai Hospitals
+              - paragraph [ref=e1091]: The costs at the best hospital in Mumbai for urology can vary depending on elements such as the type of procedure required. However, the general overview is provided below.
+              - table [ref=e1093]:
+                - rowgroup [ref=e1097]:
+                  - row "Procedure Name Estimated Cost Range" [ref=e1098]:
+                    - columnheader "Procedure Name" [ref=e1099]:
+                      - paragraph [ref=e1100]:
+                        - strong [ref=e1101]: Procedure Name
+                    - columnheader "Estimated Cost Range" [ref=e1102]:
+                      - paragraph [ref=e1103]:
+                        - strong [ref=e1104]: Estimated Cost Range
+                  - row "Urethrotomy ₹ 35,000 to ₹ 90,000" [ref=e1105]:
+                    - cell "Urethrotomy" [ref=e1106]:
+                      - paragraph [ref=e1107]: Urethrotomy
+                    - cell "₹ 35,000 to ₹ 90,000" [ref=e1108]:
+                      - paragraph [ref=e1109]: ₹ 35,000 to ₹ 90,000
+                  - row "Urethral Stricture Repair ₹ 80,000 to ₹ 2,00,000" [ref=e1110]:
+                    - cell "Urethral Stricture Repair" [ref=e1111]:
+                      - paragraph [ref=e1112]: Urethral Stricture Repair
+                    - cell "₹ 80,000 to ₹ 2,00,000" [ref=e1113]:
+                      - paragraph [ref=e1114]: ₹ 80,000 to ₹ 2,00,000
+                  - row "PCNL ₹ 55,000 to ₹ 1,15,000" [ref=e1115]:
+                    - cell "PCNL" [ref=e1116]:
+                      - paragraph [ref=e1117]: PCNL
+                    - cell "₹ 55,000 to ₹ 1,15,000" [ref=e1118]:
+                      - paragraph [ref=e1119]: ₹ 55,000 to ₹ 1,15,000
+                  - row "Transurethral Resection of The Prostate (TURP) ₹ 80,000 to ₹ 2,00,000" [ref=e1120]:
+                    - cell "Transurethral Resection of The Prostate (TURP)" [ref=e1121]:
+                      - paragraph [ref=e1122]: Transurethral Resection of The Prostate (TURP)
+                    - cell "₹ 80,000 to ₹ 2,00,000" [ref=e1123]:
+                      - paragraph [ref=e1124]: ₹ 80,000 to ₹ 2,00,000
+              - paragraph [ref=e1125]:
+                - strong [ref=e1126]: Note
+                - text: ": The figures mentioned above are rough estimates. For up-to-date pricing information, please contact HexaHealth experts."
+              - heading "Urology Procedures Done in the Hospital" [level=3] [ref=e1127]:
+                - strong [ref=e1128]: Urology Procedures Done in the Hospital
+              - paragraph [ref=e1129]: "Regarding urology procedures, hospitals in Mumbai offer a comprehensive range of services to address various urinary tract issues. The common procedures you can expect are:"
+              - list [ref=e1130]:
+                - listitem [level=1] [ref=e1131]:
+                  - strong [ref=e1132]:
+                    - link "Cystoscopy" [ref=e1133] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/treatment/diagnostic-cystoscopy
+                  - text: ": Examining the bladder and urethra using a thin, flexible tube equipped with a camera."
+                - listitem [level=1] [ref=e1134]:
+                  - link "Transurethral Resection of the Prostate (TURP)" [ref=e1135] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/treatment/turp-surgery
+                    - strong [ref=e1136]: T
+                    - strong [ref=e1137]: ransurethral Resection of the Prostate (TURP)
+                  - text: ": Surgery to relieve urinary symptoms caused by an enlarged prostate gland by removing excess tissue."
+                - listitem [level=1] [ref=e1138]:
+                  - strong [ref=e1139]:
+                    - link "Lithotripsy" [ref=e1140] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/treatment/cystolithotripsy
+                  - text: ": Non-invasive procedure to break kidney stones into smaller pieces using shock waves."
+                - listitem [level=1] [ref=e1141]:
+                  - strong [ref=e1142]:
+                    - link "Ureteroscopy" [ref=e1143] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/treatment/ureteroscopy
+                  - text: ": Method to diagnose and treat conditions of the ureter and kidney using a small camera passed through the urinary tract."
+              - heading "Explore Leading Urology Care in Mumbai with HexaHealth" [level=2] [ref=e1144]:
+                - strong [ref=e1145]: Explore Leading Urology Care in Mumbai with HexaHealth
+              - paragraph [ref=e1146]:
+                - text: The
+                - link "best urology hospital in Mumbai" [ref=e1147] [cursor=pointer]:
+                  - /url: https://www.hexahealth.com/mumbai/hospitals/urology
+                - text: offers various advanced procedures and treatments to address urinary tract conditions. Backed by skilled urologists and modern facilities, patients can consider them.
+              - paragraph [ref=e1148]: For those seeking seamless access to the best hospital in Mumbai for urology, HexaHealth provides a user-friendly platform to schedule appointments. We ensure a smoother and more efficient healthcare experience. Get in touch!
+          - generic [ref=e1151]:
+            - heading "FAQs" [level=2] [ref=e1152]
+            - generic [ref=e1153]:
+              - heading "What is urology?" [level=3] [ref=e1156] [cursor=pointer]
+              - heading "Which is the best hospital in Mumbai for urology?" [level=3] [ref=e1159] [cursor=pointer]
+              - heading "How do you choose a urology hospital in Mumbai?" [level=3] [ref=e1162] [cursor=pointer]
+              - heading "What is the treatment cost at the best urology hospital in Mumbai?" [level=3] [ref=e1165] [cursor=pointer]
+              - heading "Do urology hospitals in Mumbai offer insurance coverage?" [level=3] [ref=e1168] [cursor=pointer]
+              - heading "What conditions are generally treated in the urology hospital?" [level=3] [ref=e1171] [cursor=pointer]
+              - heading "Which urologists are associated with the best hospital for urology in Mumbai?" [level=3] [ref=e1174] [cursor=pointer]
+              - heading "What is the recovery period after urology surgery?" [level=3] [ref=e1177] [cursor=pointer]
+              - heading "Does the best hospital for urology in Mumbai offer a high success rate?" [level=3] [ref=e1180] [cursor=pointer]
+              - heading "What are the symptoms that I am suffering from urology-related issues?" [level=3] [ref=e1183] [cursor=pointer]
+              - heading "Does the Mumbai hospitals for urology have offer modern techniques?" [level=3] [ref=e1186] [cursor=pointer]
+              - heading "How can I schedule an appointment at the best hospital for urology in Mumbai?" [level=3] [ref=e1189] [cursor=pointer]
+              - heading "Why choose HexaHealth for treatment at the urology hospital in Mumbai?" [level=3] [ref=e1192] [cursor=pointer]
+              - heading "What techniques are used at the best urology hospital in Mumbai?" [level=3] [ref=e1195] [cursor=pointer]
+              - heading "Which is the best Urology hospital in Mumbai?" [level=3] [ref=e1198] [cursor=pointer]
+              - heading "Which are the top 10 Urology hospitals in Mumbai?" [level=3] [ref=e1201] [cursor=pointer]
+              - heading "What facilities are available at Urology hospitals in Mumbai?" [level=3] [ref=e1204] [cursor=pointer]
+              - heading "How can I find the best Urology hospital in Mumbai near me?" [level=3] [ref=e1207] [cursor=pointer]
+          - navigation "breadcrumb" [ref=e1208]:
+            - list [ref=e1209]:
+              - listitem [ref=e1210]:
+                - link "Home" [ref=e1211] [cursor=pointer]:
+                  - /url: /
+                - img [ref=e1212]
+              - listitem [ref=e1214]:
+                - link "Mumbai" [ref=e1215] [cursor=pointer]:
+                  - /url: /mumbai
+                - img [ref=e1216]
+              - listitem [ref=e1218]:
+                - link "Hospitals in Mumbai" [ref=e1219] [cursor=pointer]:
+                  - /url: /mumbai/hospitals
+                - img [ref=e1220]
+              - listitem [ref=e1222]:
+                - generic [ref=e1223]: Urology
+      - generic [ref=e1226]:
+        - paragraph [ref=e1228]: Book Free Appointment
+        - generic [ref=e1229]:
+          - textbox "Enter your name*" [ref=e1233]
+          - generic [ref=e1237]:
+            - generic [ref=e1238]: "+91"
+            - spinbutton [ref=e1240]
+          - button "Book Appointment" [ref=e1241] [cursor=pointer]
+          - paragraph [ref=e1242]:
+            - text: "*By proceeding, you agree to our"
+            - link "terms and conditions" [ref=e1243] [cursor=pointer]:
+              - /url: /terms-conditions
+    - generic [ref=e1244]:
+      - generic [ref=e1245]:
+        - paragraph [ref=e1246]: Urology Hospitals in Nearby & Top Cities
+        - generic [ref=e1247]:
+          - paragraph [ref=e1250]:
+            - link "Urology Hospitals in Ahmedabad" [ref=e1251] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/ahmedabad/hospitals/urology
+          - paragraph [ref=e1254]:
+            - link "Urology Hospitals in Bangalore" [ref=e1255] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/bangalore/hospitals/urology
+          - paragraph [ref=e1258]:
+            - link "Urology Hospitals in Chennai" [ref=e1259] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/chennai/hospitals/urology
+          - paragraph [ref=e1262]:
+            - link "Urology Hospitals in Delhi" [ref=e1263] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/hospitals/urology
+          - paragraph [ref=e1266]:
+            - link "Urology Hospitals in Gurgaon" [ref=e1267] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/gurgaon/hospitals/urology
+          - paragraph [ref=e1270]:
+            - link "Urology Hospitals in Hyderabad" [ref=e1271] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/hyderabad/hospitals/urology
+          - paragraph [ref=e1274]:
+            - link "Urology Hospitals in Jaipur" [ref=e1275] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/jaipur/hospitals/urology
+          - paragraph [ref=e1278]:
+            - link "Urology Hospitals in Mumbai" [ref=e1279] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/mumbai/hospitals/urology
+          - paragraph [ref=e1282]:
+            - link "Urology Hospitals in Mysore" [ref=e1283] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/mysore/hospitals/urology
+          - paragraph [ref=e1286]:
+            - link "Urology Hospitals in Navi Mumbai" [ref=e1287] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/navi-mumbai/hospitals/urology
+          - paragraph [ref=e1290]:
+            - link "Urology Hospitals in Pune" [ref=e1291] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/pune/hospitals/urology
+          - paragraph [ref=e1294]:
+            - link "Urology Hospitals in Thane" [ref=e1295] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/thane/hospitals/urology
+      - generic [ref=e1296]:
+        - paragraph [ref=e1297]: Other Speciality Hospitals in Mumbai
+        - generic [ref=e1298]:
+          - paragraph [ref=e1301]:
+            - link "CTVS Surgery Hospitals in Mumbai" [ref=e1302] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/mumbai/hospitals/ctvs-surgery
+          - paragraph [ref=e1305]:
+            - link "ENT Hospitals in Mumbai" [ref=e1306] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/mumbai/hospitals/ent
+          - paragraph [ref=e1309]:
+            - link "Gastrointestinal Surgery Hospitals in Mumbai" [ref=e1310] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/mumbai/hospitals/gastrointestinal-surgery
+          - paragraph [ref=e1313]:
+            - link "General Surgery Hospitals in Mumbai" [ref=e1314] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/mumbai/hospitals/general-surgery
+          - paragraph [ref=e1317]:
+            - link "Neurosurgery Hospitals in Mumbai" [ref=e1318] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/mumbai/hospitals/neurosurgery
+          - paragraph [ref=e1321]:
+            - link "Obstetrics and Gynaecology Hospitals in Mumbai" [ref=e1322] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/mumbai/hospitals/obstetrics-and-gynaecology
+          - paragraph [ref=e1325]:
+            - link "Ophthalmology Hospitals in Mumbai" [ref=e1326] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/mumbai/hospitals/ophthalmology
+          - paragraph [ref=e1329]:
+            - link "Orthopaedic Hospitals in Mumbai" [ref=e1330] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/mumbai/hospitals/orthopaedic
+          - paragraph [ref=e1333]:
+            - link "Paediatric Surgery Hospitals in Mumbai" [ref=e1334] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/mumbai/hospitals/paediatric-surgery
+          - paragraph [ref=e1337]:
+            - link "Plastic Surgery Hospitals in Mumbai" [ref=e1338] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/mumbai/hospitals/plastic-surgery
+          - paragraph [ref=e1341]:
+            - link "Surgical Oncology Hospitals in Mumbai" [ref=e1342] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/mumbai/hospitals/surgical-oncology
+          - paragraph [ref=e1345]:
+            - link "Urology Hospitals in Mumbai" [ref=e1346] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/mumbai/hospitals/urology
+      - link "get the app" [ref=e1347] [cursor=pointer]:
+        - /url: https://m.hexahealth.com/qLo3
+        - img "get the app" [ref=e1350]
+  - generic [ref=e1351]:
+    - generic [ref=e1352]:
+      - generic [ref=e1354]:
+        - generic [ref=e1358] [cursor=pointer]: Top Doctors
+        - generic [ref=e1362] [cursor=pointer]: Top Hospitals
+        - generic [ref=e1366] [cursor=pointer]: Treatments
+        - generic [ref=e1370] [cursor=pointer]: Ayushman Bharat
+        - generic [ref=e1374] [cursor=pointer]: Insurance
+        - generic [ref=e1378] [cursor=pointer]: Blogs
+      - generic [ref=e1379]:
+        - generic [ref=e1381]:
+          - generic [ref=e1382]:
+            - generic [ref=e1383]: Address
+            - generic [ref=e1384]: Vianam Healthtech Private Limited (HexaHealth), Third Floor Building B, The Presidency, 46/4, Sector 14, Mehrauli Gurgaon Road, Gurgaon, Haryana 122001
+          - generic [ref=e1385]:
+            - generic [ref=e1386]: Follow Us
+            - generic [ref=e1387]:
+              - link "Facebook" [ref=e1389] [cursor=pointer]:
+                - /url: https://www.facebook.com/HexaHealthLive
+                - img "Facebook" [ref=e1390]
+              - link "Twitter" [ref=e1392] [cursor=pointer]:
+                - /url: https://www.twitter.com/hexahealthlive
+                - img "Twitter" [ref=e1393]
+              - link "Linkedin" [ref=e1395] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/hexahealth
+                - img "Linkedin" [ref=e1396]
+              - link "Instagramr" [ref=e1398] [cursor=pointer]:
+                - /url: https://www.instagram.com/hexahealthofficial/
+                - img "Instagram" [ref=e1399]
+              - link "youtube" [ref=e1401] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCsS6Q5M3KqdJ1WWuy5JRmIg
+                - img "YouTube" [ref=e1402]
+          - generic [ref=e1403]:
+            - link "Facebook" [ref=e1404] [cursor=pointer]:
+              - /url: https://m.hexahealth.com/qLo3
+              - img "Facebook" [ref=e1405]
+            - link "Facebook" [ref=e1406] [cursor=pointer]:
+              - /url: https://m.hexahealth.com/qLo3
+              - img "Facebook" [ref=e1407]
+        - generic [ref=e1409]:
+          - text: Medical Tests
+          - list [ref=e1410]:
+            - listitem [ref=e1411]:
+              - link "MPV Blood Test in Hindi" [ref=e1412] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/mpv-blood-test-in-hindi
+          - list [ref=e1413]:
+            - listitem [ref=e1414]:
+              - link "MCH Blood Test in Hindi" [ref=e1415] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/mch-blood-test-in-hindi
+          - list [ref=e1416]:
+            - listitem [ref=e1417]:
+              - link "ESR Blood Test" [ref=e1418] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/esr-blood-test
+          - list [ref=e1419]:
+            - listitem [ref=e1420]:
+              - link "Double Marker Test" [ref=e1421] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/double-marker-test
+          - list [ref=e1422]:
+            - listitem [ref=e1423]:
+              - link "HCT Blood Test in Hindi" [ref=e1424] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/hct-blood-test-in-hindi
+          - list [ref=e1425]:
+            - listitem [ref=e1426]:
+              - link "TB Gold Test" [ref=e1427] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/tb-gold-test
+          - list [ref=e1428]:
+            - listitem [ref=e1429]:
+              - link "CA 125 Blood Test" [ref=e1430] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/ca-125-blood-test
+          - list [ref=e1431]:
+            - listitem [ref=e1432]:
+              - link "CA 125 Test in Hindi" [ref=e1433] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/ca-125-test-in-hindi
+          - list [ref=e1434]:
+            - listitem [ref=e1435]:
+              - link "SGPT Test" [ref=e1436] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/sgpt-test
+          - list [ref=e1437]:
+            - listitem [ref=e1438]:
+              - link "ANC Profile Test" [ref=e1439] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/anc-profile-test
+          - list [ref=e1440]:
+            - listitem [ref=e1441]:
+              - link "Serum Iron Test" [ref=e1442] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/serum-iron-test
+          - list [ref=e1443]:
+            - listitem [ref=e1444]:
+              - link "RGU Test" [ref=e1445] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/rgu-test
+          - list [ref=e1446]:
+            - listitem [ref=e1447]:
+              - link "Double Marker Test in Hindi" [ref=e1448] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/double-marker-test-in-hindi
+        - generic [ref=e1450]:
+          - text: HexaHealth
+          - list [ref=e1451]:
+            - listitem [ref=e1452]:
+              - link "About Us" [ref=e1453] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/about-us
+          - list [ref=e1454]:
+            - listitem [ref=e1455]:
+              - link "Contact Us" [ref=e1456] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/contact-us
+          - list [ref=e1457]:
+            - listitem [ref=e1458]:
+              - link "For Investors" [ref=e1459] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/investor
+          - list [ref=e1460]:
+            - listitem [ref=e1461]:
+              - link "Partner With Us" [ref=e1462] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/partner-with-us
+          - list [ref=e1463]:
+            - listitem [ref=e1464]:
+              - link "FAQs" [ref=e1465] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/faq
+          - list [ref=e1466]:
+            - listitem [ref=e1467]:
+              - link "Press & Media" [ref=e1468] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/press
+          - list [ref=e1469]:
+            - listitem [ref=e1470]:
+              - link "Medical Reviewers" [ref=e1471] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/reviewers
+          - list [ref=e1472]:
+            - listitem [ref=e1473]:
+              - link "Authors" [ref=e1474] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/authors
+          - list [ref=e1475]:
+            - listitem [ref=e1476]:
+              - link "Careers" [ref=e1477] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/careers
+          - list [ref=e1478]:
+            - listitem [ref=e1479]:
+              - link "Site Map" [ref=e1480] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/sitemap.xml
+        - generic [ref=e1482]:
+          - text: Policies
+          - list [ref=e1483]:
+            - listitem [ref=e1484]:
+              - link "Privacy Policy" [ref=e1485] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/privacy
+          - list [ref=e1486]:
+            - listitem [ref=e1487]:
+              - link "Refund Policy" [ref=e1488] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/refund-policy
+          - list [ref=e1489]:
+            - listitem [ref=e1490]:
+              - link "Terms & Conditions" [ref=e1491] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/terms-conditions
+          - list [ref=e1492]:
+            - listitem [ref=e1493]:
+              - link "Editorial Policy" [ref=e1494] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/editorial-policy
+        - generic [ref=e1496]:
+          - text: For Patients
+          - list [ref=e1497]:
+            - listitem [ref=e1498]:
+              - link "All Doctors" [ref=e1499] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/doctors
+          - list [ref=e1500]:
+            - listitem [ref=e1501]:
+              - link "All Hospitals" [ref=e1502] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals
+          - list [ref=e1503]:
+            - listitem [ref=e1504]:
+              - link "All Conditions" [ref=e1505] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/condition
+          - list [ref=e1506]:
+            - listitem [ref=e1507]:
+              - link "All Treatments" [ref=e1508] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/treatment
+          - list [ref=e1509]:
+            - listitem [ref=e1510]:
+              - link "All Departments" [ref=e1511] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/departments
+          - list [ref=e1512]:
+            - listitem [ref=e1513]:
+              - link "Second Opinion" [ref=e1514] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/services/second-opinion
+          - list [ref=e1515]:
+            - listitem [ref=e1516]:
+              - link "Medical Loan" [ref=e1517] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/services/medical-loan
+          - list [ref=e1518]:
+            - listitem [ref=e1519]:
+              - link "BMI Calculator" [ref=e1520] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/tools/bmi-calculator
+          - list [ref=e1521]:
+            - listitem [ref=e1522]:
+              - link "English Blog" [ref=e1523] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/blog
+          - list [ref=e1524]:
+            - listitem [ref=e1525]:
+              - link "Hindi Blog" [ref=e1526] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/blog
+          - list [ref=e1527]:
+            - listitem [ref=e1528]:
+              - link "HexaHealth Reviews" [ref=e1529] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/reviews
+          - list [ref=e1530]:
+            - listitem [ref=e1531]:
+              - link "All Cities" [ref=e1532] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/india
+          - list [ref=e1533]:
+            - listitem [ref=e1534]:
+              - link "All Insurance Hospitals" [ref=e1535] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals/insurance
+          - list [ref=e1536]:
+            - listitem [ref=e1537]:
+              - link "Health Policy Assistant" [ref=e1538] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/health-insurance-policy-help
+    - generic [ref=e1540]: Vianam Healthtech Private Limited © 2026. All Rights Reserved.
+  - alert [ref=e1541]
+  - generic [ref=e1543]:
+    - text: BOOK NOW
+    - img [ref=e1544]
+```
