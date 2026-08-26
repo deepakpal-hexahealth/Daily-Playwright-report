@@ -1,0 +1,1131 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6]:
+          - link "HexaHealth Colored Logo" [ref=e8] [cursor=pointer]:
+            - /url: /
+            - img "HexaHealth Colored Logo" [ref=e9]
+          - list [ref=e11] [cursor=pointer]:
+            - listitem [ref=e12]:
+              - generic [ref=e13]: Departments
+            - listitem [ref=e14]:
+              - generic [ref=e15]: Conditions
+            - listitem [ref=e16]:
+              - generic [ref=e17]: Treatments
+        - generic [ref=e19]:
+          - generic [ref=e20]:
+            - img "search" [ref=e23] [cursor=pointer]
+            - generic [ref=e24]:
+              - link "WhatsApp Expert" [ref=e25] [cursor=pointer]:
+                - /url: https://wa.me/918860688606?text=Hi, I want to know more about Laparoscopic Cholecystectomy in Delhi Treatment-ID=93 Tier-ID=1 City-ID=514
+              - link "+91 8065827395" [ref=e26] [cursor=pointer]:
+                - /url: tel:+918065827395
+          - generic [ref=e28] [cursor=pointer]: Login
+    - paragraph [ref=e32] [cursor=pointer]: Get Second Opinion from Top Surgeons! Book an Appointment »
+    - document [ref=e34]:
+      - generic [ref=e35]:
+        - paragraph [ref=e36]: Location
+        - button [ref=e37] [cursor=pointer]
+      - generic [ref=e41]:
+        - generic [ref=e42]:
+          - textbox [ref=e46]:
+            - /placeholder: Search your city
+          - button [ref=e48] [cursor=pointer]: Near me
+        - generic [ref=e49]:
+          - generic [ref=e50] [cursor=pointer]:
+            - img [ref=e51]
+            - generic [ref=e52]: Delhi
+          - generic [ref=e53] [cursor=pointer]:
+            - img [ref=e54]
+            - generic [ref=e55]: Mumbai
+          - generic [ref=e56] [cursor=pointer]:
+            - img [ref=e57]
+            - generic [ref=e58]: Bangalore
+          - generic [ref=e59] [cursor=pointer]:
+            - img [ref=e60]
+            - generic [ref=e61]: Gurgaon
+          - generic [ref=e62] [cursor=pointer]:
+            - img [ref=e63]
+            - generic [ref=e64]: Noida
+          - generic [ref=e65] [cursor=pointer]:
+            - img [ref=e66]
+            - generic [ref=e67]: Pune
+        - generic [ref=e68]:
+          - paragraph [ref=e69]: Other Cities
+          - generic [ref=e70]:
+            - generic [ref=e72] [cursor=pointer]: Agartala
+            - generic [ref=e74] [cursor=pointer]: Agra
+            - generic [ref=e76] [cursor=pointer]: Ahmednagar
+            - generic [ref=e78] [cursor=pointer]: Ahmedabad
+            - generic [ref=e80] [cursor=pointer]: Aizawl
+            - generic [ref=e82] [cursor=pointer]: Ajmer
+            - generic [ref=e84] [cursor=pointer]: Akola
+            - generic [ref=e86] [cursor=pointer]: Alappuzha
+            - generic [ref=e88] [cursor=pointer]: Aligarh
+            - generic [ref=e90] [cursor=pointer]: Prayagraj
+            - generic [ref=e92] [cursor=pointer]: Almora
+            - generic [ref=e94] [cursor=pointer]: Alwar
+            - generic [ref=e96] [cursor=pointer]: Ambala
+            - generic [ref=e98] [cursor=pointer]: Ambedkar nagar
+            - generic [ref=e100] [cursor=pointer]: Amravati
+            - generic [ref=e102] [cursor=pointer]: Amritsar
+            - generic [ref=e104] [cursor=pointer]: Anand
+            - generic [ref=e106] [cursor=pointer]: Ananthapur
+            - generic [ref=e108] [cursor=pointer]: Aurangabad
+            - generic [ref=e110] [cursor=pointer]: Azamgarh
+            - generic [ref=e112] [cursor=pointer]: Bagalkot
+            - generic [ref=e114] [cursor=pointer]: Bagpat
+            - generic [ref=e116] [cursor=pointer]: Balangir
+            - generic [ref=e118] [cursor=pointer]: Balasore
+            - generic [ref=e120] [cursor=pointer]: Baleswar
+            - generic [ref=e122] [cursor=pointer]: Bankura
+            - generic [ref=e124] [cursor=pointer]: Barabanki
+            - generic [ref=e126] [cursor=pointer]: Burdwan
+            - generic [ref=e128] [cursor=pointer]: Bareilly
+            - generic [ref=e130] [cursor=pointer]: Barmer
+            - generic [ref=e132] [cursor=pointer]: Bathinda
+            - generic [ref=e134] [cursor=pointer]: Begusarai
+            - generic [ref=e136] [cursor=pointer]: Belagavi
+            - generic [ref=e138] [cursor=pointer]: Bellary
+            - generic [ref=e140] [cursor=pointer]: Bengaluru Rural
+            - generic [ref=e142] [cursor=pointer]: Bhadrak
+            - generic [ref=e144] [cursor=pointer]: Bhagalpur
+            - generic [ref=e146] [cursor=pointer]: Bharatpur
+            - generic [ref=e148] [cursor=pointer]: Bharuch
+            - generic [ref=e150] [cursor=pointer]: Bhavnagar
+            - generic [ref=e152] [cursor=pointer]: Bhiwani
+            - generic [ref=e154] [cursor=pointer]: Bhopal
+            - generic [ref=e156] [cursor=pointer]: Bidar
+            - generic [ref=e158] [cursor=pointer]: Bijnor
+            - generic [ref=e160] [cursor=pointer]: Bikaner
+            - generic [ref=e162] [cursor=pointer]: Bilaspur
+            - generic [ref=e164] [cursor=pointer]: Birbhum
+            - generic [ref=e166] [cursor=pointer]: Bokaro
+            - generic [ref=e168] [cursor=pointer]: Bulandshahr
+            - generic [ref=e170] [cursor=pointer]: Cachar
+            - generic [ref=e172] [cursor=pointer]: Chamba
+            - generic [ref=e174] [cursor=pointer]: Chandigarh
+            - generic [ref=e176] [cursor=pointer]: Chandrapur
+            - generic [ref=e178] [cursor=pointer]: Chennai
+            - generic [ref=e180] [cursor=pointer]: Chhindwara
+            - generic [ref=e182] [cursor=pointer]: Chikkamagaluru
+            - generic [ref=e184] [cursor=pointer]: Chikkaballapur
+            - generic [ref=e186] [cursor=pointer]: Chikkamagaluru
+            - generic [ref=e188] [cursor=pointer]: Chitrakoot
+            - generic [ref=e190] [cursor=pointer]: Tirupati
+            - generic [ref=e192] [cursor=pointer]: Coimbatore
+            - generic [ref=e194] [cursor=pointer]: Cooch behar
+            - generic [ref=e196] [cursor=pointer]: Puducherry
+            - generic [ref=e198] [cursor=pointer]: Siliguri
+            - generic [ref=e200] [cursor=pointer]: Dahod
+            - generic [ref=e202] [cursor=pointer]: Dakshina kannada
+            - generic [ref=e204] [cursor=pointer]: Darbhanga
+            - generic [ref=e206] [cursor=pointer]: Darjeeling
+            - generic [ref=e208] [cursor=pointer]: Dausa
+            - generic [ref=e210] [cursor=pointer]: Davangere
+            - generic [ref=e212] [cursor=pointer]: Dehradun
+            - generic [ref=e214] [cursor=pointer]: Dhanbad
+            - generic [ref=e216] [cursor=pointer]: Dharmapuri
+            - generic [ref=e218] [cursor=pointer]: Dharwad
+            - generic [ref=e220] [cursor=pointer]: Dhule
+            - generic [ref=e222] [cursor=pointer]: Dibrugarh
+            - generic [ref=e224] [cursor=pointer]: Dindigul
+            - generic [ref=e226] [cursor=pointer]: Bhilai
+            - generic [ref=e228] [cursor=pointer]: East godavari
+            - generic [ref=e230] [cursor=pointer]: East midnapore
+            - generic [ref=e232] [cursor=pointer]: East singhbhum
+            - generic [ref=e234] [cursor=pointer]: Ernakulam
+            - generic [ref=e236] [cursor=pointer]: Erode
+            - generic [ref=e238] [cursor=pointer]: Ayodhya
+            - generic [ref=e240] [cursor=pointer]: Faridabad
+            - generic [ref=e242] [cursor=pointer]: Faridkot
+            - generic [ref=e244] [cursor=pointer]: Farrukhabad
+            - generic [ref=e246] [cursor=pointer]: Fatehabad
+            - generic [ref=e248] [cursor=pointer]: Firozpur
+            - generic [ref=e250] [cursor=pointer]: Gadchiroli
+            - generic [ref=e252] [cursor=pointer]: Gandhinagar
+            - generic [ref=e254] [cursor=pointer]: Gaya
+            - generic [ref=e256] [cursor=pointer]: Ghaziabad
+            - generic [ref=e258] [cursor=pointer]: Ghazipur
+            - generic [ref=e260] [cursor=pointer]: Gonda
+            - generic [ref=e262] [cursor=pointer]: Gondia
+            - generic [ref=e264] [cursor=pointer]: Gorakhpur
+            - generic [ref=e266] [cursor=pointer]: Gulbarga
+            - generic [ref=e268] [cursor=pointer]: Vaddeswaram
+            - generic [ref=e270] [cursor=pointer]: Pathankot
+            - generic [ref=e272] [cursor=pointer]: Gwalior
+            - generic [ref=e274] [cursor=pointer]: Hanamkonda
+            - generic [ref=e276] [cursor=pointer]: Hapur
+            - generic [ref=e278] [cursor=pointer]: Haridwar
+            - generic [ref=e280] [cursor=pointer]: Hassan
+            - generic [ref=e282] [cursor=pointer]: Hazaribag
+            - generic [ref=e284] [cursor=pointer]: Hisar
+            - generic [ref=e286] [cursor=pointer]: Hooghly
+            - generic [ref=e288] [cursor=pointer]: Hoshiarpur
+            - generic [ref=e290] [cursor=pointer]: Howrah
+            - generic [ref=e292] [cursor=pointer]: Hyderabad
+            - generic [ref=e294] [cursor=pointer]: Idukki
+            - generic [ref=e296] [cursor=pointer]: Imphal west
+            - generic [ref=e298] [cursor=pointer]: Indore
+            - generic [ref=e300] [cursor=pointer]: Jabalpur
+            - generic [ref=e302] [cursor=pointer]: Jaipur
+            - generic [ref=e304] [cursor=pointer]: Jaisalmer
+            - generic [ref=e306] [cursor=pointer]: Jalandhar
+            - generic [ref=e308] [cursor=pointer]: Jalgaon
+            - generic [ref=e310] [cursor=pointer]: Jalna
+            - generic [ref=e312] [cursor=pointer]: Jalpaiguri
+            - generic [ref=e314] [cursor=pointer]: Jammu
+            - generic [ref=e316] [cursor=pointer]: Jamnagar
+            - generic [ref=e318] [cursor=pointer]: Jaunpur
+            - generic [ref=e320] [cursor=pointer]: Bahadurgarh
+            - generic [ref=e322] [cursor=pointer]: Jhalawar
+            - generic [ref=e324] [cursor=pointer]: Jhansi
+            - generic [ref=e326] [cursor=pointer]: Jhunjhunu
+            - generic [ref=e328] [cursor=pointer]: Jind
+            - generic [ref=e330] [cursor=pointer]: Jodhpur
+            - generic [ref=e332] [cursor=pointer]: Junagadh
+            - generic [ref=e334] [cursor=pointer]: Kachchh
+            - generic [ref=e336] [cursor=pointer]: Kaithal
+            - generic [ref=e338] [cursor=pointer]: Kalaburagi
+            - generic [ref=e340] [cursor=pointer]: Kamrup
+            - generic [ref=e342] [cursor=pointer]: Kanchipuram
+            - generic [ref=e344] [cursor=pointer]: Kangra
+            - generic [ref=e346] [cursor=pointer]: Kanker
+            - generic [ref=e348] [cursor=pointer]: Kannur
+            - generic [ref=e350] [cursor=pointer]: Kanpur Dehat
+            - generic [ref=e352] [cursor=pointer]: Kanpur
+            - generic [ref=e354] [cursor=pointer]: Karim Nagar
+            - generic [ref=e356] [cursor=pointer]: Karnal
+            - generic [ref=e358] [cursor=pointer]: Karur
+            - generic [ref=e360] [cursor=pointer]: Kasargod
+            - generic [ref=e362] [cursor=pointer]: Katihar
+            - generic [ref=e364] [cursor=pointer]: Khammam
+            - generic [ref=e366] [cursor=pointer]: Khandwa
+            - generic [ref=e368] [cursor=pointer]: Kishanganj
+            - generic [ref=e370] [cursor=pointer]: Kolar
+            - generic [ref=e372] [cursor=pointer]: Kolhapur
+            - generic [ref=e374] [cursor=pointer]: Kolkata
+            - generic [ref=e376] [cursor=pointer]: Kollam
+            - generic [ref=e378] [cursor=pointer]: Koppal
+            - generic [ref=e380] [cursor=pointer]: Korba
+            - generic [ref=e382] [cursor=pointer]: Kota
+            - generic [ref=e384] [cursor=pointer]: Kottayam
+            - generic [ref=e386] [cursor=pointer]: Kozhikode
+            - generic [ref=e388] [cursor=pointer]: Krishnagiri
+            - generic [ref=e390] [cursor=pointer]: Kurnool
+            - generic [ref=e392] [cursor=pointer]: Kurukshetra
+            - generic [ref=e394] [cursor=pointer]: Kushinagar
+            - generic [ref=e396] [cursor=pointer]: Lalitpur
+            - generic [ref=e398] [cursor=pointer]: Latur
+            - generic [ref=e400] [cursor=pointer]: Lucknow
+            - generic [ref=e402] [cursor=pointer]: Ludhiana
+            - generic [ref=e404] [cursor=pointer]: Madurai
+            - generic [ref=e406] [cursor=pointer]: Mahabub nagar
+            - generic [ref=e408] [cursor=pointer]: Mahasamund
+            - generic [ref=e410] [cursor=pointer]: Mahendragarh
+            - generic [ref=e412] [cursor=pointer]: Mahesana
+            - generic [ref=e414] [cursor=pointer]: Malappuram
+            - generic [ref=e416] [cursor=pointer]: Malda
+            - generic [ref=e418] [cursor=pointer]: Mancherial
+            - generic [ref=e420] [cursor=pointer]: Mandsaur
+            - generic [ref=e422] [cursor=pointer]: Mandya
+            - generic [ref=e424] [cursor=pointer]: Mathura
+            - generic [ref=e426] [cursor=pointer]: Meerut
+            - generic [ref=e428] [cursor=pointer]: Moga
+            - generic [ref=e430] [cursor=pointer]: Mohali
+            - generic [ref=e432] [cursor=pointer]: Moradabad
+            - generic [ref=e434] [cursor=pointer]: Morbi
+            - generic [ref=e436] [cursor=pointer]: Murshidabad
+            - generic [ref=e438] [cursor=pointer]: Muzaffarnagar
+            - generic [ref=e440] [cursor=pointer]: Muzaffarpur
+            - generic [ref=e442] [cursor=pointer]: Mysore
+            - generic [ref=e444] [cursor=pointer]: Nadia
+            - generic [ref=e446] [cursor=pointer]: Nagaon
+            - generic [ref=e448] [cursor=pointer]: Nagaur
+            - generic [ref=e450] [cursor=pointer]: Nagpur
+            - generic [ref=e452] [cursor=pointer]: Nalgonda
+            - generic [ref=e454] [cursor=pointer]: Namakkal
+            - generic [ref=e456] [cursor=pointer]: Nanded
+            - generic [ref=e458] [cursor=pointer]: Nashik
+            - generic [ref=e460] [cursor=pointer]: Navsari
+            - generic [ref=e462] [cursor=pointer]: Nawada
+            - generic [ref=e464] [cursor=pointer]: Nellore
+            - generic [ref=e466] [cursor=pointer]: Nizamabad
+            - generic [ref=e468] [cursor=pointer]: North Goa
+            - generic [ref=e470] [cursor=pointer]: Palakkad
+            - generic [ref=e472] [cursor=pointer]: Palghar
+            - generic [ref=e474] [cursor=pointer]: Panchkula
+            - generic [ref=e476] [cursor=pointer]: Panipat
+            - generic [ref=e478] [cursor=pointer]: Patan
+            - generic [ref=e480] [cursor=pointer]: Pathanamthitta
+            - generic [ref=e482] [cursor=pointer]: Patiala
+            - generic [ref=e484] [cursor=pointer]: Patna
+            - generic [ref=e486] [cursor=pointer]: Perambalur
+            - generic [ref=e488] [cursor=pointer]: Port blair
+            - generic [ref=e490] [cursor=pointer]: Pudukkottai
+            - generic [ref=e492] [cursor=pointer]: Pulwama
+            - generic [ref=e494] [cursor=pointer]: Puri
+            - generic [ref=e496] [cursor=pointer]: Purnia
+            - generic [ref=e498] [cursor=pointer]: Raigarh(mh)
+            - generic [ref=e500] [cursor=pointer]: Raipur
+            - generic [ref=e502] [cursor=pointer]: Rajkot
+            - generic [ref=e504] [cursor=pointer]: Ramanathapuram
+            - generic [ref=e506] [cursor=pointer]: Rampur
+            - generic [ref=e508] [cursor=pointer]: Ranchi
+            - generic [ref=e510] [cursor=pointer]: Rangareddy
+            - generic [ref=e512] [cursor=pointer]: Ratnagiri
+            - generic [ref=e514] [cursor=pointer]: Rewa
+            - generic [ref=e516] [cursor=pointer]: Rewari
+            - generic [ref=e518] [cursor=pointer]: Ri bhoi
+            - generic [ref=e520] [cursor=pointer]: Rohtak
+            - generic [ref=e522] [cursor=pointer]: Sagar
+            - generic [ref=e524] [cursor=pointer]: Saharanpur
+            - generic [ref=e526] [cursor=pointer]: Salem
+            - generic [ref=e528] [cursor=pointer]: Samastipur
+            - generic [ref=e530] [cursor=pointer]: Sambalpur
+            - generic [ref=e532] [cursor=pointer]: Sangli
+            - generic [ref=e534] [cursor=pointer]: Satara
+            - generic [ref=e536] [cursor=pointer]: Satna
+            - generic [ref=e538] [cursor=pointer]: Sehore
+            - generic [ref=e540] [cursor=pointer]: Seoni
+            - generic [ref=e542] [cursor=pointer]: Shahdol
+            - generic [ref=e544] [cursor=pointer]: Shimla
+            - generic [ref=e546] [cursor=pointer]: Shopian
+            - generic [ref=e548] [cursor=pointer]: Siddipet
+            - generic [ref=e550] [cursor=pointer]: Sikar
+            - generic [ref=e552] [cursor=pointer]: Sircilla
+            - generic [ref=e554] [cursor=pointer]: Sirmaur
+            - generic [ref=e556] [cursor=pointer]: Sirsa
+            - generic [ref=e558] [cursor=pointer]: Sitapur
+            - generic [ref=e560] [cursor=pointer]: Sivaganga
+            - generic [ref=e562] [cursor=pointer]: Solan
+            - generic [ref=e564] [cursor=pointer]: Solapur
+            - generic [ref=e566] [cursor=pointer]: Sonipat
+            - generic [ref=e568] [cursor=pointer]: South 24 parganas
+            - generic [ref=e570] [cursor=pointer]: South goa
+            - generic [ref=e572] [cursor=pointer]: Sri ganganagar
+            - generic [ref=e574] [cursor=pointer]: Sriganganagar
+            - generic [ref=e576] [cursor=pointer]: Srikakulam
+            - generic [ref=e578] [cursor=pointer]: Srinagar
+            - generic [ref=e580] [cursor=pointer]: Sundergarh
+            - generic [ref=e582] [cursor=pointer]: Surat
+            - generic [ref=e584] [cursor=pointer]: Surguja
+            - generic [ref=e586] [cursor=pointer]: Suryapet
+            - generic [ref=e588] [cursor=pointer]: Tarn taran
+            - generic [ref=e590] [cursor=pointer]: Thane
+            - generic [ref=e592] [cursor=pointer]: Thanjavur
+            - generic [ref=e594] [cursor=pointer]: Theni
+            - generic [ref=e596] [cursor=pointer]: Thiruvanthapuram
+            - generic [ref=e598] [cursor=pointer]: Thrissur
+            - generic [ref=e600] [cursor=pointer]: Tikamgarh
+            - generic [ref=e602] [cursor=pointer]: Tiruchirappalli
+            - generic [ref=e604] [cursor=pointer]: Tirunelveli
+            - generic [ref=e606] [cursor=pointer]: Tiruppur
+            - generic [ref=e608] [cursor=pointer]: Tiruvannamalai
+            - generic [ref=e610] [cursor=pointer]: Tumakuru
+            - generic [ref=e612] [cursor=pointer]: Kovilpatti
+            - generic [ref=e614] [cursor=pointer]: Udaipur
+            - generic [ref=e616] [cursor=pointer]: Udham singh nagar
+            - generic [ref=e618] [cursor=pointer]: Udhampur
+            - generic [ref=e620] [cursor=pointer]: Udupi
+            - generic [ref=e622] [cursor=pointer]: Ujjain
+            - generic [ref=e624] [cursor=pointer]: Unnao
+            - generic [ref=e626] [cursor=pointer]: Vadodara
+            - generic [ref=e628] [cursor=pointer]: Valsad
+            - generic [ref=e630] [cursor=pointer]: Varanasi
+            - generic [ref=e632] [cursor=pointer]: Vellore
+            - generic [ref=e634] [cursor=pointer]: Villupuram
+            - generic [ref=e636] [cursor=pointer]: Visakhapatnam
+            - generic [ref=e638] [cursor=pointer]: Vizianagaram
+            - generic [ref=e640] [cursor=pointer]: Warangal
+            - generic [ref=e642] [cursor=pointer]: Wayanad
+            - generic [ref=e644] [cursor=pointer]: West godavari
+            - generic [ref=e646] [cursor=pointer]: West midnapore
+            - generic [ref=e648] [cursor=pointer]: Yamunanagar
+            - generic [ref=e650] [cursor=pointer]: Yavatmal
+            - generic [ref=e652] [cursor=pointer]: Navi Mumbai
+            - generic [ref=e654] [cursor=pointer]: Guwahati
+            - generic [ref=e656] [cursor=pointer]: Jamshedpur
+            - generic [ref=e658] [cursor=pointer]: Shimoga
+            - generic [ref=e660] [cursor=pointer]: Katra
+            - generic [ref=e662] [cursor=pointer]: Hosur
+            - generic [ref=e664] [cursor=pointer]: Mangaluru
+            - generic [ref=e666] [cursor=pointer]: Hubli
+            - generic [ref=e668] [cursor=pointer]: Bhubaneswar
+            - generic [ref=e670] [cursor=pointer]: Thavalakuppam
+            - generic [ref=e672] [cursor=pointer]: Secunderabad
+            - generic [ref=e674] [cursor=pointer]: Vijayawada
+            - generic [ref=e676] [cursor=pointer]: Vapi
+            - generic [ref=e678] [cursor=pointer]: Vasai-virar
+            - generic [ref=e680] [cursor=pointer]: Durgapur
+            - generic [ref=e682] [cursor=pointer]: Palanpur
+            - generic [ref=e684] [cursor=pointer]: Ongole
+            - generic [ref=e686] [cursor=pointer]: Bandel
+            - generic [ref=e688] [cursor=pointer]: Margao
+            - generic [ref=e690] [cursor=pointer]: Chicalim
+            - generic [ref=e692] [cursor=pointer]: Kashipur
+            - generic [ref=e694] [cursor=pointer]: Mira bhayandar
+            - generic [ref=e696] [cursor=pointer]: Haldwani
+            - generic [ref=e698] [cursor=pointer]: Cuttack
+            - generic [ref=e700] [cursor=pointer]: Greater Noida
+            - generic [ref=e702] [cursor=pointer]: Kakinada
+            - generic [ref=e704] [cursor=pointer]: Nagercoil
+            - generic [ref=e706] [cursor=pointer]: Shillong
+            - generic [ref=e708] [cursor=pointer]: Guntur
+            - generic [ref=e710] [cursor=pointer]: Rajahmundry
+            - generic [ref=e712] [cursor=pointer]: Baghpat
+            - generic [ref=e714] [cursor=pointer]: Dombivli
+            - generic [ref=e716] [cursor=pointer]: Kalyan
+            - generic [ref=e718] [cursor=pointer]: Kothrud
+            - generic [ref=e720] [cursor=pointer]: Barrackpur
+            - generic [ref=e722] [cursor=pointer]: Barasat
+            - generic [ref=e724] [cursor=pointer]: Khardaha
+            - generic [ref=e726] [cursor=pointer]: Dum Dum
+            - generic [ref=e728] [cursor=pointer]: Sangamner
+            - generic [ref=e730] [cursor=pointer]: Thiruvallur
+            - generic [ref=e732] [cursor=pointer]: Kallakurichi
+            - generic [ref=e734] [cursor=pointer]: Kumbakonam
+            - generic [ref=e736] [cursor=pointer]: Belgaum
+            - generic [ref=e738] [cursor=pointer]: Tumkur
+            - generic [ref=e740] [cursor=pointer]: Tiruvallur
+            - generic [ref=e742] [cursor=pointer]: North 24 Parganas
+            - generic [ref=e744] [cursor=pointer]: Bhimavaram
+            - generic [ref=e746] [cursor=pointer]: Bahror
+            - generic [ref=e748] [cursor=pointer]: Palwal
+            - generic [ref=e750] [cursor=pointer]: Tollygunge
+            - generic [ref=e752] [cursor=pointer]: Rourkela
+            - generic [ref=e754] [cursor=pointer]: Jhajjar
+            - generic [ref=e756] [cursor=pointer]: Hajipur
+            - generic [ref=e758] [cursor=pointer]: Asansol
+            - generic [ref=e760] [cursor=pointer]: Uttarpara
+            - generic [ref=e762] [cursor=pointer]: Abhanpur
+            - generic [ref=e764] [cursor=pointer]: Dharapur
+            - generic [ref=e766] [cursor=pointer]: Alibaug
+            - generic [ref=e768] [cursor=pointer]: Mangaon
+            - generic [ref=e770] [cursor=pointer]: Anjar
+            - generic [ref=e772] [cursor=pointer]: Bhiwandi
+            - generic [ref=e774] [cursor=pointer]: Eluru
+            - generic [ref=e776] [cursor=pointer]: Cuddalore
+            - generic [ref=e778] [cursor=pointer]: Kottaram
+            - generic [ref=e780] [cursor=pointer]: Darushifa
+            - generic [ref=e782] [cursor=pointer]: Veraval
+            - generic [ref=e784] [cursor=pointer]: Srinagar
+            - generic [ref=e786] [cursor=pointer]: Raiganj
+            - generic [ref=e788] [cursor=pointer]: Rahara
+            - generic [ref=e790] [cursor=pointer]: Bangaon
+            - generic [ref=e792] [cursor=pointer]: Berhampore
+            - generic [ref=e794] [cursor=pointer]: Narnaul
+            - generic [ref=e796] [cursor=pointer]: Paramakudi
+            - generic [ref=e798] [cursor=pointer]: Karaikudi
+            - generic [ref=e800] [cursor=pointer]: Bhawanipatna
+            - generic [ref=e802] [cursor=pointer]: Phagwara
+            - generic [ref=e804] [cursor=pointer]: Channapatna
+            - generic [ref=e806] [cursor=pointer]: Badlapur
+            - generic [ref=e808] [cursor=pointer]: Machilipatnam
+            - generic [ref=e810] [cursor=pointer]: Ulhasnagar
+            - generic [ref=e812] [cursor=pointer]: Tellapur
+            - generic [ref=e814] [cursor=pointer]: Sagwara
+            - generic [ref=e816] [cursor=pointer]: Pimpri-Chinchwad
+            - generic [ref=e818] [cursor=pointer]: Basirhat
+            - generic [ref=e820] [cursor=pointer]: Panihati
+            - generic [ref=e822] [cursor=pointer]: Silchar
+        - button [disabled] [ref=e824] [cursor=pointer]: Next
+    - text: "*"
+    - generic [ref=e825]:
+      - generic [ref=e828]:
+        - heading "Laparoscopic Cholecystectomy in Delhi" [level=1] [ref=e829]
+        - generic [ref=e830]:
+          - generic [ref=e832] [cursor=pointer]:
+            - generic [ref=e833]:
+              - paragraph [ref=e834]: Treatment Duration
+              - generic [ref=e835]:
+                - img "clock" [ref=e837]
+                - generic [ref=e838]:
+                  - paragraph [ref=e839]: 45 Minutes
+                  - generic [ref=e840]: "------ To ------"
+                  - paragraph [ref=e841]: 60 Minutes
+            - generic [ref=e842]:
+              - paragraph [ref=e843]: Treatment Cost
+              - generic [ref=e844]:
+                - img "rupee" [ref=e846]
+                - generic [ref=e847]:
+                  - paragraph [ref=e848]: ₹ 40,000
+                  - generic [ref=e849]: "------ To ------"
+                  - paragraph [ref=e850]: ₹ 80,000
+          - generic [ref=e851]:
+            - button "Book Appointment" [ref=e852] [cursor=pointer]
+            - link "WhatsApp Expert" [ref=e853] [cursor=pointer]:
+              - /url: https://wa.me/918860688606?text=Hi, I want to know more about Laparoscopic Cholecystectomy in Delhi Treatment-ID=93 Tier-ID=1 City-ID=514
+        - img "Laparoscopic Cholecystectomy in Delhi" [ref=e858] [cursor=pointer]
+      - navigation [ref=e859]:
+        - generic [ref=e862]:
+          - link "Overview" [ref=e863] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/delhi/treatment/laparoscopic-cholecystectomy#overview
+          - link "Benefits" [ref=e864] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/delhi/treatment/laparoscopic-cholecystectomy#benefits
+          - link "Doctors" [ref=e865] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/delhi/treatment/laparoscopic-cholecystectomy#doctors
+          - link "Hospitals" [ref=e866] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/delhi/treatment/laparoscopic-cholecystectomy#hospitals
+          - link "Cost" [ref=e867] [cursor=pointer]:
+            - /url: /treatment/laparoscopic-cholecystectomy-cost-in-delhi
+      - generic [ref=e870]:
+        - generic [ref=e871]:
+          - generic [ref=e875]:
+            - paragraph [ref=e876]: Laparoscopic cholecystectomy in Delhi is one of the most effective treatments for gallbladder problems. Due to its multiple benefits, such as quick recovery, less scarring, etc, it is a preferred option over the traditional methods.
+            - paragraph [ref=e877]: Choosing this procedure in Delhi guarantees access to top-notch medical infrastructure. The healthcare facilities in the city ensure excellent outcomes and a smooth recovery. Keep reading to discover more about the laparoscopic cholecystectomy cost in Delhi, the finest doctors, hospitals, and more.
+          - generic [ref=e878]:
+            - generic [ref=e879]:
+              - heading "Get a Laparoscopic Cholecystectomy in Delhi" [level=2] [ref=e881] [cursor=pointer]
+              - generic "Get a Laparoscopic Cholecystectomy in Delhi" [ref=e882]:
+                - generic [ref=e884]:
+                  - paragraph [ref=e885]: The city has a reputation for laparoscopic gallbladder removal surgery in Delhi, with advanced medical facilities, experienced specialists, and budget-friendly alternatives. This makes it an ideal choice for laparoscopic gallbladder removal surgery. Delhi provides access to ultramodern technology and highly skilled doctors, guaranteeing safe and effective care.
+                  - paragraph [ref=e886]: "The following reasons make gallbladder stone removal surgery in Delhi a good choice:"
+                  - list [ref=e887]:
+                    - listitem [level=1] [ref=e888]:
+                      - strong [ref=e889]: Experienced Doctors
+                      - text: ": The expertise of highly qualified surgeons provides outstanding care throughout the procedure."
+                  - list [ref=e890]:
+                    - listitem [level=1] [ref=e891]:
+                      - strong [ref=e892]: Advanced Technology
+                      - text: ": Hospitals in Delhi are equipped with the latest diagnostic and surgical technologies, delivering a high success rate."
+                  - list [ref=e893]:
+                    - listitem [level=1] [ref=e894]:
+                      - strong [ref=e895]: Comprehensive Approach
+                      - text: ": Patients benefit from thorough pre-surgery evaluations and personalised postoperative care plans."
+                  - list [ref=e896]:
+                    - listitem [level=1] [ref=e897]:
+                      - strong [ref=e898]: Cost-effectiveness
+                      - text: ": This city offers affordable pricing for laparoscopic cholecystectomy. One can access high-quality surgical care within their budget here."
+                      - img "Laparoscopic Cholecystectomy in Delhi" [ref=e899]
+            - heading "Expert Doctors - Laparoscopic Gallbladder Removal Surgery in Delhi" [level=2] [ref=e902] [cursor=pointer]
+            - heading "Hospitals and Clinics - Gallbladder Stone Removal Surgery in Delhi" [level=2] [ref=e905] [cursor=pointer]
+            - heading "Cost of Laparoscopic Cholecystectomy in Delhi" [level=2] [ref=e908] [cursor=pointer]
+            - heading "Why should I get gallbladder removal surgery through HexaHealth?" [level=2] [ref=e911] [cursor=pointer]
+            - heading "About Laparoscopic Cholecystectomy Surgery" [level=2] [ref=e914] [cursor=pointer]
+            - heading "HexaHealth vs Others" [level=2] [ref=e917] [cursor=pointer]
+            - heading "Lap vs Open Cholecystectomy" [level=2] [ref=e920] [cursor=pointer]
+          - generic [ref=e921]:
+            - heading "Best Laparoscopic Cholecystectomy Doctors in Delhi (3)" [level=2] [ref=e923]
+            - generic [ref=e925]:
+              - generic [ref=e926]:
+                - generic [ref=e928]:
+                  - generic [ref=e930]:
+                    - generic [ref=e931]:
+                      - link "Dr. S K Tiwari" [ref=e933] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/delhi/doctor/dr-s-k-tiwari-general-surgery
+                        - img "Dr. S K Tiwari" [ref=e935]
+                      - generic [ref=e936]:
+                        - paragraph [ref=e938]:
+                          - link "Dr. S K Tiwari" [ref=e939] [cursor=pointer]:
+                            - /url: https://www.hexahealth.com/delhi/doctor/dr-s-k-tiwari-general-surgery
+                        - paragraph [ref=e941]: General Surgery
+                        - generic [ref=e942] [cursor=pointer]:
+                          - generic [ref=e943]:
+                            - paragraph [ref=e945]:
+                              - generic [ref=e946]: 40+ Years
+                            - paragraph [ref=e947]: Experience
+                          - generic [ref=e948]:
+                            - paragraph [ref=e950]:
+                              - generic [ref=e951]: 99%
+                            - paragraph [ref=e952]: Recommended
+                    - button "Book Appointment" [ref=e954] [cursor=pointer]
+                  - generic [ref=e956]:
+                    - generic [ref=e957]:
+                      - link "Dr. Kavita Saxena" [ref=e959] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/delhi/doctor/dr-kavita-saxena-general-surgery
+                        - img "Dr. Kavita Saxena" [ref=e961]
+                      - generic [ref=e962]:
+                        - paragraph [ref=e964]:
+                          - link "Dr. Kavita Saxena" [ref=e965] [cursor=pointer]:
+                            - /url: https://www.hexahealth.com/delhi/doctor/dr-kavita-saxena-general-surgery
+                        - paragraph [ref=e967]: General Surgery,Laparoscopic Surgery
+                        - generic [ref=e968] [cursor=pointer]:
+                          - generic [ref=e969]:
+                            - paragraph [ref=e971]:
+                              - generic [ref=e972]: 36+ Years
+                            - paragraph [ref=e973]: Experience
+                          - generic [ref=e974]:
+                            - paragraph [ref=e976]:
+                              - generic [ref=e977]: 97%
+                            - paragraph [ref=e978]: Recommended
+                    - button "Book Appointment" [ref=e980] [cursor=pointer]
+                  - generic [ref=e982]:
+                    - generic [ref=e983]:
+                      - link "Dr. Neeraj Goyal" [ref=e985] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/delhi/doctor/dr-neeraj-goyal-general-surgery
+                        - img "Dr. Neeraj Goyal" [ref=e987]
+                      - generic [ref=e988]:
+                        - paragraph [ref=e990]:
+                          - link "Dr. Neeraj Goyal" [ref=e991] [cursor=pointer]:
+                            - /url: https://www.hexahealth.com/delhi/doctor/dr-neeraj-goyal-general-surgery
+                        - paragraph [ref=e993]: General Surgery
+                        - generic [ref=e994] [cursor=pointer]:
+                          - generic [ref=e995]:
+                            - paragraph [ref=e997]:
+                              - generic [ref=e998]: 27+ Years
+                            - paragraph [ref=e999]: Experience
+                          - generic [ref=e1000]:
+                            - paragraph [ref=e1002]:
+                              - generic [ref=e1003]: 99%
+                            - paragraph [ref=e1004]: Recommended
+                    - generic [ref=e1005]:
+                      - text: "Consultation Fee:"
+                      - generic [ref=e1006]: ₹500
+                      - text: (approximate)
+                    - button "Book Appointment" [ref=e1008] [cursor=pointer]
+                - generic [ref=e1009]:
+                  - button "Go to slide 1" [ref=e1010] [cursor=pointer]
+                  - button "Go to slide 2" [ref=e1011] [cursor=pointer]
+              - button "Previous slide" [disabled] [ref=e1012]:
+                - img [ref=e1013]
+              - button "Next slide" [ref=e1015] [cursor=pointer]:
+                - img [ref=e1016]
+          - generic [ref=e1018]:
+            - heading "Best Laparoscopic Cholecystectomy Hospitals in Delhi (2)" [level=2] [ref=e1020]
+            - generic [ref=e1025]:
+              - generic [ref=e1027]:
+                - generic [ref=e1028]:
+                  - generic [ref=e1029]:
+                    - link "BH Salvas Hospital" [ref=e1030] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/delhi/hospital/bh-salvas-hospital
+                      - img "BH Salvas Hospital" [ref=e1034]
+                    - generic [ref=e1035]:
+                      - img "JCI" [ref=e1037]
+                      - img "NABH" [ref=e1039]
+                  - generic [ref=e1040]:
+                    - paragraph [ref=e1041]:
+                      - link "BH Salvas Hospital" [ref=e1042] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/delhi/hospital/bh-salvas-hospital
+                    - generic [ref=e1045] [cursor=pointer]:
+                      - text: 4.89/5
+                      - generic [ref=e1046]: (99 Ratings)
+                    - generic [ref=e1047]: Najafgarh, Delhi
+                - button "Book Appointment" [ref=e1049] [cursor=pointer]
+              - generic [ref=e1051]:
+                - generic [ref=e1052]:
+                  - generic [ref=e1053]:
+                    - link "Diyos Hospital, Safdarjung Enclave" [ref=e1054] [cursor=pointer]:
+                      - /url: https://www.hexahealth.com/delhi/hospital/diyos-hospital-a-multi-speciality-hospital-safdarjung-enclave
+                      - img "Diyos Hospital, Safdarjung Enclave" [ref=e1058]
+                    - generic [ref=e1059]:
+                      - img "JCI" [ref=e1061]
+                      - img "NABH" [ref=e1063]
+                  - generic [ref=e1064]:
+                    - paragraph [ref=e1065]:
+                      - link "Diyos Hospital, Safdarjung Enclave" [ref=e1066] [cursor=pointer]:
+                        - /url: https://www.hexahealth.com/delhi/hospital/diyos-hospital-a-multi-speciality-hospital-safdarjung-enclave
+                    - generic [ref=e1069] [cursor=pointer]:
+                      - text: 4.83/5
+                      - generic [ref=e1070]: (53 Ratings)
+                    - generic [ref=e1071]: Safdarjung Enclave, Delhi
+                - button "Book Appointment" [ref=e1073] [cursor=pointer]
+          - generic [ref=e1075]:
+            - 'heading "HexaHealth: Revolutionising Healthcare with Top-Tier Laparoscopic Cholecystectomy Services" [level=2] [ref=e1077] [cursor=pointer]'
+            - 'generic "HexaHealth: Revolutionising Healthcare with Top-Tier Laparoscopic Cholecystectomy Services" [ref=e1078]':
+              - generic [ref=e1080]:
+                - paragraph [ref=e1081]: Laparoscopic cholecystectomy in Delhi provides reliable solutions for those seeking relief from gallbladder issues. With access to seasoned doctors and international-standard surgical facilities, the city delivers excellent healthcare.
+                - paragraph [ref=e1082]: HexaHealth bridges the gap between you and the finest surgeons for laparoscopic gallbladder removal surgery in Delhi. Our platform streamlines the process of discovering affordable and trustworthy options for your unique needs. You can count on HexaHealth for a healthier future with the superior interventional approaches in the city.
+          - generic [ref=e1085]:
+            - heading "Frequently Asked Questions (FAQ)" [level=2] [ref=e1086]
+            - generic [ref=e1087]:
+              - heading "What is the success rate of laparoscopic cholecystectomy in Delhi?" [level=3] [ref=e1090] [cursor=pointer]
+              - heading "Who are the top specialist for gallbladder stone removal surgery in Delhi?" [level=3] [ref=e1093] [cursor=pointer]
+              - heading "Which are the recommended hospitals for laparoscopic cholecystectomy in Delhi?" [level=3] [ref=e1096] [cursor=pointer]
+              - heading "Why should I choose HexaHealth for laparoscopic gallbladder removal surgery in Delhi?" [level=3] [ref=e1099] [cursor=pointer]
+              - heading "Is laparoscopic cholecystectomy covered under health insurance?" [level=3] [ref=e1102] [cursor=pointer]
+              - heading "How long does it take to recover from laparoscopic cholecystectomy?" [level=3] [ref=e1105] [cursor=pointer]
+              - heading "What is the laparoscopic cholecystectomy cost in Delhi?" [level=3] [ref=e1108] [cursor=pointer]
+              - heading "How soon can I resume normal activities after laparoscopic surgery?" [level=3] [ref=e1111] [cursor=pointer]
+              - heading "Will I need to change my diet after laparoscopic cholecystectomy?" [level=3] [ref=e1114] [cursor=pointer]
+              - heading "Are there any alternative treatments to laparoscopic cholecystectomy?" [level=3] [ref=e1117] [cursor=pointer]
+              - heading "What factors determine candidacy for laparoscopic cholecystectomy?" [level=3] [ref=e1120] [cursor=pointer]
+              - heading "Will there be scars after laparoscopic cholecystectomy surgery in Delhi?" [level=3] [ref=e1123] [cursor=pointer]
+              - heading "What is the typical recovery time for laparoscopic cholecystectomy in Delhi?" [level=3] [ref=e1126] [cursor=pointer]
+              - heading "Will I experience pain after laparoscopic cholecystectomy?" [level=3] [ref=e1129] [cursor=pointer]
+              - heading "Can I drive after laparoscopic cholecystectomy?" [level=3] [ref=e1132] [cursor=pointer]
+              - heading "What is the success rate of gallbladder removal surgery in Delhi?" [level=3] [ref=e1135] [cursor=pointer]
+              - heading "How long does the procedure usually take?" [level=3] [ref=e1138] [cursor=pointer]
+              - heading "What if a stone slips into the Common Bile Duct (CBD)?" [level=3] [ref=e1141] [cursor=pointer]
+              - heading "How do we confirm if a stone is in the CBD?" [level=3] [ref=e1144] [cursor=pointer]
+              - heading "What is ERCP?" [level=3] [ref=e1147] [cursor=pointer]
+          - generic [ref=e1148]:
+            - generic [ref=e1149]:
+              - heading "Why Choose HexaHealth?" [level=2] [ref=e1150]
+              - img "why-choose-hexa-health" [ref=e1152]
+            - generic [ref=e1153]:
+              - link "Talk to Expert Now" [ref=e1154] [cursor=pointer]:
+                - /url: tel:+918065827395
+              - link "WhatsApp Expert" [ref=e1155] [cursor=pointer]:
+                - /url: https://wa.me/918860688606?text=Hi, I want to know more about Laparoscopic Cholecystectomy in Delhi Treatment-ID=93 Tier-ID=1 City-ID=514
+          - generic [ref=e1156]:
+            - heading "References" [level=2] [ref=e1157]
+            - paragraph [ref=e1158]:
+              - text: All the articles on HexaHealth are supported by verified medically-recognized sources such as; peer-reviewed academic research papers, research institutions, and medical journals. Our
+              - link "medical reviewers" [ref=e1159] [cursor=pointer]:
+                - /url: /reviewers
+              - text: also check references of the articles to prioritize accuracy and relevance. Refer to our detailed
+              - link "editorial policy" [ref=e1160] [cursor=pointer]:
+                - /url: /editorial-policy
+              - text: for more information.
+            - list [ref=e1161]:
+              - listitem [ref=e1162]:
+                - text: "Hassler KR, Collins JT, Philip K, Jones MW. Laparoscopic Cholecystectomy [Internet]. PubMed. Treasure Island (FL): StatPearls Publishing; 2022."
+                - link "link" [ref=e1163] [cursor=pointer]:
+                  - /url: https://www.ncbi.nlm.nih.gov/books/NBK448145/#:~:text=Laparoscopic%20cholecystectomy%20is%20currently%20indicated
+                  - img "link" [ref=e1164]
+              - listitem [ref=e1165]:
+                - text: Cholecystectomy (gallbladder removal) - Mayo Clinic [Internet]. www.mayoclinic.org.
+                - link "link" [ref=e1166] [cursor=pointer]:
+                  - /url: https://www.mayoclinic.org/tests-procedures/cholecystectomy/about/pac-20384818#:~:text=During%20a%20laparoscopic%20cholecystectomy%2C%20the
+                  - img "link" [ref=e1167]
+              - listitem [ref=e1168]:
+                - text: What To Know About Cholecystectomy [Internet]. Cleveland Clinic.
+                - link "link" [ref=e1169] [cursor=pointer]:
+                  - /url: https://my.clevelandclinic.org/health/procedures/21614-gallbladder-removal#risks-benefits
+                  - img "link" [ref=e1170]
+              - listitem [ref=e1171]:
+                - text: Gall Bladder Pre-Op [Internet]. Division of Gastrointestinal Surgery.
+                - link "link" [ref=e1172] [cursor=pointer]:
+                  - /url: https://www.med.unc.edu/surgery/gisurgery/forpatients/diseases-conditions/gall-bladder/gall-bladder-pre-op/#:~:text=Blood%20work%2C%20EKG%2C%20and%20Chest
+                  - img "link" [ref=e1173]
+              - listitem [ref=e1174]:
+                - text: Miller TE, Myles PS. Perioperative Fluid Therapy for Major Surgery. Anesthesiology [Internet]. 2019 May;130(5):825–32.
+                - link "link" [ref=e1175] [cursor=pointer]:
+                  - /url: https://pubs.asahq.org/anesthesiology/article/130/5/825/18881/Perioperative-Fluid-Therapy-for-Major-Surgery
+                  - img "link" [ref=e1176]
+              - listitem [ref=e1177]:
+                - text: Cholecystectomy (gallbladder removal) - Mayo Clinic [Internet]. www.mayoclinic.org.
+                - link "link" [ref=e1178] [cursor=pointer]:
+                  - /url: https://www.mayoclinic.org/tests-procedures/cholecystectomy/about/pac-20384818#:~:text=It%20takes%20about%20a%20week
+                  - img "link" [ref=e1179]
+              - listitem [ref=e1180]:
+                - text: Laparoscopic Cholecystectomy Cost in India - Calculate Estimated Cost [Internet]. www.hexahealth.com. [cited 2024 Apr 20].
+                - link "link" [ref=e1181] [cursor=pointer]:
+                  - /url: https://www.hexahealth.com/treatment/laparoscopic-cholecystectomy-cost
+                  - img "link" [ref=e1182]
+              - listitem [ref=e1183]:
+                - text: "Unisa S, Jagannath P, Dhir V, Khandelwal C, Sarangi L, Roy TK. Population-based study to estimate prevalence and determine risk factors of gallbladder diseases in the rural Gangetic basin of North India. HPB: the official journal of the International Hepato Pancreato Biliary Association [Internet]."
+                - link "link" [ref=e1184] [cursor=pointer]:
+                  - /url: https://pubmed.ncbi.nlm.nih.gov/21241429/#affiliation-1
+                  - img "link" [ref=e1185]
+              - listitem [ref=e1186]:
+                - text: Gallbladder removal - Recovery [Internet]. nhs.uk. 2017.
+                - link "link" [ref=e1187] [cursor=pointer]:
+                  - /url: https://www.nhs.uk/conditions/gallbladder-removal/recovery/#:~:text=It%20can%20take%20around%203
+                  - img "link" [ref=e1188]
+              - listitem [ref=e1189]:
+                - text: Choledocholithiasis Information | Mount Sinai - New York [Internet]. Mount Sinai Health System. [cited 2024 Apr 20].
+                - link "link" [ref=e1190] [cursor=pointer]:
+                  - /url: https://www.mountsinai.org/health-library/diseases-conditions/choledocholithiasis#:~:text=About%201%20in%207%20people
+                  - img "link" [ref=e1191]
+              - listitem [ref=e1192]:
+                - text: Contributors WE. What to Know About Diet After Gallbladder Surgery [Internet]. WebMD.
+                - link "link" [ref=e1193] [cursor=pointer]:
+                  - /url: https://www.webmd.com/digestive-disorders/what-to-know-diet-after-gallbladder-surgery#:~:text=For%20the%20first%20few%20days
+                  - img "link" [ref=e1194]
+          - paragraph [ref=e1196]: "Last Updated on: 20 April 2024"
+          - generic [ref=e1198]: "Disclaimer: The information provided here is for educational and learning purposes only. It doesn't cover every medical condition and might not be relevant to your personal situation. This information isn't medical advice, isn't meant for diagnosing any condition, and shouldn't replace talking to a certified medical or healthcare professional."
+          - generic [ref=e1199]:
+            - heading "Reviewer" [level=3] [ref=e1200]
+            - generic [ref=e1201]:
+              - img "Dr. Aman Priya Khanna" [ref=e1205]
+              - generic [ref=e1206]:
+                - heading "Dr. Aman Priya Khanna" [level=4] [ref=e1207]:
+                  - link "Dr. Aman Priya Khanna" [ref=e1208] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/ahmedabad/doctor/dr-aman-priya-khanna-general-surgery
+                - paragraph [ref=e1209]: MBBS, DNB General Surgery, FMAS, FALS Bariatric, MNAMS General Surgery, FIAGES
+                - paragraph [ref=e1210]: 14 Years Experience
+              - paragraph [ref=e1213]:
+                - text: Dr Aman Priya Khanna is a leading National Board-certified Laparoscopic, GI, and Bariatric Surgeon in Ahmedabad with 14+ years of experience and over
+                - strong [ref=e1214]: 4,500
+                - strong [ref=e1215]:
+                  - text: + successf...
+                  - link "View More" [ref=e1216] [cursor=pointer]:
+                    - /url: /ahmedabad/doctor/dr-aman-priya-khanna-general-surgery
+          - generic [ref=e1217]:
+            - heading "Author" [level=3] [ref=e1218]
+            - generic [ref=e1219]:
+              - img "Sparshi Srivastava" [ref=e1223]
+              - generic [ref=e1224]:
+                - heading "Sparshi Srivastava" [level=4] [ref=e1225]:
+                  - link "Sparshi Srivastava" [ref=e1226] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/authors/sparshi-shrivastava
+                - paragraph [ref=e1227]: B.Tech Biotechnology (Bansal Institute of Engineering and Technology, Lucknow)
+                - paragraph [ref=e1228]: 2 Years Experience
+              - paragraph [ref=e1230]:
+                - text: An ardent reader, graduated in B.Tech Biotechnology. She was previously associated with medical sciences secondary research and writing. With a keen interest and curiosity-driven approach, she has been able to cont...
+                - link "View More" [ref=e1231] [cursor=pointer]:
+                  - /url: https://www.hexahealth.com/authors/sparshi-shrivastava
+        - generic [ref=e1234]:
+          - paragraph [ref=e1236]: Book Appointment for Laparoscopic Cholecystectomy in Delhi
+          - generic [ref=e1237]:
+            - generic [ref=e1240]:
+              - textbox "Enter Your Name*" [ref=e1241]
+              - paragraph [ref=e1243]: Please Enter Name
+            - generic [ref=e1247]:
+              - generic [ref=e1248]: "+91"
+              - spinbutton [ref=e1250]: "9000026654"
+            - button "Book Appointment" [active] [ref=e1251] [cursor=pointer]
+            - paragraph [ref=e1252]:
+              - text: "*By proceeding, you agree to our"
+              - link "terms and conditions" [ref=e1253] [cursor=pointer]:
+                - /url: /terms-conditions
+      - generic [ref=e1254]:
+        - paragraph [ref=e1256]: Latest Health Articles
+        - 'link "Side Effects of Gallbladder Removal Side Effects of Gallbladder Removal Reviewed By: HexaHealth Care Team Last Updated on 11th May" [ref=e1261] [cursor=pointer]':
+          - /url: https://www.hexahealth.com/blog/side-effects-of-gallbladder-removal
+          - generic [ref=e1262]:
+            - img "Side Effects of Gallbladder Removal" [ref=e1264]
+            - generic [ref=e1265]:
+              - paragraph [ref=e1266]: Side Effects of Gallbladder Removal
+              - generic [ref=e1267]:
+                - generic [ref=e1269]:
+                  - generic [ref=e1270]: "Reviewed By:"
+                  - generic [ref=e1271]: HexaHealth Care Team
+                - generic [ref=e1272]:
+                  - generic [ref=e1273]: Last Updated on
+                  - generic [ref=e1274]: 11th May
+      - generic [ref=e1275]:
+        - paragraph [ref=e1276]: Other Treatment in Delhi
+        - generic [ref=e1278]:
+          - paragraph [ref=e1281]:
+            - link "Total Hip Replacement in Delhi" [ref=e1282] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/total-hip-replacement
+          - paragraph [ref=e1285]:
+            - link "Total Knee Replacement in Delhi" [ref=e1286] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/knee-replacement-surgery
+          - paragraph [ref=e1289]:
+            - link "Coronary Angiography in Delhi" [ref=e1290] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/coronary-angiography
+          - paragraph [ref=e1293]:
+            - link "Coronary Angioplasty in Delhi" [ref=e1294] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/angioplasty
+          - paragraph [ref=e1297]:
+            - link "Piles Laser Treatment in Delhi" [ref=e1298] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/piles-laser-treatment
+          - paragraph [ref=e1301]:
+            - link "Umbilical Hernia Surgery in Delhi" [ref=e1302] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/umbilical-hernia-surgery
+          - paragraph [ref=e1305]:
+            - link "Bypass Surgery in Delhi" [ref=e1306] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/heart-bypass-surgery
+          - paragraph [ref=e1309]:
+            - link "Labiaplasty in Delhi" [ref=e1310] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/labiaplasty
+          - paragraph [ref=e1313]:
+            - link "Hysteroscopy in Delhi" [ref=e1314] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/hysteroscopy
+          - paragraph [ref=e1317]:
+            - link "Stapler Surgery for Piles in Delhi" [ref=e1318] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/piles-stapler-surgery
+          - paragraph [ref=e1321]:
+            - link "Abortion in Delhi" [ref=e1322] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/abortion
+          - paragraph [ref=e1325]:
+            - link "Tummy Tuck Surgery in Delhi" [ref=e1326] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/tummy-tuck-surgery
+          - paragraph [ref=e1329]:
+            - link "Liver Transplant in Delhi" [ref=e1330] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/liver-transplant
+          - paragraph [ref=e1333]:
+            - link "Functional Endoscopic Sinus Surgery (FESS) in Delhi" [ref=e1334] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/fess
+          - paragraph [ref=e1337]:
+            - link "Breast Lift in Delhi" [ref=e1338] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/breast-lift-surgery
+          - paragraph [ref=e1341]:
+            - link "Laser Treatment for Varicose Veins in Delhi" [ref=e1342] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/varicose-veins-laser-treatment
+          - paragraph [ref=e1345]:
+            - link "Breast Reduction Surgery in Delhi" [ref=e1346] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/breast-reduction-surgery
+          - paragraph [ref=e1349]:
+            - link "Breast Augmentation in Delhi" [ref=e1350] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/breast-augmentation
+          - paragraph [ref=e1353]:
+            - link "Rhinoplasty (Nose Job) in Delhi" [ref=e1354] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/rhinoplasty
+          - paragraph [ref=e1357]:
+            - link "Laparoscopic Cholecystectomy in Delhi" [ref=e1358] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/laparoscopic-cholecystectomy
+          - paragraph [ref=e1361]:
+            - link "Lipoma Removal in Delhi" [ref=e1362] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/lipoma-removal
+          - paragraph [ref=e1365]:
+            - link "Lasik Surgery in Delhi" [ref=e1366] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/lasik-surgery
+          - paragraph [ref=e1369]:
+            - link "Gynaecomastia Surgery in Delhi" [ref=e1370] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/gynecomastia-surgery
+          - paragraph [ref=e1373]:
+            - link "Hysterectomy in Delhi" [ref=e1374] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/hysterectomy
+          - paragraph [ref=e1377]:
+            - link "Cataract Surgery in Delhi" [ref=e1378] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/cataract-surgery
+          - paragraph [ref=e1381]:
+            - link "Surgical Abortion in Delhi" [ref=e1382] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/surgical-abortion
+          - paragraph [ref=e1385]:
+            - link "Bariatric Surgery in Delhi" [ref=e1386] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/bariatric-surgery
+          - paragraph [ref=e1389]:
+            - link "Contoura Vision in Delhi" [ref=e1390] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/contoura-vision
+          - paragraph [ref=e1393]:
+            - link "ERCP Test in Delhi" [ref=e1394] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/ercp-test
+          - paragraph [ref=e1397]:
+            - link "Swallowable Weight Loss Balloon in Delhi" [ref=e1398] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/swallowable-weight-loss-balloon
+          - paragraph [ref=e1401]:
+            - link "Laser Cataract Surgery in Delhi" [ref=e1402] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/laser-cataract-surgery
+          - paragraph [ref=e1405]:
+            - link "Smile Eye Surgery in Delhi" [ref=e1406] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/smile-eye-surgery
+          - paragraph [ref=e1409]:
+            - link "ICL Eye Surgery in Delhi" [ref=e1410] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/icl-eye-surgery
+          - paragraph [ref=e1413]:
+            - link "MRCP Test in Delhi" [ref=e1414] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/mrcp-test
+          - paragraph [ref=e1417]:
+            - link "CT Coronary Angiography in Delhi" [ref=e1418] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/ct-angiography
+          - paragraph [ref=e1421]:
+            - link "DJ Stent Removal in Delhi" [ref=e1422] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/dj-stent-removal
+          - paragraph [ref=e1425]:
+            - link "Therapeutic Bronchoscopy in Delhi" [ref=e1426] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/bronchoscopy
+          - paragraph [ref=e1429]:
+            - link "Cancer Chemotherapy in Delhi" [ref=e1430] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/chemotherapy
+          - paragraph [ref=e1433]:
+            - link "Radiotherapy in Delhi" [ref=e1434] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/delhi/treatment/radiotherapy
+    - link "get the app" [ref=e1435] [cursor=pointer]:
+      - /url: https://m.hexahealth.com/qLo3
+      - img "get the app" [ref=e1438]
+  - generic [ref=e1439]:
+    - generic [ref=e1440]:
+      - generic [ref=e1445] [cursor=pointer]:
+        - generic [ref=e1447]: Top Doctors
+        - generic [ref=e1449]: Top Hospitals
+        - generic [ref=e1451]: Treatments
+        - generic [ref=e1453]: Ayushman Bharat
+        - generic [ref=e1455]: Insurance
+      - generic [ref=e1456]:
+        - generic [ref=e1458]:
+          - generic [ref=e1459]:
+            - generic [ref=e1460]: Address
+            - generic [ref=e1461]: Vianam Healthtech Private Limited (HexaHealth), Third Floor Building B, The Presidency, 46/4, Sector 14, Mehrauli Gurgaon Road, Gurgaon, Haryana 122001
+          - generic [ref=e1462]:
+            - generic [ref=e1463]: Follow Us
+            - generic [ref=e1464]:
+              - link "Facebook" [ref=e1466] [cursor=pointer]:
+                - /url: https://www.facebook.com/HexaHealthLive
+                - img "Facebook" [ref=e1467]
+              - link "Twitter" [ref=e1469] [cursor=pointer]:
+                - /url: https://www.twitter.com/hexahealthlive
+                - img "Twitter" [ref=e1470]
+              - link "Linkedin" [ref=e1472] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/hexahealth
+                - img "Linkedin" [ref=e1473]
+              - link "Instagramr" [ref=e1475] [cursor=pointer]:
+                - /url: https://www.instagram.com/hexahealthofficial/
+                - img "Instagram" [ref=e1476]
+              - link "youtube" [ref=e1478] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCsS6Q5M3KqdJ1WWuy5JRmIg
+                - img "YouTube" [ref=e1479]
+          - generic [ref=e1480]:
+            - link "Facebook" [ref=e1481] [cursor=pointer]:
+              - /url: https://m.hexahealth.com/qLo3
+              - img "Facebook" [ref=e1482]
+            - link "Facebook" [ref=e1483] [cursor=pointer]:
+              - /url: https://m.hexahealth.com/qLo3
+              - img "Facebook" [ref=e1484]
+        - generic [ref=e1486]:
+          - text: Medical Tests
+          - list [ref=e1487]:
+            - listitem [ref=e1488]:
+              - link "MPV Blood Test in Hindi" [ref=e1489] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/mpv-blood-test-in-hindi
+          - list [ref=e1490]:
+            - listitem [ref=e1491]:
+              - link "MCH Blood Test in Hindi" [ref=e1492] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/mch-blood-test-in-hindi
+          - list [ref=e1493]:
+            - listitem [ref=e1494]:
+              - link "ESR Blood Test" [ref=e1495] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/esr-blood-test
+          - list [ref=e1496]:
+            - listitem [ref=e1497]:
+              - link "Double Marker Test" [ref=e1498] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/double-marker-test
+          - list [ref=e1499]:
+            - listitem [ref=e1500]:
+              - link "HCT Blood Test in Hindi" [ref=e1501] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/hct-blood-test-in-hindi
+          - list [ref=e1502]:
+            - listitem [ref=e1503]:
+              - link "TB Gold Test" [ref=e1504] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/tb-gold-test
+          - list [ref=e1505]:
+            - listitem [ref=e1506]:
+              - link "CA 125 Blood Test" [ref=e1507] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/ca-125-blood-test
+          - list [ref=e1508]:
+            - listitem [ref=e1509]:
+              - link "CA 125 Test in Hindi" [ref=e1510] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/ca-125-test-in-hindi
+          - list [ref=e1511]:
+            - listitem [ref=e1512]:
+              - link "SGPT Test" [ref=e1513] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/sgpt-test
+          - list [ref=e1514]:
+            - listitem [ref=e1515]:
+              - link "ANC Profile Test" [ref=e1516] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/anc-profile-test
+          - list [ref=e1517]:
+            - listitem [ref=e1518]:
+              - link "Serum Iron Test" [ref=e1519] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/serum-iron-test
+          - list [ref=e1520]:
+            - listitem [ref=e1521]:
+              - link "RGU Test" [ref=e1522] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/rgu-test
+          - list [ref=e1523]:
+            - listitem [ref=e1524]:
+              - link "Double Marker Test in Hindi" [ref=e1525] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/double-marker-test-in-hindi
+        - generic [ref=e1527]:
+          - text: HexaHealth
+          - list [ref=e1528]:
+            - listitem [ref=e1529]:
+              - link "About Us" [ref=e1530] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/about-us
+          - list [ref=e1531]:
+            - listitem [ref=e1532]:
+              - link "Contact Us" [ref=e1533] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/contact-us
+          - list [ref=e1534]:
+            - listitem [ref=e1535]:
+              - link "For Investors" [ref=e1536] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/investor
+          - list [ref=e1537]:
+            - listitem [ref=e1538]:
+              - link "Partner With Us" [ref=e1539] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/partner-with-us
+          - list [ref=e1540]:
+            - listitem [ref=e1541]:
+              - link "FAQs" [ref=e1542] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/faq
+          - list [ref=e1543]:
+            - listitem [ref=e1544]:
+              - link "Press & Media" [ref=e1545] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/press
+          - list [ref=e1546]:
+            - listitem [ref=e1547]:
+              - link "Medical Reviewers" [ref=e1548] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/reviewers
+          - list [ref=e1549]:
+            - listitem [ref=e1550]:
+              - link "Authors" [ref=e1551] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/authors
+          - list [ref=e1552]:
+            - listitem [ref=e1553]:
+              - link "Careers" [ref=e1554] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/careers
+          - list [ref=e1555]:
+            - listitem [ref=e1556]:
+              - link "Site Map" [ref=e1557] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/sitemap.xml
+        - generic [ref=e1559]:
+          - text: Policies
+          - list [ref=e1560]:
+            - listitem [ref=e1561]:
+              - link "Privacy Policy" [ref=e1562] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/privacy
+          - list [ref=e1563]:
+            - listitem [ref=e1564]:
+              - link "Refund Policy" [ref=e1565] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/refund-policy
+          - list [ref=e1566]:
+            - listitem [ref=e1567]:
+              - link "Terms & Conditions" [ref=e1568] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/terms-conditions
+          - list [ref=e1569]:
+            - listitem [ref=e1570]:
+              - link "Editorial Policy" [ref=e1571] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/editorial-policy
+        - generic [ref=e1573]:
+          - text: For Patients
+          - list [ref=e1574]:
+            - listitem [ref=e1575]:
+              - link "All Doctors" [ref=e1576] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/doctors
+          - list [ref=e1577]:
+            - listitem [ref=e1578]:
+              - link "All Hospitals" [ref=e1579] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals
+          - list [ref=e1580]:
+            - listitem [ref=e1581]:
+              - link "All Conditions" [ref=e1582] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/condition
+          - list [ref=e1583]:
+            - listitem [ref=e1584]:
+              - link "All Treatments" [ref=e1585] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/treatment
+          - list [ref=e1586]:
+            - listitem [ref=e1587]:
+              - link "All Departments" [ref=e1588] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/departments
+          - list [ref=e1589]:
+            - listitem [ref=e1590]:
+              - link "Second Opinion" [ref=e1591] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/services/second-opinion
+          - list [ref=e1592]:
+            - listitem [ref=e1593]:
+              - link "Medical Loan" [ref=e1594] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/services/medical-loan
+          - list [ref=e1595]:
+            - listitem [ref=e1596]:
+              - link "BMI Calculator" [ref=e1597] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/tools/bmi-calculator
+          - list [ref=e1598]:
+            - listitem [ref=e1599]:
+              - link "English Blog" [ref=e1600] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/blog
+          - list [ref=e1601]:
+            - listitem [ref=e1602]:
+              - link "Hindi Blog" [ref=e1603] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/blog
+          - list [ref=e1604]:
+            - listitem [ref=e1605]:
+              - link "HexaHealth Reviews" [ref=e1606] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/reviews
+          - list [ref=e1607]:
+            - listitem [ref=e1608]:
+              - link "All Cities" [ref=e1609] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/india
+          - list [ref=e1610]:
+            - listitem [ref=e1611]:
+              - link "All Insurance Hospitals" [ref=e1612] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals/insurance
+          - list [ref=e1613]:
+            - listitem [ref=e1614]:
+              - link "Health Policy Assistant" [ref=e1615] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/health-insurance-policy-help
+    - generic [ref=e1617]: Vianam Healthtech Private Limited © 2026. All Rights Reserved.
+  - alert [ref=e1618]
+  - link "HexaHealth WhatsApp FAB" [ref=e1619] [cursor=pointer]:
+    - /url: https://wa.me/918860688606?text=Hi,%20I%20want%20to%20know%20more%20about%20Laparoscopic%20Cholecystectomy%20in%20Delhi%20Treatment-ID=93%20Tier-ID=1%20City-ID=514
+    - img "HexaHealth WhatsApp FAB" [ref=e1620]
+```
