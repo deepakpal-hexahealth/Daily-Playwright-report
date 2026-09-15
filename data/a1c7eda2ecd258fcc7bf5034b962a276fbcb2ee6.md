@@ -1,0 +1,724 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - link "HexaHealth Colored Logo" [ref=e7] [cursor=pointer]:
+            - /url: /
+            - img "HexaHealth Colored Logo" [ref=e8]
+          - list [ref=e10] [cursor=pointer]:
+            - listitem [ref=e11]:
+              - generic [ref=e12]: Departments
+            - listitem [ref=e13]:
+              - generic [ref=e14]: Conditions
+            - listitem [ref=e15]:
+              - generic [ref=e16]: Treatments
+        - generic [ref=e18]:
+          - generic [ref=e19]:
+            - img "search" [ref=e22] [cursor=pointer]
+            - img "calendar" [ref=e24] [cursor=pointer]
+          - generic [ref=e26] [cursor=pointer]: Login
+    - paragraph [ref=e30] [cursor=pointer]: Get Second Opinion from Top Surgeons! Book an Appointment »
+    - text: "*"
+    - generic [ref=e31]:
+      - heading "Apley Orthopaedic Centre, Gomti Nagar, Lucknow" [level=1] [ref=e32]
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - generic [ref=e36]:
+            - generic [ref=e37]:
+              - link "1 Doctor" [ref=e38] [cursor=pointer]:
+                - /url: /lucknow/hospital/apley-orthopaedic-centre-gomti-nagar/doctors-list#doctors
+              - link "1 Speciality" [ref=e40] [cursor=pointer]:
+                - /url: /lucknow/hospital/apley-orthopaedic-centre-gomti-nagar#treatments
+            - paragraph [ref=e42]: "Timing: 24 x 7 Open"
+          - generic [ref=e43]:
+            - paragraph [ref=e44]: "4.2"
+            - paragraph [ref=e46] [cursor=pointer]: (98 Ratings)
+          - generic [ref=e47]:
+            - generic [ref=e48]:
+              - paragraph [ref=e49]:
+                - generic [ref=e50]: Address
+              - paragraph [ref=e51]: Gomti Nagar, Lucknow, Uttar Pradesh
+            - link "Directions" [ref=e53] [cursor=pointer]:
+              - /url: https://maps.google.com/?q= Apley Orthopaedic Centre, Gomti Nagar&oq=Lucknow
+              - paragraph [ref=e54]: Directions
+          - generic [ref=e55]:
+            - button "Book Appointment" [ref=e56] [cursor=pointer]:
+              - generic [ref=e57]: Book Appointment
+            - link "WhatsApp Expert" [ref=e58] [cursor=pointer]:
+              - /url: https://wa.me/918860688606?text=Hi, I want to connect with an expert from  Apley Orthopaedic Centre, Gomti Nagar, Lucknow Hospital-ID=4400 Tier-ID=2
+          - generic [ref=e59]: "Disclaimer: The listing is for informational purposes only, and the said hospital/doctor is not associated with us in any manner"
+        - img "Apley Orthopaedic Centre, Gomti Nagar, Lucknow" [ref=e62]
+    - document [ref=e64]:
+      - generic [ref=e65]:
+        - paragraph [ref=e66]: Book Appointment with Apley Orthopaedic Centre, Gomti Nagar, Lucknow
+        - button [ref=e67] [cursor=pointer]
+      - generic [ref=e71]:
+        - textbox [ref=e75]:
+          - /placeholder: Enter your name*
+          - text: Sanity Test 181
+        - generic [ref=e79]:
+          - generic [ref=e80]: "+91"
+          - spinbutton [ref=e82]: "9000026654"
+        - generic [ref=e85]:
+          - button [expanded] [active] [ref=e86] [cursor=pointer]: Select Speciality
+          - generic [ref=e88] [cursor=pointer]: Other
+        - generic [ref=e90]:
+          - paragraph [ref=e91]: Have you consulted Apley Orthopaedic Centre, Gomti Nagar, Lucknow before?*
+          - generic [ref=e92]:
+            - generic [ref=e93]:
+              - radio [ref=e94]
+              - generic [ref=e95]: "Yes"
+            - generic [ref=e96]:
+              - radio [ref=e97]
+              - generic [ref=e98]: "No"
+        - generic [ref=e100]:
+          - paragraph [ref=e101]: This hospital is not associated with HexaHealth. Would you like to book appointment in another hospital?*
+          - generic [ref=e102]:
+            - generic [ref=e103]:
+              - radio [ref=e104]
+              - generic [ref=e105]: "Yes"
+            - generic [ref=e106]:
+              - radio [ref=e107]
+              - generic [ref=e108]: "No"
+        - button [ref=e109] [cursor=pointer]: Book Appointment
+        - paragraph [ref=e110]:
+          - text: "*By proceeding, you agree to our"
+          - link [ref=e111] [cursor=pointer]:
+            - /url: /terms-conditions
+            - text: terms and conditions
+    - navigation [ref=e112]:
+      - generic [ref=e115]:
+        - link "About" [ref=e116] [cursor=pointer]:
+          - /url: /lucknow/hospital/apley-orthopaedic-centre-gomti-nagar#about
+        - link "Doctors" [ref=e117] [cursor=pointer]:
+          - /url: /lucknow/hospital/apley-orthopaedic-centre-gomti-nagar/doctors-list
+        - link "Treatments" [ref=e118] [cursor=pointer]:
+          - /url: /lucknow/hospital/apley-orthopaedic-centre-gomti-nagar#treatments
+        - link "Amenities" [ref=e119] [cursor=pointer]:
+          - /url: /lucknow/hospital/apley-orthopaedic-centre-gomti-nagar#amenities
+        - link "Insurances" [ref=e120] [cursor=pointer]:
+          - /url: /lucknow/hospital/apley-orthopaedic-centre-gomti-nagar#insurances
+        - link "FAQs" [ref=e121] [cursor=pointer]:
+          - /url: /lucknow/hospital/apley-orthopaedic-centre-gomti-nagar#faqs
+    - generic [ref=e124]:
+      - generic [ref=e125]:
+        - generic [ref=e129]:
+          - generic [ref=e130]:
+            - paragraph [ref=e131]: Apley Orthopaedic Centre, Gomti Nagar, is recognized as one of India's premier orthopaedic centres, this facility specializes in many orthopaedic disciplines. It offers expertise in orthopaedic rheumatology, foot and ankle issues, the delayed union of fractures, and complex clubfoot problems, among other conditions.
+            - paragraph [ref=e132]: The centre is dedicated to providing comprehensive care tailored to meet patient's needs, ensuring effective treatment and management of various orthopaedic challenges. With a team of skilled specialists, it strives to deliver high-quality orthopedic services.
+            - paragraph [ref=e133]: Connect to the top doctors of Apley Orthopaedic Centre, Gomti Nagar, for priority appointments and hassle free experience via medical experts of HexaHealth.
+          - generic [ref=e134] [cursor=pointer]: read more
+        - generic [ref=e135]:
+          - generic [ref=e136]:
+            - heading "Timings" [level=3] [ref=e137]
+            - paragraph [ref=e138]: Open 24 hours
+          - generic [ref=e140]:
+            - generic [ref=e141]:
+              - heading "Address" [level=3] [ref=e142]
+              - paragraph [ref=e143]: Apley Orthopaedic Centre, Gomti Nagar, 1/9, Vastu Khand Rd, Vastu Khand, Gomti Nagar, Lucknow, Uttar Pradesh, 226010
+            - link "map" [ref=e144] [cursor=pointer]:
+              - /url: https://maps.google.com/?q= Apley Orthopaedic Centre, Gomti Nagar&oq=Lucknow
+              - img "map" [ref=e146]
+          - generic [ref=e147]:
+            - heading "Connectivity to Apley Orthopaedic Centre, Gomti Nagar" [level=2] [ref=e148]
+            - paragraph [ref=e149]: Apley Orthopaedic Centre, Gomti Nagar, Lucknow is conveniently located and accessible via various modes of transport, making it easy for patients from across and outside Lucknow to visit.
+            - generic [ref=e150]:
+              - generic [ref=e151]:
+                - img "connectivityImage" [ref=e153]
+                - generic [ref=e154]:
+                  - heading "Nearest Airport" [level=3] [ref=e155]
+                  - paragraph [ref=e156]: Chaudhary Charan Singh International Airport - Approx. 18.5 km by car
+              - link "direction-icon" [ref=e158] [cursor=pointer]:
+                - /url: https://maps.google.com/maps/dir/?api=1&origin=26.7617171,80.88564749999999&destination=%20Apley%20Orthopaedic%20Centre%2C%20Gomti%20Nagar%20Lucknow
+                - img "direction-icon" [ref=e159]
+            - generic [ref=e160]:
+              - generic [ref=e161]:
+                - img "connectivityImage" [ref=e163]
+                - generic [ref=e164]:
+                  - heading "Nearest Railway Station" [level=3] [ref=e165]
+                  - paragraph [ref=e166]: Gomti Nagar (Lucknow) - Approx. 2.6 km by car
+              - link "direction-icon" [ref=e168] [cursor=pointer]:
+                - /url: https://maps.google.com/maps/dir/?api=1&origin=26.8604468,81.0033074&destination=%20Apley%20Orthopaedic%20Centre%2C%20Gomti%20Nagar%20Lucknow
+                - img "direction-icon" [ref=e169]
+            - paragraph [ref=e170]: Local transport like auto-rickshaws, taxis, buses, and metro are readily available.
+            - paragraph [ref=e171]: "Parking: Paid parking is available for visitors."
+            - paragraph [ref=e172]: "Travel Help: Airport and station pickup services available on prior request."
+        - img [ref=e176] [cursor=pointer]
+        - generic [ref=e177]:
+          - heading "Apley Orthopaedic Centre, Gomti Nagar, Lucknow Doctors List (1)" [level=2] [ref=e180]
+          - paragraph [ref=e181]: Explore the list of doctors at Apley Orthopaedic Centre, Gomti Nagar, Lucknow. View details and book an online appointment with an expert doctor at Apley Orthopaedic Centre, Gomti Nagar, Lucknow.
+          - generic [ref=e182]:
+            - generic [ref=e183] [cursor=pointer]: All (1)
+            - link "Orthopedic Surgeon (1)" [ref=e185] [cursor=pointer]:
+              - /url: /lucknow/hospital/apley-orthopaedic-centre-gomti-nagar/doctors-list/orthopedic-surgeon#doctors
+          - generic [ref=e188]:
+            - generic [ref=e189]:
+              - link "Dr. Manish Khanna Orthopedic Surgeon in Lucknow" [ref=e191] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/lucknow/doctor/dr-manish-khanna-orthopedic-doctor
+                - img "Dr. Manish Khanna Orthopedic Surgeon in Lucknow" [ref=e193]
+              - generic [ref=e194]:
+                - paragraph [ref=e196]:
+                  - link "Dr. Manish Khanna" [ref=e197] [cursor=pointer]:
+                    - /url: https://www.hexahealth.com/lucknow/doctor/dr-manish-khanna-orthopedic-doctor
+                - paragraph [ref=e199]: Orthopedic Surgeon
+                - generic [ref=e200] [cursor=pointer]:
+                  - generic [ref=e201]:
+                    - paragraph [ref=e203]:
+                      - generic [ref=e204]: 20+ Years
+                    - paragraph [ref=e205]: Experience
+                  - generic [ref=e206]:
+                    - paragraph [ref=e208]:
+                      - generic [ref=e209]: 99%
+                    - paragraph [ref=e210]: Recommended
+            - button "Book Appointment" [ref=e212] [cursor=pointer]
+        - generic [ref=e213]:
+          - heading "Patient Reviews of Apley Orthopaedic Centre, Gomti Nagar, Lucknow" [level=2] [ref=e214]
+          - generic [ref=e215]:
+            - generic [ref=e216]:
+              - heading "4.2" [level=3] [ref=e218]
+              - paragraph [ref=e219]: Based on 98 ratings
+            - generic [ref=e220] [cursor=pointer]: Write a Review
+          - separator [ref=e221]
+          - generic [ref=e223] [cursor=pointer]:
+            - img "Write a Review" [ref=e224]
+            - paragraph [ref=e225]: No text reviews yet. Share your feedback and rate us!
+        - generic [ref=e226]:
+          - generic [ref=e227]:
+            - heading "Top Specialities & Treatments Available at Apley Orthopaedic Centre, Gomti Nagar, Lucknow" [level=2] [ref=e229] [cursor=pointer]
+            - generic "Top Specialities & Treatments Available at Apley Orthopaedic Centre, Gomti Nagar, Lucknow" [ref=e230]:
+              - generic [ref=e234]:
+                - generic [ref=e235]:
+                  - generic [ref=e236]: Apley Orthopaedic Centre, Gomti Nagar, Lucknow specialises in the following specialities and treatments, all provided by a team of renowned and highly skilled doctors.
+                  - generic [ref=e237] [cursor=pointer]: read more
+                - heading "Orthopaedic (40)" [level=3] [ref=e241] [cursor=pointer]
+          - heading "Amenities" [level=2] [ref=e244] [cursor=pointer]
+        - button "Request for correction" [ref=e246] [cursor=pointer]
+        - generic [ref=e247]:
+          - heading "Health Insurance Plans Accepted at Apley Orthopaedic Centre, Gomti Nagar, Lucknow" [level=2] [ref=e248]
+          - generic [ref=e249]:
+            - paragraph [ref=e251]: Apley Orthopaedic Centre, Gomti Nagar, Lucknow deals with the flexible insurance options to get your emergency and health treatment done through Empanelled TPA. Check the list of all panelled insurance accepted by Apley Orthopaedic Centre, Gomti Nagar, Lucknow.
+            - generic [ref=e252] [cursor=pointer]: read more
+          - generic [ref=e253]:
+            - generic [ref=e254]:
+              - link "Bharti AXA Health Insurance Logo Bharti AXA Health Insurance" [ref=e256] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals/insurance/bharti-axa-health-insurance
+                - img "Bharti AXA Health Insurance Logo" [ref=e257]
+                - text: Bharti AXA Health Insurance
+              - link "Edelweiss Health Insurance Logo Edelweiss Health Insurance" [ref=e259] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals/insurance/edelweiss-health-insurance
+                - img "Edelweiss Health Insurance Logo" [ref=e260]
+                - text: Edelweiss Health Insurance
+              - link "Future Generali Health Insurance Logo Future Generali Health Insurance" [ref=e262] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals/insurance/future-generali-health-insurance
+                - img "Future Generali Health Insurance Logo" [ref=e263]
+                - text: Future Generali Health Insurance
+              - link "Max Bupa Health Insurance Logo Max Bupa Health Insurance" [ref=e265] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals/insurance/max-bupa-health-insurance
+                - img "Max Bupa Health Insurance Logo" [ref=e266]
+                - text: Max Bupa Health Insurance
+              - link "National Insurance Logo National Insurance" [ref=e268] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals/insurance/national-insurance
+                - img "National Insurance Logo" [ref=e269]
+                - text: National Insurance
+              - link "Navi General Logo Navi General" [ref=e271] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals/insurance/navi-general
+                - img "Navi General Logo" [ref=e272]
+                - text: Navi General
+              - link "New India Assurance Logo New India Assurance" [ref=e274] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals/insurance/new-india-assurance
+                - img "New India Assurance Logo" [ref=e275]
+                - text: New India Assurance
+              - link "Oriental Insurance Logo Oriental Insurance" [ref=e277] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals/insurance/oriental-insurance
+                - img "Oriental Insurance Logo" [ref=e278]
+                - text: Oriental Insurance
+              - link "Raheja QBE Logo Raheja QBE" [ref=e280] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals/insurance/raheja-qbe
+                - img "Raheja QBE Logo" [ref=e281]
+                - text: Raheja QBE
+              - link "Reliance General Insurance Logo Reliance General Insurance" [ref=e283] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals/insurance/reliance-general-insurance
+                - img "Reliance General Insurance Logo" [ref=e284]
+                - text: Reliance General Insurance
+            - generic [ref=e285]:
+              - separator [ref=e286]
+              - button "Show more" [ref=e287] [cursor=pointer]
+              - separator [ref=e288]
+        - img [ref=e291] [cursor=pointer]
+        - generic [ref=e294]:
+          - heading "FAQs" [level=2] [ref=e295]
+          - generic [ref=e296]:
+            - heading "Where is Apley Orthopaedic Centre, Gomti Nagar, Lucknow located?" [level=3] [ref=e300] [cursor=pointer]
+            - heading "How to book an online appointment with Apley Orthopaedic Centre, Gomti Nagar, Lucknow?" [level=3] [ref=e304] [cursor=pointer]
+            - heading "Which specialities and treatments are offered by Apley Orthopaedic Centre, Gomti Nagar, Lucknow?" [level=3] [ref=e308] [cursor=pointer]
+            - heading "Who are the top doctors working in Apley Orthopaedic Centre, Gomti Nagar, Lucknow?" [level=3] [ref=e312] [cursor=pointer]
+            - heading "What is the contact number of Apley Orthopaedic Centre, Gomti Nagar, Lucknow?" [level=3] [ref=e316] [cursor=pointer]
+            - heading "What are the facilities available at the Apley Orthopaedic Centre, Gomti Nagar, Lucknow?" [level=3] [ref=e320] [cursor=pointer]
+            - heading "Does Apley Orthopaedic Centre, Gomti Nagar, Lucknow accept medical insurance?" [level=3] [ref=e324] [cursor=pointer]
+            - heading "Which are the top empanelled insurances with Apley Orthopaedic Centre, Gomti Nagar, Lucknow?" [level=3] [ref=e328] [cursor=pointer]
+            - heading "Is Apley Orthopaedic Centre, Gomti Nagar, Lucknow empanelled for CGHS facility ?" [level=3] [ref=e332] [cursor=pointer]
+            - heading "Is Ayushman Bharat Card applicable in Apley Orthopaedic Centre, Gomti Nagar, Lucknow?" [level=3] [ref=e336] [cursor=pointer]
+            - heading "What are the working hours of Apley Orthopaedic Centre, Gomti Nagar, Lucknow?" [level=3] [ref=e340] [cursor=pointer]
+            - heading "What are the reviews and ratings of Apley Orthopaedic Centre, Gomti Nagar, Lucknow?" [level=3] [ref=e344] [cursor=pointer]
+        - img [ref=e347] [cursor=pointer]
+        - generic [ref=e349]:
+          - button "Talk to Expert Now" [ref=e350] [cursor=pointer]
+          - link "Chat on WhatsApp Now" [ref=e351] [cursor=pointer]:
+            - /url: https://wa.me/918860688606?text=Hi, I want to connect with an expert from  Apley Orthopaedic Centre, Gomti Nagar, Lucknow Hospital-ID=4400 Tier-ID=2
+      - generic [ref=e354]:
+        - paragraph [ref=e356]: Book Appointment
+        - generic [ref=e357]:
+          - textbox "Enter your name*" [ref=e361]
+          - generic [ref=e365]:
+            - generic [ref=e366]: "+91"
+            - spinbutton [ref=e368]
+          - button "Select Speciality" [ref=e372] [cursor=pointer]
+          - generic [ref=e374]:
+            - paragraph [ref=e375]: Have you consulted Apley Orthopaedic Centre, Gomti Nagar, Lucknow before?*
+            - generic [ref=e376]:
+              - generic [ref=e377]:
+                - radio [ref=e378]
+                - generic [ref=e379]: "Yes"
+              - generic [ref=e380]:
+                - radio [ref=e381]
+                - generic [ref=e382]: "No"
+          - generic [ref=e384]:
+            - paragraph [ref=e385]: This hospital is not associated with HexaHealth. Would you like to book appointment in another hospital?*
+            - generic [ref=e386]:
+              - generic [ref=e387]:
+                - radio [ref=e388]
+                - generic [ref=e389]: "Yes"
+              - generic [ref=e390]:
+                - radio [ref=e391]
+                - generic [ref=e392]: "No"
+          - button "Book Appointment" [ref=e393] [cursor=pointer]
+          - paragraph [ref=e394]:
+            - text: "*By proceeding, you agree to our"
+            - link "terms and conditions" [ref=e395] [cursor=pointer]:
+              - /url: /terms-conditions
+    - generic [ref=e396]:
+      - paragraph [ref=e398]: Latest Health Articles
+      - generic [ref=e399]:
+        - generic [ref=e401]:
+          - 'link "Prevent Weight Regain After Sleeve Gastrectomy Prevent Weight Regain After Sleeve Gastrectomy Reviewed By: HexaHealth Care Team Last Updated on 24th July" [ref=e403] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/blog/prevent-weight-regain-after-sleeve-gastrectomy
+            - generic [ref=e404]:
+              - img "Prevent Weight Regain After Sleeve Gastrectomy" [ref=e406]
+              - generic [ref=e407]:
+                - paragraph [ref=e408]: Prevent Weight Regain After Sleeve Gastrectomy
+                - generic [ref=e409]:
+                  - generic [ref=e411]:
+                    - generic [ref=e412]: "Reviewed By:"
+                    - generic [ref=e413]: HexaHealth Care Team
+                  - generic [ref=e414]:
+                    - generic [ref=e415]: Last Updated on
+                    - generic [ref=e416]: 24th July
+          - 'link "Prevention of Anemia: Diet, Lifestyle, Screening & Complete Guide Prevention of Anemia: Diet, Lifestyle, Screening & Complete Guide Reviewed By: HexaHealth Care Team Last Updated on 20th July" [ref=e418] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/blog/prevention-of-anemia
+            - generic [ref=e419]:
+              - 'img "Prevention of Anemia: Diet, Lifestyle, Screening & Complete Guide" [ref=e421]'
+              - generic [ref=e422]:
+                - paragraph [ref=e423]: "Prevention of Anemia: Diet, Lifestyle, Screening & Complete Guide"
+                - generic [ref=e424]:
+                  - generic [ref=e426]:
+                    - generic [ref=e427]: "Reviewed By:"
+                    - generic [ref=e428]: HexaHealth Care Team
+                  - generic [ref=e429]:
+                    - generic [ref=e430]: Last Updated on
+                    - generic [ref=e431]: 20th July
+          - 'link "Balanitis Treatment Cost (2026) - Medicine, Laser & Stapler Balanitis Treatment Cost (2026) - Medicine, Laser & Stapler Reviewed By: HexaHealth Care Team Last Updated on 29th June" [ref=e433] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/blog/balanitis-treatment-cost
+            - generic [ref=e434]:
+              - img "Balanitis Treatment Cost (2026) - Medicine, Laser & Stapler" [ref=e436]
+              - generic [ref=e437]:
+                - paragraph [ref=e438]: Balanitis Treatment Cost (2026) - Medicine, Laser & Stapler
+                - generic [ref=e439]:
+                  - generic [ref=e441]:
+                    - generic [ref=e442]: "Reviewed By:"
+                    - generic [ref=e443]: HexaHealth Care Team
+                  - generic [ref=e444]:
+                    - generic [ref=e445]: Last Updated on
+                    - generic [ref=e446]: 29th June
+          - 'link "Alcon IOL Lens Price in India 2026 : Types, Cost Breakdown Alcon IOL Lens Price in India 2026 : Types, Cost Breakdown Reviewed By: HexaHealth Care Team Last Updated on 26th June" [ref=e448] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/blog/alcon-iol-lens-price-in-india
+            - generic [ref=e449]:
+              - 'img "Alcon IOL Lens Price in India 2026 : Types, Cost Breakdown" [ref=e451]'
+              - generic [ref=e452]:
+                - paragraph [ref=e453]: "Alcon IOL Lens Price in India 2026 : Types, Cost Breakdown"
+                - generic [ref=e454]:
+                  - generic [ref=e456]:
+                    - generic [ref=e457]: "Reviewed By:"
+                    - generic [ref=e458]: HexaHealth Care Team
+                  - generic [ref=e459]:
+                    - generic [ref=e460]: Last Updated on
+                    - generic [ref=e461]: 26th June
+          - 'link "LASIK Eye Surgery Cost in Narayana Nethralaya, Bangalore LASIK Eye Surgery Cost in Narayana Nethralaya, Bangalore Reviewed By: HexaHealth Care Team Last Updated on 8th April" [ref=e463] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/blog/lasik-eye-surgery-cost-in-narayana-nethralaya-bangalore
+            - generic [ref=e464]:
+              - img "LASIK Eye Surgery Cost in Narayana Nethralaya, Bangalore" [ref=e466]
+              - generic [ref=e467]:
+                - paragraph [ref=e468]: LASIK Eye Surgery Cost in Narayana Nethralaya, Bangalore
+                - generic [ref=e469]:
+                  - generic [ref=e471]:
+                    - generic [ref=e472]: "Reviewed By:"
+                    - generic [ref=e473]: HexaHealth Care Team
+                  - generic [ref=e474]:
+                    - generic [ref=e475]: Last Updated on
+                    - generic [ref=e476]: 8th April
+          - 'link "What are the Narayana Hrudayalaya health checkup packages price? What are the Narayana Hrudayalaya health checkup packages price? Reviewed By: HexaHealth Care Team Last Updated on 30th March" [ref=e478] [cursor=pointer]':
+            - /url: https://www.hexahealth.com/blog/what-are-the-narayana-hrudayalaya-health-checkup-packages-price
+            - generic [ref=e479]:
+              - img "What are the Narayana Hrudayalaya health checkup packages price?" [ref=e481]
+              - generic [ref=e482]:
+                - paragraph [ref=e483]: What are the Narayana Hrudayalaya health checkup packages price?
+                - generic [ref=e484]:
+                  - generic [ref=e486]:
+                    - generic [ref=e487]: "Reviewed By:"
+                    - generic [ref=e488]: HexaHealth Care Team
+                  - generic [ref=e489]:
+                    - generic [ref=e490]: Last Updated on
+                    - generic [ref=e491]: 30th March
+        - generic [ref=e492]:
+          - button "Go to slide 1" [ref=e493] [cursor=pointer]
+          - button "Go to slide 2" [ref=e494] [cursor=pointer]
+      - button "Previous slide" [disabled] [ref=e495]:
+        - img [ref=e496]
+      - button "Next slide" [ref=e498] [cursor=pointer]:
+        - img [ref=e499]
+    - generic [ref=e501]:
+      - paragraph [ref=e502]: Top Hospitals in Lucknow
+      - generic [ref=e503]:
+        - paragraph [ref=e506]:
+          - link "Chandan Hospital, Gomti Nagar" [ref=e507] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/chandan-hospital-lucknow
+        - paragraph [ref=e510]:
+          - link "Sahara Hospital (Max Healthcare), Gomti Nagar" [ref=e511] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/sahara-hospital-lucknow
+        - paragraph [ref=e514]:
+          - link "Midland Healthcare And Research Center" [ref=e515] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/midland-healthcare-and-research-center
+        - paragraph [ref=e518]:
+          - link "Jagrani Hospital, Lucknow" [ref=e519] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/jagrani-hospital-lucknow
+        - paragraph [ref=e522]:
+          - link "Tender Palm Hospital, Lucknow" [ref=e523] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/tender-palm-hospital-lucknow
+        - paragraph [ref=e526]:
+          - link "Holistic Touch Physical Therapy and Wellness Clinics" [ref=e527] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/holistic-touch-physical-therapy-and-wellness-clinics
+        - paragraph [ref=e530]:
+          - link "SKD Hospital, Alambagh" [ref=e531] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/skd-hospital
+        - paragraph [ref=e534]:
+          - link "Nova Hospital, Gomti Nagar" [ref=e535] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/nova-hospital-gomti-nagar
+        - paragraph [ref=e538]:
+          - link "Shekhar Hospital, Indira Nagar" [ref=e539] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/shekhar-hospital-indira-nagar
+        - paragraph [ref=e542]:
+          - link "Divine Heart and Multispeciality Hospital" [ref=e543] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/divine-heart-and-multispeciality-hospital
+        - paragraph [ref=e546]:
+          - link "Krishna Medical Centre, Hazratganj" [ref=e547] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/krishna-medical-centre
+        - paragraph [ref=e550]:
+          - link "K K Hospital, Qaisar Bagh" [ref=e551] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/k-k-hospital-qaisar-bagh
+    - generic [ref=e552]:
+      - paragraph [ref=e553]: Other Hospital Profiles
+      - generic [ref=e554]:
+        - paragraph [ref=e557]:
+          - link "Career Institute of Medical Sciences and Hospital, Ghaila" [ref=e558] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/career-institute-of-medical-sciences-and-hospital-ghaila
+        - paragraph [ref=e561]:
+          - link "BMC Super Speciality Hospital, Nijampur Majhigaon" [ref=e562] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/bmc-super-speciality-hospital-nijampur-majhigaon
+        - paragraph [ref=e565]:
+          - link "King George Medical University, Chowk" [ref=e566] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/king-george-medical-university-chowk
+        - paragraph [ref=e569]:
+          - link "Alyantra Medicity Super Speciality Hospital, Gomti Nagar" [ref=e570] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/alyantra-medicity-super-speciality-hospital-gomti-nagar
+        - paragraph [ref=e573]:
+          - link "Dr KNS Memorial Hospital, Gomti Nagar" [ref=e574] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/dr-kns-memorial-hospital-gomti-nagar
+        - paragraph [ref=e577]:
+          - link "Dr Ram Manohar Lohia Institute of Medical Sciences, Gomti Nagar" [ref=e578] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/dr-ram-manohar-lohia-institute-of-medical-sciences-gomti-nagar
+        - paragraph [ref=e581]:
+          - link "Sewa Hospital and Research Centre" [ref=e582] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/sewa-hospital-and-research-centre
+        - paragraph [ref=e585]:
+          - link "St Joseph Hospital, Gomti Nagar" [ref=e586] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/st-joseph-hospital-gomti-nagar
+        - paragraph [ref=e589]:
+          - link "Wellsun Medicity Super Specialty Hospital" [ref=e590] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/wellsun-medicity-super-specialty
+        - paragraph [ref=e593]:
+          - link "Sushma Hospital, Indira Nagar" [ref=e594] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/sushma-hospital-indira-nagar
+        - paragraph [ref=e597]:
+          - link "Prakash Netra Kendr (Unit of ASG Eye Hospitals), Gomti Nagar" [ref=e598] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/prakash-netra-kendr-gomti-nagar
+        - paragraph [ref=e601]:
+          - link "Prakash Netra Kendr (PNK), Aliganj" [ref=e602] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/lucknow/hospital/prakash-netra-kendr-aliganj
+    - generic [ref=e603]:
+      - paragraph [ref=e604]: Top Treatments in Lucknow
+      - generic [ref=e605]:
+        - paragraph [ref=e608]:
+          - link "Arthroscopy" [ref=e609] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/arthroscopy-surgery
+        - paragraph [ref=e612]:
+          - link "Spine Surgery" [ref=e613] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/spine-surgery
+        - paragraph [ref=e616]:
+          - link "Osteotomy" [ref=e617] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/osteotomy
+        - paragraph [ref=e620]:
+          - link "Amputation" [ref=e621] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/amputation
+        - paragraph [ref=e624]:
+          - link "ACL Reconstruction Surgery" [ref=e625] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/acl-reconstruction-surgery
+        - paragraph [ref=e628]:
+          - link "PCL Reconstruction Surgery" [ref=e629] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/pcl-reconstruction-surgery
+        - paragraph [ref=e632]:
+          - link "Meniscus Repair Surgery" [ref=e633] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/meniscus-repair-surgery
+        - paragraph [ref=e636]:
+          - link "Shoulder Arthroscopy" [ref=e637] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/shoulder-arthroscopy
+        - paragraph [ref=e640]:
+          - link "Knee Arthroscopy" [ref=e641] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/knee-arthroscopy
+        - paragraph [ref=e644]:
+          - link "Ankle Arthroscopy" [ref=e645] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/ankle-arthroscopy
+        - paragraph [ref=e648]:
+          - link "Hip Arthroscopy" [ref=e649] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/hip-arthroscopy
+        - paragraph [ref=e652]:
+          - link "Cervical Disc Surgery" [ref=e653] [cursor=pointer]:
+            - /url: https://www.hexahealth.com/treatment/cervical-disc-surgery
+    - link "get the app" [ref=e654] [cursor=pointer]:
+      - /url: https://m.hexahealth.com/qLo3
+      - img "get the app" [ref=e657]
+  - generic [ref=e658]:
+    - generic [ref=e659]:
+      - generic [ref=e664] [cursor=pointer]:
+        - generic [ref=e666]: Top Doctors
+        - generic [ref=e668]: Top Hospitals
+        - generic [ref=e670]: Treatments
+        - generic [ref=e672]: Ayushman Bharat
+        - generic [ref=e674]: Insurance
+      - generic [ref=e675]:
+        - generic [ref=e677]:
+          - generic [ref=e678]:
+            - generic [ref=e679]: Address
+            - generic [ref=e680]: Vianam Healthtech Private Limited (HexaHealth), Third Floor Building B, The Presidency, 46/4, Sector 14, Mehrauli Gurgaon Road, Gurgaon, Haryana 122001
+          - generic [ref=e681]:
+            - generic [ref=e682]: Follow Us
+            - generic [ref=e683]:
+              - link "Facebook" [ref=e685] [cursor=pointer]:
+                - /url: https://www.facebook.com/HexaHealthLive
+                - img "Facebook" [ref=e686]
+              - link "Twitter" [ref=e688] [cursor=pointer]:
+                - /url: https://www.twitter.com/hexahealthlive
+                - img "Twitter" [ref=e689]
+              - link "Linkedin" [ref=e691] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/hexahealth
+                - img "Linkedin" [ref=e692]
+              - link "Instagramr" [ref=e694] [cursor=pointer]:
+                - /url: https://www.instagram.com/hexahealthofficial/
+                - img "Instagram" [ref=e695]
+              - link "youtube" [ref=e697] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCsS6Q5M3KqdJ1WWuy5JRmIg
+                - img "YouTube" [ref=e698]
+          - generic [ref=e699]:
+            - link "Facebook" [ref=e700] [cursor=pointer]:
+              - /url: https://m.hexahealth.com/qLo3
+              - img "Facebook" [ref=e701]
+            - link "Facebook" [ref=e702] [cursor=pointer]:
+              - /url: https://m.hexahealth.com/qLo3
+              - img "Facebook" [ref=e703]
+        - generic [ref=e705]:
+          - text: Medical Tests
+          - list [ref=e706]:
+            - listitem [ref=e707]:
+              - link "MPV Blood Test in Hindi" [ref=e708] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/mpv-blood-test-in-hindi
+          - list [ref=e709]:
+            - listitem [ref=e710]:
+              - link "MCH Blood Test in Hindi" [ref=e711] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/mch-blood-test-in-hindi
+          - list [ref=e712]:
+            - listitem [ref=e713]:
+              - link "ESR Blood Test" [ref=e714] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/esr-blood-test
+          - list [ref=e715]:
+            - listitem [ref=e716]:
+              - link "Double Marker Test" [ref=e717] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/double-marker-test
+          - list [ref=e718]:
+            - listitem [ref=e719]:
+              - link "HCT Blood Test in Hindi" [ref=e720] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/hct-blood-test-in-hindi
+          - list [ref=e721]:
+            - listitem [ref=e722]:
+              - link "TB Gold Test" [ref=e723] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/tb-gold-test
+          - list [ref=e724]:
+            - listitem [ref=e725]:
+              - link "CA 125 Blood Test" [ref=e726] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/ca-125-blood-test
+          - list [ref=e727]:
+            - listitem [ref=e728]:
+              - link "CA 125 Test in Hindi" [ref=e729] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/ca-125-test-in-hindi
+          - list [ref=e730]:
+            - listitem [ref=e731]:
+              - link "SGPT Test" [ref=e732] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/sgpt-test
+          - list [ref=e733]:
+            - listitem [ref=e734]:
+              - link "ANC Profile Test" [ref=e735] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/anc-profile-test
+          - list [ref=e736]:
+            - listitem [ref=e737]:
+              - link "Serum Iron Test" [ref=e738] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/serum-iron-test
+          - list [ref=e739]:
+            - listitem [ref=e740]:
+              - link "RGU Test" [ref=e741] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/test/rgu-test
+          - list [ref=e742]:
+            - listitem [ref=e743]:
+              - link "Double Marker Test in Hindi" [ref=e744] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/test/double-marker-test-in-hindi
+        - generic [ref=e746]:
+          - text: HexaHealth
+          - list [ref=e747]:
+            - listitem [ref=e748]:
+              - link "About Us" [ref=e749] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/about-us
+          - list [ref=e750]:
+            - listitem [ref=e751]:
+              - link "Contact Us" [ref=e752] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/contact-us
+          - list [ref=e753]:
+            - listitem [ref=e754]:
+              - link "For Investors" [ref=e755] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/investor
+          - list [ref=e756]:
+            - listitem [ref=e757]:
+              - link "Partner With Us" [ref=e758] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/partner-with-us
+          - list [ref=e759]:
+            - listitem [ref=e760]:
+              - link "FAQs" [ref=e761] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/faq
+          - list [ref=e762]:
+            - listitem [ref=e763]:
+              - link "Press & Media" [ref=e764] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/press
+          - list [ref=e765]:
+            - listitem [ref=e766]:
+              - link "Medical Reviewers" [ref=e767] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/reviewers
+          - list [ref=e768]:
+            - listitem [ref=e769]:
+              - link "Authors" [ref=e770] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/authors
+          - list [ref=e771]:
+            - listitem [ref=e772]:
+              - link "Careers" [ref=e773] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/careers
+          - list [ref=e774]:
+            - listitem [ref=e775]:
+              - link "Site Map" [ref=e776] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/sitemap.xml
+        - generic [ref=e778]:
+          - text: Policies
+          - list [ref=e779]:
+            - listitem [ref=e780]:
+              - link "Privacy Policy" [ref=e781] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/privacy
+          - list [ref=e782]:
+            - listitem [ref=e783]:
+              - link "Refund Policy" [ref=e784] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/refund-policy
+          - list [ref=e785]:
+            - listitem [ref=e786]:
+              - link "Terms & Conditions" [ref=e787] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/terms-conditions
+          - list [ref=e788]:
+            - listitem [ref=e789]:
+              - link "Editorial Policy" [ref=e790] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/editorial-policy
+        - generic [ref=e792]:
+          - text: For Patients
+          - list [ref=e793]:
+            - listitem [ref=e794]:
+              - link "All Doctors" [ref=e795] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/doctors
+          - list [ref=e796]:
+            - listitem [ref=e797]:
+              - link "All Hospitals" [ref=e798] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals
+          - list [ref=e799]:
+            - listitem [ref=e800]:
+              - link "All Conditions" [ref=e801] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/condition
+          - list [ref=e802]:
+            - listitem [ref=e803]:
+              - link "All Treatments" [ref=e804] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/treatment
+          - list [ref=e805]:
+            - listitem [ref=e806]:
+              - link "All Departments" [ref=e807] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/departments
+          - list [ref=e808]:
+            - listitem [ref=e809]:
+              - link "Second Opinion" [ref=e810] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/services/second-opinion
+          - list [ref=e811]:
+            - listitem [ref=e812]:
+              - link "Medical Loan" [ref=e813] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/services/medical-loan
+          - list [ref=e814]:
+            - listitem [ref=e815]:
+              - link "BMI Calculator" [ref=e816] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/tools/bmi-calculator
+          - list [ref=e817]:
+            - listitem [ref=e818]:
+              - link "English Blog" [ref=e819] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/blog
+          - list [ref=e820]:
+            - listitem [ref=e821]:
+              - link "Hindi Blog" [ref=e822] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hi/blog
+          - list [ref=e823]:
+            - listitem [ref=e824]:
+              - link "HexaHealth Reviews" [ref=e825] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/reviews
+          - list [ref=e826]:
+            - listitem [ref=e827]:
+              - link "All Cities" [ref=e828] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/india
+          - list [ref=e829]:
+            - listitem [ref=e830]:
+              - link "All Insurance Hospitals" [ref=e831] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/hospitals/insurance
+          - list [ref=e832]:
+            - listitem [ref=e833]:
+              - link "Health Policy Assistant" [ref=e834] [cursor=pointer]:
+                - /url: https://www.hexahealth.com/health-insurance-policy-help
+    - generic [ref=e836]: Vianam Healthtech Private Limited © 2026. All Rights Reserved.
+  - alert [ref=e837]
+```
