@@ -7087,9 +7087,9 @@
           - generic [ref=e6931] [cursor=pointer]: Others
         - generic [ref=e6934]:
           - generic [ref=e6936]:
-            - link "Is Knee Replacement Surgery Available for Senior Citizens?" [ref=e6937] [cursor=pointer]:
-              - /url: https://www.hexahealth.com/questions/orthopaedics/is-knee-replacement-surgery-available-for-senior-citizens
-              - paragraph [ref=e6938]: Is Knee Replacement Surgery Available for Senior Citizens?
+            - link "Can L4-L5 S1 Endoscopic Spine Surgery Be Done Under Ayushman Card?" [ref=e6937] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/questions/orthopaedics/can-l4-l5-s1-endoscopic-spine-surgery-be-done-under-ayushman-card
+              - paragraph [ref=e6938]: Can L4-L5 S1 Endoscopic Spine Surgery Be Done Under Ayushman Card?
             - generic [ref=e6939]:
               - generic [ref=e6942]:
                 - generic [ref=e6943]: H
@@ -7098,12 +7098,12 @@
                   - generic [ref=e6947]:
                     - img "Medical Content Reviewer" [ref=e6948]
                     - text: Expert
-              - generic [ref=e6950]: Dear Ranjana Jain ji, Ji Haan, senior citizens ke liye...
+              - generic [ref=e6950]: Hello, Ji Haan, L4-L5 ya L5-S1 ki spine problem ke...
               - generic [ref=e6952]: View All Answers
           - generic [ref=e6957]:
-            - link "Is heart bypass surgery covered under Ayushman Bharat scheme?" [ref=e6958] [cursor=pointer]:
-              - /url: https://www.hexahealth.com/questions/cardiology-heart/is-heart-bypass-surgery-covered-under-ayushman-bharat-scheme
-              - paragraph [ref=e6959]: Is heart bypass surgery covered under Ayushman Bharat scheme?
+            - link "What Treatment and Surgery Are Available for Gallbladder Stones?" [ref=e6958] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/questions/general-surgery/what-treatment-and-surgery-are-available-for-gallbladder-stones
+              - paragraph [ref=e6959]: What Treatment and Surgery Are Available for Gallbladder Stones?
             - generic [ref=e6960]:
               - generic [ref=e6963]:
                 - generic [ref=e6964]: H
@@ -7112,12 +7112,12 @@
                   - generic [ref=e6968]:
                     - img "Medical Content Reviewer" [ref=e6969]
                     - text: Expert
-              - generic [ref=e6971]: Hello, Yes, heart bypass surgery (CABG) is covered under Ayushman...
+              - generic [ref=e6971]: Hello, Haan ji, pittaashay ki thaili mein pathri ka treatment...
               - generic [ref=e6973]: View All Answers
           - generic [ref=e6978]:
-            - link "What Treatment Is Needed for an Increased Gap in the Spine Requiring Surgery?" [ref=e6979] [cursor=pointer]:
-              - /url: https://www.hexahealth.com/questions/orthopaedics/what-treatment-is-needed-for-an-increased-gap-in-the-spine-requiring-surgery
-              - paragraph [ref=e6980]: What Treatment Is Needed for an Increased Gap in the Spine Requiring Surgery?
+            - link "Which Hospitals in Meerut Accept the Ayushman Card for Senior Citizens?" [ref=e6979] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/questions/others/which-hospitals-in-meerut-accept-the-ayushman-card-for-senior-citizens
+              - paragraph [ref=e6980]: Which Hospitals in Meerut Accept the Ayushman Card for Senior Citizens?
             - generic [ref=e6981]:
               - generic [ref=e6984]:
                 - generic [ref=e6985]: H
@@ -7126,12 +7126,12 @@
                   - generic [ref=e6989]:
                     - img "Medical Content Reviewer" [ref=e6990]
                     - text: Expert
-              - generic [ref=e6992]: Dear Maya waygankar ji It is completely understandable to feel...
+              - generic [ref=e6992]: नमस्कार, मेरठ में आयुष्मान कार्ड से इलाज कराने के लिए...
               - generic [ref=e6994]: View All Answers
           - generic [ref=e6999]:
-            - link "Can Ayushman Bharat cover scar removal surgery?" [ref=e7000] [cursor=pointer]:
-              - /url: https://www.hexahealth.com/questions/plastic-surgery/can-ayushman-bharat-cover-scar-removal-surgery
-              - paragraph [ref=e7001]: Can Ayushman Bharat cover scar removal surgery?
+            - link "Is a Neurologist Available at the Hospital?" [ref=e7000] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/questions/others/is-a-neurologist-available-at-the-hospital
+              - paragraph [ref=e7001]: Is a Neurologist Available at the Hospital?
             - generic [ref=e7002]:
               - generic [ref=e7005]:
                 - generic [ref=e7006]: H
@@ -7140,12 +7140,12 @@
                   - generic [ref=e7010]:
                     - img "Medical Content Reviewer" [ref=e7011]
                     - text: Expert
-              - generic [ref=e7013]: Hello, Nahi, sirf purane operation ke nishaan (scar) ko hatane...
+              - generic [ref=e7013]: Dear New Community Lead ji, Yes, we can help you...
               - generic [ref=e7015]: View All Answers
           - generic [ref=e7020]:
-            - link "Is delivery for pregnant women covered under the Ayushman Bharat PM-JAY scheme?" [ref=e7021] [cursor=pointer]:
-              - /url: https://www.hexahealth.com/questions/womens-health/is-delivery-for-pregnant-women-covered-under-the-ayushman-bharat-pm-jay-scheme
-              - paragraph [ref=e7022]: Is delivery for pregnant women covered under the Ayushman Bharat PM-JAY scheme?
+            - link "Which Cardiologist Is Available at This Hospital?" [ref=e7021] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/questions/cardiology-heart/which-cardiologist-is-available-at-this-hospital
+              - paragraph [ref=e7022]: Which Cardiologist Is Available at This Hospital?
             - generic [ref=e7023]:
               - generic [ref=e7026]:
                 - generic [ref=e7027]: H
@@ -7154,12 +7154,12 @@
                   - generic [ref=e7031]:
                     - img "Medical Content Reviewer" [ref=e7032]
                     - text: Expert
-              - generic [ref=e7034]: Hello, Yes, delivery treatment for pregnant women is covered under...
+              - generic [ref=e7034]: Dear Arati Prashant Kadam ji, Yes, we can help you...
               - generic [ref=e7036]: View All Answers
           - generic [ref=e7041]:
-            - link "Which Hospitals in Kolkata Offer Phaco Eye Surgery for Cataract Treatment?" [ref=e7042] [cursor=pointer]:
-              - /url: https://www.hexahealth.com/questions/eye-health/which-hospitals-in-kolkata-offer-phaco-eye-surgery-for-cataract-treatment
-              - paragraph [ref=e7043]: Which Hospitals in Kolkata Offer Phaco Eye Surgery for Cataract Treatment?
+            - link "Is Knee Replacement Surgery Available for Senior Citizens?" [ref=e7042] [cursor=pointer]:
+              - /url: https://www.hexahealth.com/questions/orthopaedics/is-knee-replacement-surgery-available-for-senior-citizens
+              - paragraph [ref=e7043]: Is Knee Replacement Surgery Available for Senior Citizens?
             - generic [ref=e7044]:
               - generic [ref=e7047]:
                 - generic [ref=e7048]: H
@@ -7168,7 +7168,7 @@
                   - generic [ref=e7052]:
                     - img "Medical Content Reviewer" [ref=e7053]
                     - text: Expert
-              - generic [ref=e7055]: Dear Swapan Kumar Mukherjee ji, Yes, phaco eye surgery is...
+              - generic [ref=e7055]: Dear Ranjana Jain ji, Ji Haan, senior citizens ke liye...
               - generic [ref=e7057]: View All Answers
           - generic [ref=e7063]:
             - generic [ref=e7064]: Read More Questions Related To This Speciality
@@ -8183,35 +8183,35 @@
             - generic [ref=e8152]:
               - paragraph [ref=e8153]: Your Bloated Stomach Loves This 👀 | 6 Foods for Bloating
               - paragraph
-            - generic [ref=e8155]: 15 days ago
+            - generic [ref=e8155]: 16 days ago
         - generic [ref=e8158]:
           - img "Youtube" [ref=e8160]
           - generic [ref=e8162]:
             - generic [ref=e8163]:
               - paragraph [ref=e8164]: Your Organs Celebrate Ganesh Chaturthi Too 👀💛 | Happy Ganesh Chaturthi
               - paragraph
-            - generic [ref=e8166]: 18 days ago
+            - generic [ref=e8166]: 19 days ago
         - generic [ref=e8169]:
           - img "Youtube" [ref=e8171]
           - generic [ref=e8173]:
             - generic [ref=e8174]:
               - paragraph [ref=e8175]: Your Blocked Nose Loves This 👀 | 6 Foods for Cold & Congestion
               - paragraph
-            - generic [ref=e8177]: 20 days ago
+            - generic [ref=e8177]: 21 days ago
         - generic [ref=e8180]:
           - img "Youtube" [ref=e8182]
           - generic [ref=e8184]:
             - generic [ref=e8185]:
               - paragraph [ref=e8186]: Do Antibiotics Kill Good Bacteria Too?
               - paragraph
-            - generic [ref=e8188]: 22 days ago
+            - generic [ref=e8188]: 23 days ago
         - generic [ref=e8191]:
           - img "Youtube" [ref=e8193]
           - generic [ref=e8195]:
             - generic [ref=e8196]:
               - paragraph [ref=e8197]: Do Antibiotics Kill Good Bacteria Too?
               - paragraph
-            - generic [ref=e8199]: 22 days ago
+            - generic [ref=e8199]: 23 days ago
         - generic [ref=e8202]:
           - img "Youtube" [ref=e8204]
           - generic [ref=e8206]:
